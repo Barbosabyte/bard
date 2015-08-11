@@ -1,0 +1,2315 @@
+# Tagalog translation for jokosher
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the jokosher package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jokosher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-07 14:18+0100\n"
+"PO-Revision-Date: 2009-02-18 07:11+0000\n"
+"Last-Translator: Jerome S. Gotangco <jgotangco@ubuntu.com>\n"
+"Language-Team: Tagalog <tl@li.org>\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-02-26 00:44+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: ../../gtk-builder-ui/AboutDialog.ui:10
+msgid ""
+"Audio production made simple.\n"
+"Version 0.11.5"
+msgstr ""
+
+#. TRANSLATORS: Replace this string with your names, one name per line.
+#: ../../gtk-builder-ui/AboutDialog.ui:384
+msgid ""
+"Iestyn Pryce <dylunio@gmail.com>\n"
+"Jerome S. Gotangco <jgotangco@ubuntu.com>\n"
+"torb <torrb@musiker.nu>\n"
+"Robert Renling Berencreuz <berencreuz@gmail.com>\n"
+"Ola Jeppsson <ola.jeppsson@gmail.com>\n"
+"Daniel Nylander <po@danielnylander.se>\n"
+"aruiz <aruiz@synaptia.net>\n"
+"Manuel Duran Moyano <mduran@ubiobio.cl>\n"
+"Laszlo Pandy <laszlok2@gmail.com>\n"
+"Iván Edgardo Vázquez Santos \n"
+"David Corrales <corrales.david@gmail.com>\n"
+"Benjamin A'Lee <bma@bmalee.eu>\n"
+"Peter Baričič <pbaricic@gmail.com>\n"
+"Артём Попов <artfwo@gmail.com>\n"
+"deepred <psalmos@swissinfo.org>\n"
+"KeepYourMind <keepyourmind@gmail.com>\n"
+"Georgy Faradzhev <georgy.faradzhev@gmail.com>\n"
+"Gendolf <pr-baukalo@rambler.ru>\n"
+"Rodrigo NSH <rodrigo.nsh@gmail.com>\n"
+"Christian Reis <kiko@async.com.br>\n"
+"Lourabe Multimédia \n"
+"Tomasz Dominikowski <dominikowski@gmail.com>\n"
+"Konrad Adamczyk <konrad@svx.pl>\n"
+"Hender <simsalabimladen@gmail.com>\n"
+"sklp\n"
+"Bård Aase <base@kvarteret.no>\n"
+"Pecisk <pecisk@gmail.com>\n"
+"Luca Ferretti <elle.uca@libero.it>\n"
+"Daniele Medri <daniele@medri.org>\n"
+"Igor Khanin \n"
+"Tobias Frederick <me@tbfr.org>\n"
+"Tim Fuchs <tim.fuchs@gmail.com>\n"
+"Ramona Barte \n"
+"Marcus Hochstadt\n"
+"Lebowski\n"
+"Julian Turner\n"
+"Dennis Lichtenthäler <dennis.lichtenthaeler@episode-iv.de>\n"
+"dyphil <dyphil@wanadoo.fr>\n"
+"XioNoX \n"
+"Stemp <StempUbuntu@gmail.com>\n"
+"Signez\n"
+"Pierre Slamich <pierre.slamich@gmail.com>\n"
+"Nicolas Velin <nsv@fr.st>\n"
+"Jean-Francois Arseneau <jf.arseneau@gmail.com>\n"
+"Guillaume Hoffmann \n"
+"Gabriel de Perthuis <gabriel.de-perthuis@laposte.net>\n"
+"Bruno Bord <bruno@jehaisleprintemps.net>\n"
+"Mikko Virkkilä <mvirkkil@cc.hut.fi>\n"
+"Boyd Timothy\n"
+"William Anderson<neuro@well.com>\n"
+"Sridhar Dhanapalan <sridhar@dhanapalan.com>\n"
+"Roger Light <roger@atchoo.org>\n"
+"Malcolm Parsons\n"
+"Peturrr <peterdekraker@planet.nl>\n"
+"jerven Bolleman <ik@jerven.eu>\n"
+"Mathias-K <mathias@computergeil.dk>\n"
+"Niels Kjøller Hansen <niels.k.h@gmail.com>\n"
+"David Nielsen <david@lovesunix.net>\n"
+"daave <fan.d.liu@gmail.com>\n"
+msgstr ""
+"lestyn Pryce <dylunio@gmail.com>\n"
+"Jerome S. Gotangco <jgotangco@ubuntu.com>\n"
+"torb <torrb@musiker.nu>\n"
+"Robert Renling Berencreuz <berencreuz@gmail.com>\n"
+"Ola Jeppsson <ola.jeppsson@gmail.com>\n"
+"Daniel Nylander <po@danielnylander.se>\n"
+"aruiz <aruiz@synaptia.net>\n"
+"Manuel Duran Moyano <mduran@ubiobio.cl>\n"
+"Laszlo Pandy <laszlok2@gmail.com>\n"
+"Iván Edgardo Vázquez Santos\n"
+"David Corrales <corrales.david@gmail.com>\n"
+"Benjamin A'Lee <bma@bmalee.eu>\n"
+"Peter Baričič <pbaricic@gmail.com>\n"
+"Артём Попов <artfwo@gmail.com>\n"
+"deepred <psalmos@swissinfo.org>\n"
+"KeepYourMind <keepyourmind@gmail.com>\n"
+"Georgy Faradzhev <georgy.faradzhev@gmail.com>\n"
+"Gendolf <pr-baukalo@rambler.ru>\n"
+"Rodrigo NSH <rodrigo.nsh@gmail.com>\n"
+"Christian Reis <kiko@async.com.br>\n"
+"Lourabe Multimédia\n"
+"Tomasz Dominikowski <dominikowski@gmail.com>\n"
+"Konrad Adamczyk <konrad@svx.pl>\n"
+"Hender <simsalabimladen@gmail.com>\n"
+"sklp\n"
+"Bård Aase <base@kvarteret.no>\n"
+"Pecisk <pecisk@gmail.com>\n"
+"Luca Ferretti <elle.uca@libero.it>\n"
+"Daniele Medri <daniele@medri.org>\n"
+"Igor Khanin\n"
+"Tobias Frederick <me@tbfr.org>\n"
+"Tim Fuchs <tim.fuchs@gmail.com>\n"
+"Ramona Barte\n"
+"Marcus Hochstadt\n"
+"Lebowski\n"
+"Julian Turner\n"
+"Dennis Lichtenthäler <dennis.lichtenthaeler@episode-iv.de>\n"
+"dyphil <dyphil@wanadoo.fr>\n"
+"XioNoX\n"
+"Stemp <StempUbuntu@gmail.com>\n"
+"Signez\n"
+"Pierre Slamich <pierre.slamich@gmail.com>\n"
+"Nicolas Velin <nsv@fr.st>\n"
+"Jean-Francois Arseneau <jf.arseneau@gmail.com>\n"
+"Guillaume Hoffmann\n"
+"Gabriel de Perthuis <gabriel.de-perthuis@laposte.net>\n"
+"Bruno Bord <bruno@jehaisleprintemps.net>\n"
+"Mikko Virkkilä <mvirkkil@cc.hut.fi>\n"
+"Boyd Timothy\n"
+"William Anderson<neuro@well.com>\n"
+"Sridhar Dhanapalan <sridhar@dhanapalan.com>\n"
+"Roger Light <roger@atchoo.org>\n"
+"Malcolm Parsons\n"
+"Peturrr <peterdekraker@planet.nl>\n"
+"jerven Bolleman <ik@jerven.eu>\n"
+"Mathias-K <mathias@computergeil.dk>\n"
+"Niels Kjøller Hansen <niels.k.h@gmail.com>\n"
+"David Nielsen <david@lovesunix.net>\n"
+"daave <fan.d.liu@gmail.com\n"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:7
+msgid "Add an instrument"
+msgstr "Magdagdag ng instrumento"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:21
+msgid "Choose one or more instruments to add to your project."
+msgstr ""
+"Pumili ng isa o higit pang mga instrumento para idagdag sa iyong proyekto"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:37
+msgid "_Search:"
+msgstr ""
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:51
+msgid "Type here to search for an instrument"
+msgstr "Mag type dito para maghanap ng instrumento"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:96
+msgid "Don't add an instrument"
+msgstr "Huwag magdagdag ng instrumento"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:113
+msgid "Add the selected instrument"
+msgstr "Idagdag ang napiling instrumento"
+
+#: ../../gtk-builder-ui/AddMixdownActionDialog.ui:7
+msgid "Add Mixdown Action"
+msgstr ""
+
+#: ../../gtk-builder-ui/AddMixdownActionDialog.ui:24
+msgid ""
+"Please select the mixdown actions you would like to add to the mixdown "
+"profile *profile*"
+msgstr ""
+
+#: ../../gtk-builder-ui/AddMixdownActionDialog.ui:110
+msgid "Add Action"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:13
+msgid "Configure Export File Action"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:25
+msgid ""
+"Please enter the filename of the audio you wish to export. The audio will be "
+"exported to the location specified."
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:54
+msgid "File name:"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:65
+#: ../../Jokosher/JokosherApp.py:639
+msgid "Save as file type:"
+msgstr "Ilagak ang talaksan bilang:"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:115
+msgid "<b>File Details</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:144
+msgid "Export to local directory"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:160
+msgid "Export to remote server"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:200
+msgid "<b>Location Details</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:34
+msgid ""
+"<b>Jokosher is an Open Source project that is driven by a community of "
+"contributors. To make Jokosher rock, we need your help!</b>"
+msgstr ""
+"<b>Ang Jokosher ay isang Open Source na proyekto na mula sa komunidad ng mga "
+"nag-aambag ng tulong. Kailangan namin ang tulong niyo para lalong gumanda "
+"ang Jokosher!</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:55
+msgid "Testing Jokosher, and submitting bugs."
+msgstr "Pagsusuri sa Jokosher at pag-sumite ng mga pagkakamali"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:70
+msgid "Drawing icons, images and other art."
+msgstr "Gumuhit ng mga icons, larawan at iba pang sining."
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:85
+msgid "Writing simple to read documentation."
+msgstr "Magsulat ng dokumentasyon na madaling basahin at maintindihan"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:100
+msgid "Writing code and features in Python."
+msgstr "Magsulat ng code at mga dagdag na mga katangian sa Python"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:124
+msgid "<b>Testing</b>"
+msgstr "<b>Subukin</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:141
+msgid "<b>Art</b>"
+msgstr "<b>Sining</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:158
+msgid "<b>Documentation</b>"
+msgstr "<b>Dokumentasyon</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:207
+msgid "<b>Coding</b>"
+msgstr "<b>Coding</b>"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:18
+msgid "Settings"
+msgstr "Settings"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:47
+msgid "<b>Effect Name</b>"
+msgstr "<b>Ngalan ng Epekto</b>"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:112
+msgid "Save the current settings as a preset"
+msgstr ""
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:132
+msgid "Delete the currently active preset"
+msgstr ""
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:185
+msgid "Use these effect settings"
+msgstr ""
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:56
+msgid "Add an extension"
+msgstr "Magdagdag ng extension"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:76
+msgid "Remove the currently selected extension"
+msgstr ""
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:98
+#: ../../gtk-builder-ui/MainWindow.ui:315
+msgid "Edit Jokosher preferences"
+msgstr "Baguhin ang Jokosher preferences"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:123
+msgid "Close the extension manager"
+msgstr "Isarado ang extension manager"
+
+#: ../../gtk-builder-ui/InstrumentConnectionsDialog.ui:23
+msgid "Select the audio input to use with each instrument."
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentConnectionsDialog.ui:75
+msgid "C_hange Sound System"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentConnectionsDialog.ui:103
+msgid "Save your selections and close this window"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:18
+msgid "Configure Instrument Effects"
+msgstr "Ayusin ang mga epekto ng Instrumento"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:36
+msgid "<b>_Presets for:</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:78
+msgid "Save the currently active effects as a preset"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:98
+msgid "Delete the currently active effects preset"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:179
+msgid "Double-click an effect to activate it"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:197
+msgid "<b>Effects</b>"
+msgstr "<b>Mga Epekto</b>"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:217
+msgid "Activate the selected effect"
+msgstr "Patakbuhin ang napiling epekto"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:264
+msgid "Double-click an active effect to adjust its settings"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:293
+msgid "Move the selected active effect up on the effects chain"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:313
+msgid "Move the selected active effect down on the effects chain"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:333
+msgid "Deactivate the currently selected active effect"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:353
+msgid "Adjust the settings for the currently selected active effect"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:381
+msgid "<b>Active effects for: </b>"
+msgstr "<b>Mga Aktibong Epekto para:</b>"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:410
+msgid "Listen to these effects"
+msgstr "Pakinggan ang mga epekto na ito"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:427
+msgid "Use these effects"
+msgstr "Gamitin ang mga epekto"
+
+#: ../../gtk-builder-ui/MainWindow.ui:29
+msgid "_File"
+msgstr "_Talaksan"
+
+#: ../../gtk-builder-ui/MainWindow.ui:38
+msgid "Create a new project"
+msgstr "Lumikha ng bagong proyekto"
+
+#: ../../gtk-builder-ui/MainWindow.ui:50
+msgid "Open an existing project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:62
+msgid "Import an existing project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:73
+msgid "Open a project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:74
+msgid "_Switch Project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:91
+msgid "Save the current project"
+msgstr "Iluklok ang kasalukuyang proyekto"
+
+#: ../../gtk-builder-ui/MainWindow.ui:102
+msgid "Close the current project"
+msgstr "Isarado ang pangkasalukuyang proyekto"
+
+#: ../../gtk-builder-ui/MainWindow.ui:118
+#: ../../gtk-builder-ui/MainWindow.ui:482
+msgid "Add an instrument to the project"
+msgstr "Magdagdag ng instrumento sa proyekto"
+
+#: ../../gtk-builder-ui/MainWindow.ui:129
+#: ../../gtk-builder-ui/MainWindow.ui:497
+msgid "Add an audio file to the project"
+msgstr "Magdagdag ng audio file sa proyekto"
+
+#: ../../gtk-builder-ui/MainWindow.ui:140
+msgid "Manage instrument recording inputs"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:150
+msgid "Change the timeline"
+msgstr "Palitan ang timeline"
+
+#: ../../gtk-builder-ui/MainWindow.ui:151
+msgid "_Time Format"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:158
+msgid "Change the timeline to show bars, beats and ticks"
+msgstr "Palitan ang timeline para ipakita ang mga bars, beats at ticks"
+
+#: ../../gtk-builder-ui/MainWindow.ui:159
+msgid "Show as _Bars, Beats, Ticks"
+msgstr "Ipakita blaing _Bars, Beats, Ticks"
+
+#: ../../gtk-builder-ui/MainWindow.ui:167
+msgid "Change the timeline to show hours, minutes and seconds"
+msgstr "Palitan ang timeline para ipakita ang oras, minuto at segundo"
+
+#: ../../gtk-builder-ui/MainWindow.ui:168
+msgid "Show as _Hours, Minutes, Seconds"
+msgstr "Ipakita bilang _Oras, Minuto, Segundo"
+
+#: ../../gtk-builder-ui/MainWindow.ui:198
+msgid "Export current project to an audio file"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:214
+msgid "Quit Jokosher"
+msgstr "Isarado ang Jokosher"
+
+#: ../../gtk-builder-ui/MainWindow.ui:228
+msgid "_Edit"
+msgstr "I-_Edit"
+
+#: ../../gtk-builder-ui/MainWindow.ui:237
+msgid "Undo the last edit"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:249
+msgid "Redo the previous edit"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:266
+msgid "Cut the current selection"
+msgstr "Putulin ang kasalukuyang seleksiyon"
+
+#: ../../gtk-builder-ui/MainWindow.ui:277
+msgid "Copy the current selection"
+msgstr "Kopyahin ang kasalukuyang seleksiyon"
+
+#: ../../gtk-builder-ui/MainWindow.ui:288
+msgid "Paste the contents of the clipboard"
+msgstr "Idikit ang nilalaman ng clipboard"
+
+#: ../../gtk-builder-ui/MainWindow.ui:299
+msgid "Delete the current selection"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:329
+msgid "_Instrument"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:338
+msgid "Add an audio file to the selected instrument"
+msgstr "Magdagdag ng audio file sa napiling instrumento"
+
+#: ../../gtk-builder-ui/MainWindow.ui:348
+msgid "Change type of the selected instrument"
+msgstr "Palitan ang uri ng napiling instrumento"
+
+#: ../../gtk-builder-ui/MainWindow.ui:349
+msgid "_Change Instrument Type..."
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:358
+msgid "Remove the selected instrument"
+msgstr "Tanggalin ang napiling instrumento"
+
+#: ../../gtk-builder-ui/MainWindow.ui:372
+msgid "Ex_tensions"
+msgstr "Ex_tensions"
+
+#: ../../gtk-builder-ui/MainWindow.ui:384
+msgid "Open the extension manager"
+msgstr "Buksan ang extension manager"
+
+#: ../../gtk-builder-ui/MainWindow.ui:385
+msgid "_Manage Extensions..."
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:397
+msgid "_Help"
+msgstr "_Tulong"
+
+#: ../../gtk-builder-ui/MainWindow.ui:405
+msgid "User manual contents"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:415
+msgid "Report a bug in Jokosher"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:416
+msgid "_Report Bug..."
+msgstr "_Mag-report ng Bug..."
+
+#: ../../gtk-builder-ui/MainWindow.ui:425
+msgid "Visit Jokosher's online forums"
+msgstr "Bumisita sa online forums ng Jokosher"
+
+#: ../../gtk-builder-ui/MainWindow.ui:436
+msgid "Find out how you can help"
+msgstr "Alamin kung paano ka makatulong"
+
+#: ../../gtk-builder-ui/MainWindow.ui:447
+msgid "See your system information"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:458
+msgid "Version information, credits and licence"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:484
+msgid "Add Instrument"
+msgstr "Magdagdag ng instrumento"
+
+#: ../../gtk-builder-ui/MainWindow.ui:499
+msgid "Add Audio File"
+msgstr "Magdagdag ng Audio File"
+
+#: ../../gtk-builder-ui/MainWindow.ui:519
+msgid "Click and hold to rewind"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:531
+msgid "Start playback"
+msgstr "Simulan ang playback"
+
+#: ../../gtk-builder-ui/MainWindow.ui:543 ../../Jokosher/JokosherApp.py:66
+msgid "Stop playback"
+msgstr "Itigil ang playback"
+
+#: ../../gtk-builder-ui/MainWindow.ui:555
+msgid "Click and hold to fast forward"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:567
+msgid "Arm an instrument then click here to begin recording"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:588
+msgid "Audio Mixers"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:645
+msgid "Start Jokosher with an empty project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:670
+msgid "_New"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:695
+msgid "Find and open an existing project"
+msgstr "Maghanap at magbukas ng proyekto"
+
+#: ../../gtk-builder-ui/MainWindow.ui:720
+msgid "_Import"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:770
+msgid "Double-click on a recent project to open"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:788
+msgid "Select a project to open from the list"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:813
+msgid "_Open Selected Project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:13
+#: ../../Jokosher/JokosherApp.py:630
+msgid "Mixdown Project"
+msgstr "I-Mixdown ang Proyekto"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:30
+msgid "Mixdown Profile:"
+msgstr ""
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:116
+msgid "<b>Mixdown Actions</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:240
+msgid "Cancel the mixdown"
+msgstr "I-cancel ang mixdown"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:257
+msgid "Mixdown the project using these settings"
+msgstr "I-mixdown ang proyekto gamit ang mga settings na ito"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:282
+msgid "_Mixdown"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:59
+msgid "Open a _new project"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:75
+msgid "_Open most recent project"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:92
+msgid "_Don't open any project"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:116
+msgid "<b>Application Start-up</b>"
+msgstr "<b>Application Start-up</b>"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:148
+msgid "_Encoding:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:161
+msgid "S_ample Rate:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:219
+msgid "<b>Recording Format</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:251
+msgid "S_ystem:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:264
+msgid "_Pipeline:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:316
+msgid "<b>Recording Sound System</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:365
+msgid "Sys_tem:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:378
+msgid "P_ipeline:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:393
+msgid "De_vice:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:428
+msgid "autoaudiosink"
+msgstr "autoaudiosink"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:447
+msgid "<b>Playback Sound System</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:470
+msgid "Save preferences and close"
+msgstr ""
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:7
+msgid "Mixing Project"
+msgstr "Kasalukyang Mini-mix na ang Proyekto"
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:26
+msgid "<big><b>Mixing the project...</b></big>"
+msgstr ""
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:47
+msgid "Your music file is being mixed. This can take some seconds."
+msgstr ""
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:90
+msgid "Stop mixing the project"
+msgstr "Itigil ang pag-mix ng proyekto"
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:7
+msgid "Project Properties"
+msgstr ""
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:39
+msgid "_Name:"
+msgstr ""
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:52
+msgid "_Author:"
+msgstr ""
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:96
+msgid "<b>General</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:143
+msgid "<b>N_otes</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:7
+msgid "System Information"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:36
+msgid "<big>System Information</big>"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:63
+msgid "GStreamer version:"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:74
+msgid "Gnonlin version:"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:87
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:128
+msgid "xx.xx.xx"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:115
+msgid "Distribution:"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:161
+msgid "Close this window"
+msgstr ""
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:33
+msgid "Set Time Signature"
+msgstr "I-set ang Time Signature"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:63
+msgid "Beats per _measure"
+msgstr ""
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:76
+msgid "Beat _value"
+msgstr ""
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:111
+msgid "Adjust the amount of beats per measure"
+msgstr "Iayos ang kabuuang beats per measure"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:131
+msgid "<b>Time Signature</b>"
+msgstr "<b>Time Signature</b>"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:158
+msgid "Use these settings"
+msgstr "Gamitin ang mga settings na ito"
+
+#: ../../Jokosher/Jokosher:73
+msgid "Print debug output to stdout"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:75
+msgid "Sent debug output to Gstreamer's debug system"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:77
+msgid "Do not load extensions or project on startup (same as -ne)"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:79
+msgid "Do not load a project on startup"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:81
+msgid "Do not load extensions on startup"
+msgstr ""
+
+#: ../../Jokosher/AddInstrumentDialog.py:63
+msgid "Change Instrument Type"
+msgstr "Palitan ang tipo ng Intrumento"
+
+#: ../../Jokosher/AddInstrumentDialog.py:65
+#, python-format
+msgid "Choose the new instrument type for %s"
+msgstr "Pumili ng bagong tipo ng intrumento para sa %s"
+
+#: ../../Jokosher/CompactMixView.py:86
+msgid "<b>Instruments Not Shown:</b>"
+msgstr "<b>Mga Instrumentong hindi pinakita:</b>"
+
+#: ../../Jokosher/ControlsBox.py:43
+msgid "Enable this instrument for recording"
+msgstr "Paganahin ang intrumentong ito para sa recording"
+
+#: ../../Jokosher/ControlsBox.py:44
+msgid "Disable this instrument for recording"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:45
+msgid "Mute - silence this instrument"
+msgstr "Mute - patahimikin itong instrumento na ito"
+
+#: ../../Jokosher/ControlsBox.py:46
+msgid "Unmute - hear this instrument"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:47
+msgid "Activate Solo - silence all other instruments"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:48
+msgid "Deactivate Solo - hear all the instruments"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:81
+#: ../../Jokosher/InstrumentEffectsDialog.py:117
+msgid "Instrument Effects"
+msgstr "Mga Epekto ng mga Instrumento"
+
+#: ../../Jokosher/ControlsBox.py:223
+msgid "You do not have any LADSPA effects plugins installed"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:225
+msgid "Jokosher does not currently support any LADSPA plugins on Windows"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:228
+msgid ""
+"Jokosher requires one or more packages of LADSPA effects to be able to use "
+"this feature, please install the relevant package(s) for your distribution."
+msgstr ""
+
+#: ../../Jokosher/Event.py:780
+#, python-format
+msgid "%(title)s by %(artist)s"
+msgstr "%(title)s ni %(artist)s"
+
+#: ../../Jokosher/EventLaneViewer.py:115
+msgid "_Add Audio File..."
+msgstr "_Mag dagdag ng Audio File"
+
+#: ../../Jokosher/EventLaneViewer.py:264
+msgid "<b>Right-click</b> for more options."
+msgstr "<b>Right-click</b> para sa iba pang mga opsiyon."
+
+#: ../../Jokosher/EventViewer.py:151
+msgid "Trim"
+msgstr "Bawasan"
+
+#: ../../Jokosher/EventViewer.py:162
+msgid "Delete Fade Points"
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:170
+msgid "Snap To Fade Points"
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:443
+msgid "Downloading..."
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:445
+msgid "Loading..."
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:449
+#, python-format
+msgid "Downloading (%d%%)..."
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:451
+#, python-format
+msgid "Loading (%d%%)..."
+msgstr "Kinakarga (%d%%)..."
+
+#: ../../Jokosher/EventViewer.py:462
+msgid "Recording..."
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:510
+msgid ""
+"To <b>Split, Double-Click</b> the wave - To <b>Select, Shift-Click</b> and "
+"drag the mouse"
+msgstr ""
+"Para <b>hatiin, mag Double-Click</b> sa wave - Para <b>Piliin, Shift-Click</"
+"b> at hilahin ang mouse."
+
+#: ../../Jokosher/EventViewer.py:524
+msgid "<b>Drag</b> the red sliders to modify the volume fade."
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:637
+msgid ""
+"<b>Click</b> the buttons below the selection to do something to that portion "
+"of audio."
+msgstr ""
+"<b>Pindutin</b> ang mga buton sa baba ng seleksiyon upang may magawa sa "
+"porsiyon na napili sa tunog."
+
+#: ../../Jokosher/EventViewer.py:902
+msgid "_Split"
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:904
+msgid "Cu_t"
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:905
+msgid "_Copy"
+msgstr "_Kopya"
+
+#: ../../Jokosher/EventViewer.py:906
+#: ../../Jokosher/InstrumentEffectsDialog.py:450
+msgid "_Delete"
+msgstr "_Burahin"
+
+#: ../../Jokosher/EventViewer.py:1196
+msgid "Error loading file:"
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:1197
+msgid ""
+"Please make sure the file exists, and the appropriate plugin is installed."
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:1415
+#, python-format
+msgid ""
+"Event, %(name)s, %(dur)0.2f seconds long, starting at %(start)0.2f seconds."
+msgstr ""
+
+#: ../../Jokosher/Extension.py:50
+msgid "This is a Jokosher extension; it is not meant to be run directly."
+msgstr ""
+"Ito ay isang Jokosher extension; ito ay hindi maaring patakbuhin ng nag-iisa."
+
+#: ../../Jokosher/Extension.py:51
+#, python-format
+msgid ""
+"To install it, move it to the directory %s\n"
+"and run Jokosher."
+msgstr ""
+"Para mailuklok ito, ilipat ito sa directory %s\n"
+"at patakbuhin ang Jokosher."
+
+#: ../../Jokosher/Extension.py:54
+msgid ""
+"This is a Jokosher extension, which needs to be installed. Would you like to "
+"install it?"
+msgstr ""
+"Ito ay isang Jokosher extension, na kinakailangang iluklok. Nais mo ba na "
+"iluklok ito?"
+
+#: ../../Jokosher/Extension.py:56
+msgid "Install"
+msgstr "Iluklok"
+
+#: ../../Jokosher/Extension.py:66
+#, python-format
+msgid ""
+"You already have a extension with the name %s installed; would you like to "
+"replace it?"
+msgstr ""
+"Mayroon ka ng extension sa pangalang %s na nakaluklok; gusto mo ba ito "
+"palitan?"
+
+#: ../../Jokosher/Extension.py:69
+msgid "Replace"
+msgstr "Palitan"
+
+#: ../../Jokosher/Extension.py:82
+msgid "Your new extension is now available in Jokosher!"
+msgstr "Ang bago mong extension ay maari nang gamitin sa Jokosher!"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:168
+msgid "Choose a Jokosher Extension file"
+msgstr "Pumili ng talaksang Jokosher Extension"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:174
+msgid "Jokosher Extension Files (*.py *.egg)"
+msgstr "Jokosher Extension Files (*.py *.egg)"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:196
+msgid "There was a problem loading the extension"
+msgstr ""
+
+#: ../../Jokosher/ExtensionManagerDialog.py:234
+msgid "There was a problem removing the extension"
+msgstr ""
+
+#: ../../Jokosher/ExtensionManagerDialog.py:271
+msgid ""
+"An error occurred when trying to launch the preferences for the extension"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:509
+msgid "Broken"
+msgstr "Sira"
+
+#: ../../Jokosher/Globals.py:510
+msgid "Unclassified"
+msgstr "Di naka-uri"
+
+#: ../../Jokosher/Globals.py:511
+msgid "Amplifiers"
+msgstr "Amplifiers"
+
+#: ../../Jokosher/Globals.py:512
+msgid "Chorus"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:513
+msgid "Compressors"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:514
+msgid "Delays"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:515
+msgid "Distortions"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:516
+msgid "Equalizers"
+msgstr "Equalizers"
+
+#: ../../Jokosher/Globals.py:517
+msgid "Filters"
+msgstr "Mga Filter"
+
+#: ../../Jokosher/Globals.py:518
+msgid "Flangers"
+msgstr "Flangers"
+
+#: ../../Jokosher/Globals.py:519
+msgid "Miscellaneous"
+msgstr "Samut-samot"
+
+#: ../../Jokosher/Globals.py:520
+msgid "Modulators"
+msgstr "Modulators"
+
+#: ../../Jokosher/Globals.py:521
+msgid "Oscillators"
+msgstr "Oscillators"
+
+#: ../../Jokosher/Globals.py:522
+msgid "Phasers"
+msgstr "Phasers"
+
+#: ../../Jokosher/Globals.py:523
+msgid "Reverbs"
+msgstr "Reverbs"
+
+#: ../../Jokosher/Globals.py:524
+msgid "Simulators"
+msgstr "Simulators"
+
+#: ../../Jokosher/Globals.py:718 ../../Jokosher/PreferencesDialog.py:113
+msgid "Autodetect"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:719
+msgid "Use GNOME Settings"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:729
+msgid "GNOME Settings"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:747
+msgid "Jokosher Audio Editor"
+msgstr ""
+
+#: ../../Jokosher/IncrementalSave.py:29 ../../Jokosher/Instrument.py:489
+msgid "Recorded audio"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:58
+msgid "There are no instruments to connect"
+msgstr "Walang mga instrumento na ma-konekta"
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:103
+#: ../../Jokosher/PreferencesDialog.py:338
+msgid "Default"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:105
+#, python-format
+msgid "Default (%s)"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:112
+#, python-format
+msgid "%(device)s (%(id)s), input %(input)d"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:115
+#: ../../Jokosher/PreferencesDialog.py:341
+#, python-format
+msgid "%(device)s (%(id)s)"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:157
+#, python-format
+msgid ""
+"The %(sound-system-name)s sound system does not support device selection."
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:160
+#, python-format
+msgid ""
+"The \"%(custom-pipeline)s\" sound system does not support device selection."
+msgstr ""
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:143
+#: ../../Jokosher/InstrumentEffectsDialog.py:145
+#: ../../Jokosher/MixdownProfileDialog.py:617
+msgid "Name"
+msgstr ""
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:144
+msgid "Type"
+msgstr ""
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:447
+msgid "_Move up..."
+msgstr ""
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:448
+msgid "M_ove down..."
+msgstr ""
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:451
+msgid "_Settings"
+msgstr ""
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:492
+msgid "_Activate effect"
+msgstr ""
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:674
+msgid "Effect Settings"
+msgstr "Mga Settigns ng Epekto"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:705
+msgid "-parameter not readable-"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:63 ../../Jokosher/JokosherApp.py:65
+msgid "Stop recording"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:64
+msgid "Arm an instrument, then click here to begin recording"
+msgstr "I-arma ang instrumento, at pindutin dito para simulan ang recording"
+
+#: ../../Jokosher/JokosherApp.py:67
+msgid "Hide the audio level mixers"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:68
+msgid "Show the audio level mixers"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:438
+#, python-format
+msgid ""
+"<big>Couldn't launch the jokosher website automatically.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:449
+#, python-format
+msgid ""
+"<big>Couldn't launch the launchpad website automatically.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:481
+#, python-format
+msgid ""
+"The instruments '%(name1)s' and '%(name2)s' both have the same input "
+"selected. Please either disarm one, or connect it to a different input "
+"through 'Project -> Recording Inputs'"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:678
+msgid "Preparing to mixdown project"
+msgstr "Hinahanda ang pag mixdown ng proyekto"
+
+#: ../../Jokosher/JokosherApp.py:684
+#, python-format
+msgid "%(progress)d%% of %(total)d seconds completed"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:762
+msgid "Choose a Jokosher project file"
+msgstr "Pumili ng talaksang proyekto ng Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:774
+msgid "All Files"
+msgstr "Lahat ng talaksan"
+
+#: ../../Jokosher/JokosherApp.py:778
+msgid "Jokosher Project Files (*.jokosher)"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:811
+msgid "An error occurred and the project could not be imported."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:842
+msgid "New Project"
+msgstr "Bagong Proyekto"
+
+#: ../../Jokosher/JokosherApp.py:843
+msgid "Unknown Author"
+msgstr "Hindi kilala ang May-Katha"
+
+#: ../../Jokosher/JokosherApp.py:849
+msgid "Could not initialize project."
+msgstr "Hindi masimulan ang proyekto."
+
+#: ../../Jokosher/JokosherApp.py:851
+msgid ""
+"A file or folder with this name already exists. Please choose a different "
+"project name and try again."
+msgstr ""
+"Mayroon nang talaksan o polder na may kaparehong pangalan. Pumili ng ibang "
+"pangalan ng proyekto ang subukan muli."
+
+#: ../../Jokosher/JokosherApp.py:853
+msgid "The file or folder location is write-protected."
+msgstr "Ang kinalalagyan ng talaksan o polder ay hindi maaring sulatan."
+
+#: ../../Jokosher/JokosherApp.py:855
+msgid "Invalid name or author."
+msgstr "Hindi akma na pangalan o may-katha."
+
+#: ../../Jokosher/JokosherApp.py:857
+msgid "The URI scheme given is either invalid or not supported"
+msgstr "Ang URI scheme na binigay ay inbalido o kaya ay hindi suportado"
+
+#: ../../Jokosher/JokosherApp.py:859
+msgid "Unable to load required Gstreamer plugin:"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:866
+#, python-format
+msgid ""
+"Unable to create project.\n"
+"\n"
+"%s"
+msgstr ""
+"Hindi magawa ang proyekto.\n"
+"\n"
+"%s"
+
+#: ../../Jokosher/JokosherApp.py:1015
+#, python-format
+msgid "Mixing project to file: %s"
+msgstr "Mini-mix ang proyekto sa talaksan:%s"
+
+#: ../../Jokosher/JokosherApp.py:1058
+#, python-format
+msgid "*%s - Jokosher"
+msgstr "*%s - Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:1060
+#, python-format
+msgid "%s - Jokosher"
+msgstr "%s - Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:1127
+#, python-format
+msgid "Show all %d projects"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1129
+msgid "Show all projects"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1132
+msgid "Close the current project, and show all available projects"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1403
+msgid "Jokosher"
+msgstr "Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:1588
+msgid "The project references non-existant files:\n"
+msgstr "Ang proyekto ay nag-uugnay sa mga takasan na hindi matagpuan:\n"
+
+#: ../../Jokosher/JokosherApp.py:1592
+msgid ""
+"\n"
+"The project references non-existant images:\n"
+msgstr ""
+"\n"
+"Ang proyekto ay nag-uugnay sa mga imahe na hindi matagpuan:\n"
+
+#: ../../Jokosher/JokosherApp.py:1600
+#, python-format
+msgid ""
+"%s\n"
+" Invalid or corrupt project file, will not open."
+msgstr ""
+"%s\n"
+" Inbalido o sirang talaksan ng proyekto, ito ay hindi bubuksan."
+
+#: ../../Jokosher/JokosherApp.py:1639
+msgid "You must have Gstreamer version 0.10.9 or higher.\n"
+msgstr "Kailangan mo ng Gstreamer bersiyon 0.10.9 pataas.\n"
+
+#: ../../Jokosher/JokosherApp.py:1647
+msgid "You must have Gstreamer plugin gnonlin version 0.10.4.2 or later.\n"
+msgstr "Kailangan mo ang Gstreamer plugin gnolin bersiyon 0.10.4.2 pataas.\n"
+
+#: ../../Jokosher/JokosherApp.py:1649
+msgid "Gstreamer plugin gnonlin is not installed."
+msgstr "Ang Gstreamer plugin gnolin ay hindi naka luklok."
+
+#: ../../Jokosher/JokosherApp.py:1650
+msgid ""
+"\n"
+"See http://doc.jokosher.org/Installation for more details.\n"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1653
+msgid ""
+"You must have the Gstreamer plugin packs gst-plugins-base and gst-plugins-"
+"good installed.\n"
+msgstr ""
+"Ang Gstreamer plugin packs gst-plugins-base at gst-plugins-good ay dapat "
+"nakaluklok.\n"
+
+#: ../../Jokosher/JokosherApp.py:1659
+#, python-format
+msgid ""
+"<big>Some functionality will not work correctly or at all.</big>\n"
+"\n"
+"%s"
+msgstr ""
+"<big>May ilang katangian na maaring hindi tumakbo ng tama.</big>\n"
+"\n"
+"%s"
+
+#: ../../Jokosher/JokosherApp.py:1702
+#, python-format
+msgid ""
+"<big>Couldn't launch the Jokosher documentation site.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1713
+#, python-format
+msgid ""
+"<big>Couldn't launch the forums website automatically.</big>\n"
+"\n"
+"Please visit %s to access them."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1741
+msgid "<b>To find out more, visit:</b>"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1764
+#, python-format
+msgid ""
+"<big>Couldn't launch the contributing website automatically.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1819
+msgid "Gnonlin is missing!"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1826
+msgid "Unknown"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1842
+#, python-format
+msgid "The URI scheme '%s' is either invalid or not supported."
+msgstr "Ang URI scheme '%s' ay inbalido o kaya ay hindi suportado."
+
+#: ../../Jokosher/JokosherApp.py:1844
+#, python-format
+msgid "Unable to unzip the project file %s"
+msgstr "Hindi ma unzip ang proyektong talaksan %s"
+
+#: ../../Jokosher/JokosherApp.py:1846
+#, python-format
+msgid "The project file was created with version \"%s\" of Jokosher.\n"
+msgstr "Ang talaksang proyekto ay binuo sa bersiyon \"%s\" ng Jokosher.\n"
+
+#: ../../Jokosher/JokosherApp.py:1847
+#, python-format
+msgid "Projects from version \"%s\" are incompatible with this release.\n"
+msgstr ""
+"Ang mga proyektong mula sa bersiyon \"%s\" ay hindi akma para sa labas na "
+"ito.\n"
+
+#: ../../Jokosher/JokosherApp.py:1849
+#, python-format
+msgid ""
+"The project:\n"
+"%s\n"
+"\n"
+"does not exist.\n"
+msgstr ""
+"Ang proyektong:\n"
+"%s\n"
+"\n"
+"ay hindi umiiral.\n"
+
+#: ../../Jokosher/JokosherApp.py:1851 ../../Jokosher/JokosherApp.py:1855
+msgid "The project file could not be opened.\n"
+msgstr "Ang talaksang proyekto ay hindi mabuksan.\n"
+
+#: ../../Jokosher/JokosherApp.py:1852
+msgid ""
+"It is recommended that you report this to the Jokosher developers or get "
+"help at http://www.jokosher.org/forums/"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1932
+msgid "Copy file to project"
+msgstr "Kopyahin ang file sa proyekto"
+
+#: ../../Jokosher/JokosherApp.py:1937
+msgid "Add Audio File..."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:2011 ../../Jokosher/JokosherApp.py:2016
+msgid "Mix_down As"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:2029
+msgid "_Mixdown Project..."
+msgstr ""
+
+#: ../../Jokosher/MasterMixerStrip.py:46
+msgid "Master Volume:"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:157
+msgid "Export File"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:158
+msgid "Export a file to the destination of your choosing."
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:226
+#, python-format
+msgid ""
+"An encoding plugin could not be found: %s.\n"
+"Please make sure all the plugins required for the specified format are "
+"installed."
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:228
+#, python-format
+msgid "The encoding bin description is invalid: %s"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:254
+msgid "Server type:"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:267
+msgid "Server location:"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:271
+msgid "Username:"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:275
+msgid "Password:"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:311
+msgid "Location:"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:379
+msgid "Select Export Location"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:490 ../../Jokosher/MixdownActions.py:500
+msgid "Run External Script"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:491
+msgid "Run an external script from the destination of your choosing."
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:532
+#, python-format
+msgid "An error occured with the script %s"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:534
+#, python-format
+msgid "Error in script %s"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:537
+#, python-format
+msgid "The script %s does not exist."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:186
+#, python-format
+msgid "<b>%s is configured</b>"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:188
+#, python-format
+msgid "<b>%s is not configured</b>"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:367
+msgid "Please enter the name of the mixdown profile you wish to create."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:377
+msgid "Profile name:"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:380
+msgid "Create Mixdown Profile"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:398
+#, python-format
+msgid "Successfully created mixdown profile <b>%s.profile</b>."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:402
+msgid ""
+"Cannot create mixdown profile. Please make sure you have specified a profile "
+"name."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:423
+#, python-format
+msgid "Please make sure the extension <b>%s</b> is enabled."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:424
+#, python-format
+msgid ""
+"<big><b>Cannot load mixdown action %s.</b></big>\n"
+"\n"
+"%s"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:552
+#, python-format
+msgid "An error occured while running the mixdown action: %s"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:616
+msgid "Icon"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:631
+#, python-format
+msgid ""
+"Please select the mixdown actions you would like to add to mixdown profile "
+"<b>%s.</b>"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfiles.py:94 ../../Jokosher/MixdownProfiles.py:151
+#, python-format
+msgid "The mixdown profile %s does not exist"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfiles.py:115
+#, python-format
+msgid "Cannot remove mixdown profile %s"
+msgstr ""
+
+#: ../../Jokosher/MixerStrip.py:63
+msgid "Minimize instrument"
+msgstr "Paliitin ang intrumento"
+
+#: ../../Jokosher/MixerStrip.py:73
+msgid "Balance:"
+msgstr ""
+
+#: ../../Jokosher/MixerStrip.py:78
+msgid "L"
+msgstr "L"
+
+#: ../../Jokosher/MixerStrip.py:79
+msgid "R"
+msgstr "R"
+
+#: ../../Jokosher/MixerStrip.py:84
+msgid "Adjust instrument balance. Right-click to center"
+msgstr ""
+
+#: ../../Jokosher/MixerStrip.py:98
+msgid "Volume:"
+msgstr ""
+
+#: ../../Jokosher/MixerStrip.py:231
+#, python-format
+msgid "Current balance is <b>%d%%</b> left"
+msgstr ""
+
+#: ../../Jokosher/MixerStrip.py:233
+msgid "Current balance is <b>centered</b>"
+msgstr ""
+
+#: ../../Jokosher/MixerStrip.py:235
+#, python-format
+msgid "Current balance is <b>%d%%</b> right"
+msgstr ""
+
+#: ../../Jokosher/PreferencesDialog.py:75
+#: ../../Jokosher/PreferencesDialog.py:93
+msgid "Custom"
+msgstr ""
+
+#: ../../Jokosher/PreferencesDialog.py:346
+#, python-format
+msgid "Device %d"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:120
+msgid "Zoom the timeline - Right-Click to reset to the default level"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:129
+msgid "Zoom in timeline"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:136
+msgid "Zoom out timeline"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:180
+msgid "Would you like to restore the current project?"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:181
+msgid ""
+"A crash was detected and changes to your project were not saved.\n"
+"If you would like, you can attempt to recover these lost changes."
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:185
+msgid "_Restore Project"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:321
+msgid "A Gstreamer error has occurred"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:332
+msgid "A GStreamer error has occurred."
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:333
+msgid ""
+"If this problem persists consider reporting a bug using the link in the help "
+"menu."
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:596
+msgid "This project has no name. Would you like to give it one?"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:597
+msgid ""
+"The Properties dialog in the File menu lets you change the name of author of "
+"the project."
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:601
+msgid "_Open Properties"
+msgstr ""
+
+#: ../../Jokosher/TimeLine.py:566
+#, python-format
+msgid "Timeline, %(bars)d bars, %(beats)d beats and %(ticks)d ticks in"
+msgstr ""
+
+#: ../../Jokosher/TimeLine.py:570
+#, python-format
+msgid ""
+"Timeline, %(hours)d hours, %(mins)d minutes, %(secs)d seconds and %(millis)d "
+"milliseconds in"
+msgstr ""
+
+#: ../../Jokosher/TimeLineBar.py:63
+msgid "Adjust volume of click track"
+msgstr ""
+
+#: ../../Jokosher/TimeLineBar.py:67
+msgid "Beats per minute"
+msgstr ""
+
+#: ../../Jokosher/TimeLineBar.py:86
+msgid "Time signature"
+msgstr ""
+
+#: ../../Jokosher/TimeView.py:49
+msgid "Double click to change the time format"
+msgstr ""
+
+#: ../../Jokosher/VUWidget.py:146
+msgid ""
+"<b>Drag</b> the <b>slider</b> to alter volume levels - <b>Right-Click</b> to "
+"set the <b>slider</b> to 100%"
+msgstr ""
+
+#: i18n.instr.h:1
+msgid "Acoustic Guitar"
+msgstr "Gitarang Acoustic"
+
+#: i18n.instr.h:2
+msgid "Audio File"
+msgstr "Talaksang Audio"
+
+#: i18n.instr.h:3
+msgid "Bass Drum"
+msgstr "Bass Drum"
+
+#: i18n.instr.h:4
+msgid "Bass Guitar"
+msgstr "Bass na Gitara"
+
+#: i18n.instr.h:5
+msgid "Cello"
+msgstr "Cello"
+
+#: i18n.instr.h:6
+msgid "Cymbal"
+msgstr "Cymbal"
+
+#: i18n.instr.h:7
+msgid "Drum Kit"
+msgstr "Drum Kit"
+
+#: i18n.instr.h:8
+msgid "Effect"
+msgstr "Effect"
+
+#: i18n.instr.h:9
+msgid "Electric Guitar"
+msgstr "Gitarang Di-kuryente"
+
+#: i18n.instr.h:10
+msgid "Harmonica"
+msgstr "Silindro"
+
+#: i18n.instr.h:11
+msgid "Keyboard"
+msgstr "Teklado"
+
+#: i18n.instr.h:12
+msgid "Other"
+msgstr "Iba pa"
+
+#: i18n.instr.h:13
+msgid "Saxophone"
+msgstr "Saxophone"
+
+#: i18n.instr.h:14
+msgid "Snare"
+msgstr "Snare"
+
+#: i18n.instr.h:15
+msgid "Tom Tom"
+msgstr "Tom Tom"
+
+#: i18n.instr.h:16
+msgid "Trumpet"
+msgstr "Trumpeta"
+
+#: i18n.instr.h:17
+msgid "Violin"
+msgstr "Biyolin"
+
+#: i18n.instr.h:18
+msgid "Vocal"
+msgstr "Boses"
+
+#~ msgid "<b>Recent Projects</b>"
+#~ msgstr "<b>Mga Proyektong kailan lamang ginamit</b>"
+
+#~ msgid "Change Jokosher preferences"
+#~ msgstr "Palitan ang Jokosher preferences"
+
+#~ msgid "Choose a chain effects preset."
+#~ msgstr "Pumili ng chain effects preset."
+
+#~ msgid "Choose an effect preset."
+#~ msgstr "Pumili ng effect preset."
+
+#~ msgid "Create the project"
+#~ msgstr "I-likha ang proyekto"
+
+#~ msgid "Don't create the project"
+#~ msgstr "Huwag likhain ang proyekto"
+
+#~ msgid ""
+#~ "Enter a name for your project and select a folder to store the project in:"
+#~ msgstr ""
+#~ "Maglagay ng pangalan para sa inyong proyekto at pumili ng polder kung "
+#~ "saan iluluklok ang proyekto:"
+
+#~ msgid "Enter the author's name"
+#~ msgstr "Ilagay ang pangalan ng taga-likha"
+
+#~ msgid "Enter the project's name"
+#~ msgstr "Ilagay ang pangalan ng proyekto"
+
+#~ msgid "Open a recent project"
+#~ msgstr "Buksan ang proyekto na kailan lamang ginamit"
+
+#~ msgid "Redo"
+#~ msgstr "Gawin muli"
+
+#~ msgid "Save a copy of the current project"
+#~ msgstr "Magluklok ng kopya ng pangkasalukuyang proyekto"
+
+#~ msgid "Undo"
+#~ msgstr "Ibalik"
+
+#~ msgid "Welcome to Jokosher!"
+#~ msgstr "Mabuhay ito ang Jokosher!"
+
+#~ msgid "Jokosher Project File (*.jokosher)"
+#~ msgstr "Talaksang Proyekto ng Jokosher (*.jokosher)"
+
+#~ msgid "Choose a location to save the project"
+#~ msgstr "Pumili ng lokasyon kung saan ilalagak ang proyekto"
+
+#~ msgid ""
+#~ "<span size='large' weight='bold'>Save changes to project \"%s\" before "
+#~ "closing?</span>\n"
+#~ "\n"
+#~ "Your changes will be lost if you don't save them."
+#~ msgstr ""
+#~ "<span size='large' weight='bold'>Iluklok ang mga pagbabago sa proyektong "
+#~ "\"%s\" bago isarado?</span>\n"
+#~ "\n"
+#~ "Ang iyong mga pagbabago ay mawawala kapag ito ay hindi mo na-iluklok."
+
+#~ msgid "Close _Without Saving"
+#~ msgstr "Isarado _Nang Hindi Niluluklok"
+
+#~ msgid "Select A Folder"
+#~ msgstr "Pumili ng Polder"
+
+#~ msgid "<b>Audio Output Plugin</b>"
+#~ msgstr "<b>Plugin para sa Audio Output</b>"
+
+#~ msgid "<b>Recorded Audio Format</b>"
+#~ msgstr "<b>Recorded Audio Format</b>"
+
+#~ msgid "<b>Recording Sample Rate</b>"
+#~ msgstr "<b>Recording Sample Rate</b>"
+
+#~ msgid ""
+#~ "Autodetect\n"
+#~ "ALSA\n"
+#~ "Custom"
+#~ msgstr ""
+#~ "Autodetect\n"
+#~ "ALSA\n"
+#~ "Custom"
+
+#~ msgid ""
+#~ "No channels capable of recording have been found, please attach a device "
+#~ "and try again."
+#~ msgstr ""
+#~ "Walang mga channel na may kapabilidad sa pag record ang nakita, mag kabit "
+#~ "ng device at subukan muli."
+
+#~ msgid ""
+#~ "Your sound card isn't capable of recording from multiple sources at the "
+#~ "same time. Please disarm all but one instrument."
+#~ msgstr ""
+#~ "Ang iyong sound card ay hindi kayang mag record ng madaming pinagmulan na "
+#~ "mag kasabay. Kung maari, ay dis-armahan lahat maliban sa isang "
+#~ "instrumento."
+
+#~ msgid "Add this step to the current mixdown"
+#~ msgstr "Idagdag ang hakbang na ito sa kasalukyang mixdown"
+
+#~ msgid "Audio production made simple."
+#~ msgstr "Pag-buo ng Audio ginawang simple."
+
+#~ msgid "FastForward"
+#~ msgstr "FastForward"
+
+#~ msgid "Recording"
+#~ msgstr "Nagre-rekord"
+
+#~ msgid "Stop"
+#~ msgstr "Tigil"
+
+#~ msgid "Workspaces"
+#~ msgstr "Workspaces"
+
+#, fuzzy
+#~ msgid "version 0.10"
+#~ msgstr "bersiyon 0.9"
+
+#~ msgid "<b>Drag</b> the <b>slider</b> to alter volume levels"
+#~ msgstr "<b>Hilahin<b> ang <b>slider</b> para baguhin ang lebel ng tunog."
+
+#~ msgid "Beat value"
+#~ msgstr "Beat value"
+
+#~ msgid "Beats per measure"
+#~ msgstr "Beats per measure"
+
+#~ msgid "Device:"
+#~ msgstr "Kagamitan:"
+
+#~ msgid "Don't open anything"
+#~ msgstr "Huwag magbukas ng kahit na ano"
+
+#~ msgid "Don't show this on start-up"
+#~ msgstr "Huwag nang ipakita ito sa pag-simula"
+
+#~ msgid "Output:"
+#~ msgstr "Output:"
+
+#~ msgid "Pipeline:"
+#~ msgstr "Pipeline:"
+
+#~ msgid "Preferences"
+#~ msgstr "Mga Kagustuhan"
+
+#~ msgid "Search:"
+#~ msgstr "Hanapin:"
+
+#~ msgid "Show welcome dialog"
+#~ msgstr "Ipakita ang diyalogo ng pagbati."
+
+#~ msgid "_Recording Inputs"
+#~ msgstr "_Recording Inputs"
+
+#~ msgid ""
+#~ "16 bit\n"
+#~ "24 bit\n"
+#~ "32 bit"
+#~ msgstr ""
+#~ "16 bit\n"
+#~ "24 bit\n"
+#~ "32 bit"
+
+#~ msgid ""
+#~ "96000\n"
+#~ "48000\n"
+#~ "44100\n"
+#~ "32000\n"
+#~ "24000\n"
+#~ "22050\n"
+#~ "16000\n"
+#~ "11025\n"
+#~ "8000"
+#~ msgstr ""
+#~ "96000\n"
+#~ "48000\n"
+#~ "44100\n"
+#~ "32000\n"
+#~ "24000\n"
+#~ "22050\n"
+#~ "16000\n"
+#~ "8000"
+
+#~ msgid ""
+#~ "<b>To find out more, visit:</b>\n"
+#~ "http://www.jokosher.org/contribute"
+#~ msgstr ""
+#~ "<b>Alamin ang iba pa tungkol sa Jokosher, bumisita sa:</b>\n"
+#~ "http://www.jokosher.org/contribute"
+
+#~ msgid "Device"
+#~ msgstr "Kagamitan"
+
+#~ msgid "General"
+#~ msgstr "Pangkalahatan"
+
+#~ msgid ""
+#~ "Jokosher must be restarted in\n"
+#~ "order for changes to take effect."
+#~ msgstr ""
+#~ "Ang Jokosher ay kinakailangang patakbuhin muli\n"
+#~ "upang ang mga pagbabago ay maging epektibo."
+
+#~ msgid "Output Format"
+#~ msgstr "Porma ng Output"
+
+#~ msgid "Pre-release Notes"
+#~ msgstr "Mga Kasulatang pang Pre-release"
+
+#~ msgid "Presets"
+#~ msgstr "Presets"
+
+#~ msgid "Preview"
+#~ msgstr "Preview"
+
+#~ msgid "Sample Format"
+#~ msgstr "Sample Format"
+
+#~ msgid "Sample Rate (Hz)"
+#~ msgstr "Sample Rate (Hz)"
+
+#~ msgid "Save Files As"
+#~ msgstr "Iluklok ang mga File bilang"
+
+#~ msgid "Select an effect"
+#~ msgstr "Pumili ng epekto"
+
+#~ msgid "Select an effect to add to the instrument"
+#~ msgstr "Pumili ng epekto na idadagdag sa instrumento"
+
+#~ msgid "Time Format"
+#~ msgstr "Porma ng Oras"
+
+#~ msgid ""
+#~ "Use the combo boxes below to select which input is used with which "
+#~ "instrument"
+#~ msgstr ""
+#~ "Gamitin ang mga combo boxes sa ibaba para piliin ang input na gagamitin "
+#~ "sa alin mang instrumento"
+
+#~ msgid ""
+#~ "Wave\n"
+#~ "FLAC\n"
+#~ "Ogg Vorbis"
+#~ msgstr ""
+#~ "Wave\n"
+#~ "FLAC\n"
+#~ "Ogg Vorbis"
+
+#~ msgid "foo"
+#~ msgstr "foo"
+
+#~ msgid "Import file..."
+#~ msgstr "Angkatin ang talaksan..."
+
+#~ msgid ""
+#~ "<b>NOTE</b>: The volume sliders in this pre-release version of Jokosher "
+#~ "do not affect the audio."
+#~ msgstr ""
+#~ "<b>ABISO</b>: Ang mga volume sliders sa pre-release version na ito ng "
+#~ "Jokosher ay walang bisa sa tunog."
+
+#~ msgid "Split"
+#~ msgstr "Hatiin"
+
+#~ msgid "Cut"
+#~ msgstr "Putulin"
+
+#~ msgid ""
+#~ "%s\n"
+#~ "\n"
+#~ "File is corrupt, not an audio file, or the associated plugin is not "
+#~ "installed"
+#~ msgstr ""
+#~ "%s\n"
+#~ "\n"
+#~ "Ang talaksan ay sira, hindi isang talaksang pang-audio, o ang akma na "
+#~ "plugin ay hindi nakaluklok"
+
+#~ msgid "Muted"
+#~ msgstr "Muted"
+
+#~ msgid "Unmuted"
+#~ msgstr "Unmuted"
+
+#~ msgid ""
+#~ "The instruments '%s' and '%s' both have the same input selected (%s). "
+#~ "Please either disarm one, or connect it to a different input through "
+#~ "'Project -> Instrument Connections'"
+#~ msgstr ""
+#~ "Ang mga instrumentong '%s' at '%s' ay pareho ang input na napili (%s). "
+#~ "Kung maari, ay dis-armahan ang isa, o i-konek sa ibang input gamit ang "
+#~ "'Project -> Instrument Connections'"
+
+#~ msgid ""
+#~ "No instruments are armed for recording. You need to arm an instrument "
+#~ "before you can begin recording."
+#~ msgstr ""
+#~ "Walang instrumento ang naka arma para sa recording. Kinakailangan mong "
+#~ "mag arma ng intrumento bago ka makapagsimula sa recording."
+
+#~ msgid "%d of %d seconds completed"
+#~ msgstr "%d ng %d na segundo ang nakumpleto na"
+
+#~ msgid ""
+#~ "\n"
+#~ "See http://jokosher.org/trac/wiki/GettingJokosher for more details.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Pumunta sa http://jokosher.org/trac/wiki/GettingJokosher para sa mga "
+#~ "detalye.\n"
+
+#~ msgid ""
+#~ "<big>Notes about this release</big>\n"
+#~ "\n"
+#~ "This version of Jokosher (0.1) is a pre-release version, and is infact, "
+#~ "our very first release. As such, you may encounter some bugs and "
+#~ "functionality that is not present."
+#~ msgstr ""
+#~ "<big>Mga kasulatan ukol sa labas na ito</big>\n"
+#~ "\n"
+#~ "Ang bersiyon na ito ng Jokosher (0.1) ay isang bersiyon na pre-release, "
+#~ "at ito na din ang unang labas. Maari kang makatagpo ng mga bugs at mga "
+#~ "katangian na hindi pa nagawa sa ngayon."
+
+#~ msgid "Master Volume"
+#~ msgstr "Master Volume"
+
+#~ msgid "Volume: %.2f"
+#~ msgstr "Tunog: %.2f"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Jerome Gotangco <jgotangco@ubuntu.com>, 2006\n"
+#~ "\n"
+#~ "Launchpad Contributions:\n"
+#~ "  Jerome S. Gotangco https://launchpad.net/~jgotangco"
+
+#~ msgid "Files Saves As"
+#~ msgstr "Ang mga talaksan ay ilalagak bilang"
+
+#, fuzzy
+#~ msgid "_Project"
+#~ msgstr "Bagong Proyekto"
+
+#, fuzzy
+#~ msgid "Add a new step:"
+#~ msgstr "Magdagdag ng instrumento"
+
+#, fuzzy
+#~ msgid "Mixing"
+#~ msgstr "Kasalukyang Mini-mix na ang Proyekto"
+
+#, fuzzy
+#~ msgid "Mixing Workspace"
+#~ msgstr "Kasalukyang Mini-mix na ang Proyekto"
+
+#, fuzzy
+#~ msgid "Rewind"
+#~ msgstr "Gawin muli"
+
+#, fuzzy
+#~ msgid "_Paste"
+#~ msgstr "Phasers"
+
+#, fuzzy
+#~ msgid "_Mixdown Project"
+#~ msgstr "I-Mixdown ang Proyekto"
+
+#, fuzzy
+#~ msgid "<b>Presets for:</b>"
+#~ msgstr "<b>Mga Aktibong Epekto para:</b>"
+
+#, fuzzy
+#~ msgid "Add a new instrument"
+#~ msgstr "Magdagdag ng instrumento"
+
+#, fuzzy
+#~ msgid "Author"
+#~ msgstr "Hindi kilala ang May-Katha"
+
+#, fuzzy
+#~ msgid "Browse for an Existing Project"
+#~ msgstr "Maghanap at magbukas ng proyekto"
+
+#, fuzzy
+#~ msgid "Create a New Project"
+#~ msgstr "Lumikha ng bagong proyekto"
+
+#, fuzzy
+#~ msgid "Folder"
+#~ msgstr "Mga Filter"
+
+#, fuzzy
+#~ msgid "Open Selected Project"
+#~ msgstr "Buksan ang proyekto na kailan lamang ginamit"
+
+#, fuzzy
+#~ msgid "Open most recent project"
+#~ msgstr "Buksan ang proyekto na kailan lamang ginamit"
+
+#, fuzzy
+#~ msgid "Project Name"
+#~ msgstr "Bagong Proyekto"
+
+#, fuzzy
+#~ msgid "Remove Selected Instrument"
+#~ msgstr "Tanggalin ang napiling instrumento"
+
+#, fuzzy
+#~ msgid "_Manage Extensions"
+#~ msgstr "Ex_tensions"
+
+#, fuzzy
+#~ msgid "<b>Audio Mixdown</b>"
+#~ msgstr "<b>Coding</b>"
+
+#, fuzzy
+#~ msgid "<b>Audio Quality</b>"
+#~ msgstr "<b>Sining</b>"
+
+#, fuzzy
+#~ msgid "<b>Quality</b>"
+#~ msgstr "<b>Sining</b>"
+
+#, fuzzy
+#~ msgid "Contributing to Jokosher"
+#~ msgstr "Isarado ang Jokosher"
+
+#, fuzzy
+#~ msgid "Instrument Connections"
+#~ msgstr "Mga Epekto ng mga Instrumento"
+
+#, fuzzy
+#~ msgid "Playback"
+#~ msgstr "Itigil ang playback"
+
+#, fuzzy
+#~ msgid "Recent Projects"
+#~ msgstr "<b>Mga Proyektong kailan lamang ginamit</b>"
+
+#, fuzzy
+#~ msgid "Remove curently selected extension"
+#~ msgstr "Tanggalin ang napiling instrumento"
+
+#, fuzzy
+#~ msgid "Select an instrument, then click here to begin recording"
+#~ msgstr "I-arma ang instrumento, at pindutin dito para simulan ang recording"
+
+#, fuzzy
+#~ msgid "Show as Bars, Beats, Ticks"
+#~ msgstr "Ipakita blaing _Bars, Beats, Ticks"
+
+#, fuzzy
+#~ msgid "Show as Hours, Minutes, Seconds"
+#~ msgstr "Ipakita bilang _Oras, Minuto, Segundo"
+
+#, fuzzy
+#~ msgid "_Extensions"
+#~ msgstr "Ex_tensions"
+
+#, fuzzy
+#~ msgid "Import Audio File..."
+#~ msgstr "_Mag dagdag ng Audio File"
+
+#, fuzzy
+#~ msgid "Paste"
+#~ msgstr "Phasers"
+
+#, fuzzy
+#~ msgid "Delete"
+#~ msgstr "_Burahin"
+
+#, fuzzy
+#~ msgid "Copy"
+#~ msgstr "_Kopya"
+
+#, fuzzy
+#~ msgid "Solo - silence all other instruments"
+#~ msgstr "Mute - patahimikin itong instrumento na ito"
+
+#, fuzzy
+#~ msgid "Instrument Effects..."
+#~ msgstr "Mga Epekto ng mga Instrumento"

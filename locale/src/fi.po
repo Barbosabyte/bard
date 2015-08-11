@@ -1,0 +1,2430 @@
+# Finnish translation for jokosher
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the jokosher package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jokosher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-07 14:18+0100\n"
+"PO-Revision-Date: 2009-10-01 11:27+0000\n"
+"Last-Translator: Elias Julkunen <elias.julkunen@gmail.com>\n"
+"Language-Team: Finnish <fi@li.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-02-26 00:44+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: ../../gtk-builder-ui/AboutDialog.ui:10
+msgid ""
+"Audio production made simple.\n"
+"Version 0.11.5"
+msgstr ""
+
+#. TRANSLATORS: Replace this string with your names, one name per line.
+#: ../../gtk-builder-ui/AboutDialog.ui:384
+msgid ""
+"Iestyn Pryce <dylunio@gmail.com>\n"
+"Jerome S. Gotangco <jgotangco@ubuntu.com>\n"
+"torb <torrb@musiker.nu>\n"
+"Robert Renling Berencreuz <berencreuz@gmail.com>\n"
+"Ola Jeppsson <ola.jeppsson@gmail.com>\n"
+"Daniel Nylander <po@danielnylander.se>\n"
+"aruiz <aruiz@synaptia.net>\n"
+"Manuel Duran Moyano <mduran@ubiobio.cl>\n"
+"Laszlo Pandy <laszlok2@gmail.com>\n"
+"Iván Edgardo Vázquez Santos \n"
+"David Corrales <corrales.david@gmail.com>\n"
+"Benjamin A'Lee <bma@bmalee.eu>\n"
+"Peter Baričič <pbaricic@gmail.com>\n"
+"Артём Попов <artfwo@gmail.com>\n"
+"deepred <psalmos@swissinfo.org>\n"
+"KeepYourMind <keepyourmind@gmail.com>\n"
+"Georgy Faradzhev <georgy.faradzhev@gmail.com>\n"
+"Gendolf <pr-baukalo@rambler.ru>\n"
+"Rodrigo NSH <rodrigo.nsh@gmail.com>\n"
+"Christian Reis <kiko@async.com.br>\n"
+"Lourabe Multimédia \n"
+"Tomasz Dominikowski <dominikowski@gmail.com>\n"
+"Konrad Adamczyk <konrad@svx.pl>\n"
+"Hender <simsalabimladen@gmail.com>\n"
+"sklp\n"
+"Bård Aase <base@kvarteret.no>\n"
+"Pecisk <pecisk@gmail.com>\n"
+"Luca Ferretti <elle.uca@libero.it>\n"
+"Daniele Medri <daniele@medri.org>\n"
+"Igor Khanin \n"
+"Tobias Frederick <me@tbfr.org>\n"
+"Tim Fuchs <tim.fuchs@gmail.com>\n"
+"Ramona Barte \n"
+"Marcus Hochstadt\n"
+"Lebowski\n"
+"Julian Turner\n"
+"Dennis Lichtenthäler <dennis.lichtenthaeler@episode-iv.de>\n"
+"dyphil <dyphil@wanadoo.fr>\n"
+"XioNoX \n"
+"Stemp <StempUbuntu@gmail.com>\n"
+"Signez\n"
+"Pierre Slamich <pierre.slamich@gmail.com>\n"
+"Nicolas Velin <nsv@fr.st>\n"
+"Jean-Francois Arseneau <jf.arseneau@gmail.com>\n"
+"Guillaume Hoffmann \n"
+"Gabriel de Perthuis <gabriel.de-perthuis@laposte.net>\n"
+"Bruno Bord <bruno@jehaisleprintemps.net>\n"
+"Mikko Virkkilä <mvirkkil@cc.hut.fi>\n"
+"Boyd Timothy\n"
+"William Anderson<neuro@well.com>\n"
+"Sridhar Dhanapalan <sridhar@dhanapalan.com>\n"
+"Roger Light <roger@atchoo.org>\n"
+"Malcolm Parsons\n"
+"Peturrr <peterdekraker@planet.nl>\n"
+"jerven Bolleman <ik@jerven.eu>\n"
+"Mathias-K <mathias@computergeil.dk>\n"
+"Niels Kjøller Hansen <niels.k.h@gmail.com>\n"
+"David Nielsen <david@lovesunix.net>\n"
+"daave <fan.d.liu@gmail.com>\n"
+msgstr ""
+"estyn Pryce <dylunio@gmail.com>\n"
+"Jerome S. Gotangco <jgotangco@ubuntu.com>\n"
+"torb <torrb@musiker.nu>\n"
+"Robert Renling Berencreuz <berencreuz@gmail.com>\n"
+"Ola Jeppsson <ola.jeppsson@gmail.com>\n"
+"Daniel Nylander <po@danielnylander.se>\n"
+"aruiz <aruiz@synaptia.net>\n"
+"Manuel Duran Moyano <mduran@ubiobio.cl>\n"
+"Laszlo Pandy <laszlok2@gmail.com>\n"
+"Iván Edgardo Vázquez Santos\n"
+"David Corrales <corrales.david@gmail.com>\n"
+"Benjamin A'Lee <bma@bmalee.eu>\n"
+"Peter Baričič <pbaricic@gmail.com>\n"
+"Артём Попов <artfwo@gmail.com>\n"
+"deepred <psalmos@swissinfo.org>\n"
+"KeepYourMind <keepyourmind@gmail.com>\n"
+"Georgy Faradzhev <georgy.faradzhev@gmail.com>\n"
+"Gendolf <pr-baukalo@rambler.ru>\n"
+"Rodrigo NSH <rodrigo.nsh@gmail.com>\n"
+"Christian Reis <kiko@async.com.br>\n"
+"Lourabe Multimédia\n"
+"Tomasz Dominikowski <dominikowski@gmail.com>\n"
+"Konrad Adamczyk <konrad@svx.pl>\n"
+"Hender <simsalabimladen@gmail.com>\n"
+"sklp\n"
+"Bård Aase <base@kvarteret.no>\n"
+"Pecisk <pecisk@gmail.com>\n"
+"Luca Ferretti <elle.uca@libero.it>\n"
+"Daniele Medri <daniele@medri.org>\n"
+"Igor Khanin\n"
+"Tobias Frederick <me@tbfr.org>\n"
+"Tim Fuchs <tim.fuchs@gmail.com>\n"
+"Ramona Barte\n"
+"Marcus Hochstadt\n"
+"Lebowski\n"
+"Julian Turner\n"
+"Dennis Lichtenthäler <dennis.lichtenthaeler@episode-iv.de>\n"
+"dyphil <dyphil@wanadoo.fr>\n"
+"XioNoX\n"
+"Stemp <StempUbuntu@gmail.com>\n"
+"Signez\n"
+"Pierre Slamich <pierre.slamich@gmail.com>\n"
+"Nicolas Velin <nsv@fr.st>\n"
+"Jean-Francois Arseneau <jf.arseneau@gmail.com>\n"
+"Guillaume Hoffmann\n"
+"Gabriel de Perthuis <gabriel.de-perthuis@laposte.net>\n"
+"Bruno Bord <bruno@jehaisleprintemps.net>\n"
+"Mikko Virkkilä <mvirkkil@cc.hut.fi>\n"
+"Boyd Timothy\n"
+"William Anderson<neuro@well.com>\n"
+"Sridhar Dhanapalan <sridhar@dhanapalan.com>\n"
+"Roger Light <roger@atchoo.org>\n"
+"Malcolm Parsons\n"
+"Peturrr <peterdekraker@planet.nl>\n"
+"jerven Bolleman <ik@jerven.eu>\n"
+"Mathias-K <mathias@computergeil.dk>\n"
+"Niels Kjøller Hansen <niels.k.h@gmail.com>\n"
+"David Nielsen <david@lovesunix.net>\n"
+"daave <fan.d.liu@gmail.com>\n"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:7
+msgid "Add an instrument"
+msgstr "Lisää soitin"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:21
+msgid "Choose one or more instruments to add to your project."
+msgstr "Valitse yksi tai useampi soitin lisättäväksi projektiin"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:37
+msgid "_Search:"
+msgstr "_Etsi:"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:51
+msgid "Type here to search for an instrument"
+msgstr "Kirjoita tähän etsiäksesi soitinta"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:96
+msgid "Don't add an instrument"
+msgstr "Älä lisää soitinta"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:113
+msgid "Add the selected instrument"
+msgstr "Lisää valittu soitin"
+
+#: ../../gtk-builder-ui/AddMixdownActionDialog.ui:7
+msgid "Add Mixdown Action"
+msgstr ""
+
+#: ../../gtk-builder-ui/AddMixdownActionDialog.ui:24
+msgid ""
+"Please select the mixdown actions you would like to add to the mixdown "
+"profile *profile*"
+msgstr ""
+
+#: ../../gtk-builder-ui/AddMixdownActionDialog.ui:110
+msgid "Add Action"
+msgstr "Lisää toiminto"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:13
+msgid "Configure Export File Action"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:25
+msgid ""
+"Please enter the filename of the audio you wish to export. The audio will be "
+"exported to the location specified."
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:54
+msgid "File name:"
+msgstr "Tiedostonimi:"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:65
+#: ../../Jokosher/JokosherApp.py:639
+msgid "Save as file type:"
+msgstr "Tallenna muodossa:"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:115
+msgid "<b>File Details</b>"
+msgstr "<b>Tiedoston tiedot</b>"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:144
+msgid "Export to local directory"
+msgstr "Vie paikalliseen hakemistoon"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:160
+msgid "Export to remote server"
+msgstr "Vie etäpalvelimelle"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:200
+msgid "<b>Location Details</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:34
+msgid ""
+"<b>Jokosher is an Open Source project that is driven by a community of "
+"contributors. To make Jokosher rock, we need your help!</b>"
+msgstr ""
+"<b>Jokosher on avoimen lähdekoodin projekti, jonka kehitystä vie eteenpäin "
+"yhteisö. Sinunkin apusi on tervetullut!</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:55
+msgid "Testing Jokosher, and submitting bugs."
+msgstr "Jokosherin testaus ja virheistä ilmoittaminen."
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:70
+msgid "Drawing icons, images and other art."
+msgstr "Kuvakkeiden, kuvien ja muun grafiikan piirtäminen."
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:85
+msgid "Writing simple to read documentation."
+msgstr "Helposti ymmärrettävän dokumentaation kirjoittaminen."
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:100
+msgid "Writing code and features in Python."
+msgstr "Ohjelmointi ja ominaisuudet python-ohjelmointikielellä."
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:124
+msgid "<b>Testing</b>"
+msgstr "<b>Testaus</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:141
+msgid "<b>Art</b>"
+msgstr "<b>Taide</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:158
+msgid "<b>Documentation</b>"
+msgstr "<b>Dokumentaatio</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:207
+msgid "<b>Coding</b>"
+msgstr "<b>Ohjelmointi</b>"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:18
+msgid "Settings"
+msgstr "Asetukset"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:47
+msgid "<b>Effect Name</b>"
+msgstr "<b>Tehosteen nimi</b>"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:112
+msgid "Save the current settings as a preset"
+msgstr "Tallenna nykyiset asetukset esiasetuksena"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:132
+msgid "Delete the currently active preset"
+msgstr "Poista aktiivinen esiasetus"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:185
+msgid "Use these effect settings"
+msgstr "Käytä näitä tehosteasetuksia"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:56
+msgid "Add an extension"
+msgstr "Lisää laajennus"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:76
+msgid "Remove the currently selected extension"
+msgstr "Poista valittu laajennus"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:98
+#: ../../gtk-builder-ui/MainWindow.ui:315
+msgid "Edit Jokosher preferences"
+msgstr "Muuta Jokosherin asetuksia"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:123
+msgid "Close the extension manager"
+msgstr "Sulje laajennukset"
+
+#: ../../gtk-builder-ui/InstrumentConnectionsDialog.ui:23
+msgid "Select the audio input to use with each instrument."
+msgstr "Valitse käytettävä äänen sisääntulo joka soittimelle."
+
+#: ../../gtk-builder-ui/InstrumentConnectionsDialog.ui:75
+msgid "C_hange Sound System"
+msgstr "Vaihda _äänijärjestelmää"
+
+#: ../../gtk-builder-ui/InstrumentConnectionsDialog.ui:103
+msgid "Save your selections and close this window"
+msgstr "Tallenna valinnat ja sulje ikkuna"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:18
+msgid "Configure Instrument Effects"
+msgstr "Soitintehosteiden asetukset"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:36
+msgid "<b>_Presets for:</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:78
+msgid "Save the currently active effects as a preset"
+msgstr "Tallenna aktiiviset tehosteet esiasetuksena"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:98
+msgid "Delete the currently active effects preset"
+msgstr "Poista aktiivinen tehosteiden esiasetus"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:179
+msgid "Double-click an effect to activate it"
+msgstr "Kaksoisnapsauta tehostetta aktivoidaksesi se"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:197
+msgid "<b>Effects</b>"
+msgstr "<b>Tehosteet</b>"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:217
+msgid "Activate the selected effect"
+msgstr "Aktivoi valittu tehoste"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:264
+msgid "Double-click an active effect to adjust its settings"
+msgstr "Kaksoisnapsauta aktiivista tehostetta muuttaaksesi sen asetuksia"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:293
+msgid "Move the selected active effect up on the effects chain"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:313
+msgid "Move the selected active effect down on the effects chain"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:333
+msgid "Deactivate the currently selected active effect"
+msgstr "Poista käytöstä valittu tehoste"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:353
+msgid "Adjust the settings for the currently selected active effect"
+msgstr "Säädä valitun tehosteen asetuksia"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:381
+msgid "<b>Active effects for: </b>"
+msgstr "<b>Aktiiviset tehosteet:</b>"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:410
+msgid "Listen to these effects"
+msgstr "Kuuntele tehosteita"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:427
+msgid "Use these effects"
+msgstr "Käytä näitä tehosteita"
+
+#: ../../gtk-builder-ui/MainWindow.ui:29
+msgid "_File"
+msgstr "_Tiedosto"
+
+#: ../../gtk-builder-ui/MainWindow.ui:38
+msgid "Create a new project"
+msgstr "Luo uusi projekti"
+
+#: ../../gtk-builder-ui/MainWindow.ui:50
+msgid "Open an existing project"
+msgstr "Avaa olemassaoleva projekti"
+
+#: ../../gtk-builder-ui/MainWindow.ui:62
+msgid "Import an existing project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:73
+msgid "Open a project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:74
+msgid "_Switch Project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:91
+msgid "Save the current project"
+msgstr "Tallenna nykyinen projekti"
+
+#: ../../gtk-builder-ui/MainWindow.ui:102
+msgid "Close the current project"
+msgstr "Sulje nykyinen projekti"
+
+#: ../../gtk-builder-ui/MainWindow.ui:118
+#: ../../gtk-builder-ui/MainWindow.ui:482
+msgid "Add an instrument to the project"
+msgstr "Lisää soitin projektiin"
+
+#: ../../gtk-builder-ui/MainWindow.ui:129
+#: ../../gtk-builder-ui/MainWindow.ui:497
+msgid "Add an audio file to the project"
+msgstr "Lisää äänitiedosto projektiin"
+
+#: ../../gtk-builder-ui/MainWindow.ui:140
+msgid "Manage instrument recording inputs"
+msgstr "Hallitse soitinten äänitys sisääntuloja"
+
+#: ../../gtk-builder-ui/MainWindow.ui:150
+msgid "Change the timeline"
+msgstr "Muuta aikajanaa"
+
+#: ../../gtk-builder-ui/MainWindow.ui:151
+msgid "_Time Format"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:158
+msgid "Change the timeline to show bars, beats and ticks"
+msgstr "Muuta aikajana näyttämään tahtiviivoja, tahteja ja lyöntejä"
+
+#: ../../gtk-builder-ui/MainWindow.ui:159
+msgid "Show as _Bars, Beats, Ticks"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:167
+msgid "Change the timeline to show hours, minutes and seconds"
+msgstr "Muuta aikajana näyttämään tunteja, minuutteja ja sekunteja"
+
+#: ../../gtk-builder-ui/MainWindow.ui:168
+msgid "Show as _Hours, Minutes, Seconds"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:198
+msgid "Export current project to an audio file"
+msgstr "Vie nykyinen projekti äänitiedostoon"
+
+#: ../../gtk-builder-ui/MainWindow.ui:214
+msgid "Quit Jokosher"
+msgstr "Lopeta Jokosher"
+
+#: ../../gtk-builder-ui/MainWindow.ui:228
+msgid "_Edit"
+msgstr "_Muokkaa"
+
+#: ../../gtk-builder-ui/MainWindow.ui:237
+msgid "Undo the last edit"
+msgstr "Kumoa edellinen muokkaus"
+
+#: ../../gtk-builder-ui/MainWindow.ui:249
+msgid "Redo the previous edit"
+msgstr "Toista edellinen muokkaus"
+
+#: ../../gtk-builder-ui/MainWindow.ui:266
+msgid "Cut the current selection"
+msgstr "Leikkaa nykyinen valinta"
+
+#: ../../gtk-builder-ui/MainWindow.ui:277
+msgid "Copy the current selection"
+msgstr "Kopioi nykyinen valinta"
+
+#: ../../gtk-builder-ui/MainWindow.ui:288
+msgid "Paste the contents of the clipboard"
+msgstr "Liitä leikepöydän sisältö"
+
+#: ../../gtk-builder-ui/MainWindow.ui:299
+msgid "Delete the current selection"
+msgstr "Poista valittu"
+
+#: ../../gtk-builder-ui/MainWindow.ui:329
+msgid "_Instrument"
+msgstr "_Soitin"
+
+#: ../../gtk-builder-ui/MainWindow.ui:338
+msgid "Add an audio file to the selected instrument"
+msgstr "Lisää äänitiedosto valittuun soittimeen"
+
+#: ../../gtk-builder-ui/MainWindow.ui:348
+msgid "Change type of the selected instrument"
+msgstr "Muuta valitun soittimen tyyppiä"
+
+#: ../../gtk-builder-ui/MainWindow.ui:349
+msgid "_Change Instrument Type..."
+msgstr "_Muuta soittimen tyyppiä..."
+
+#: ../../gtk-builder-ui/MainWindow.ui:358
+msgid "Remove the selected instrument"
+msgstr "Poista valittu soitin"
+
+#: ../../gtk-builder-ui/MainWindow.ui:372
+msgid "Ex_tensions"
+msgstr "La_ajennukset"
+
+#: ../../gtk-builder-ui/MainWindow.ui:384
+msgid "Open the extension manager"
+msgstr "Avaa laajennukset"
+
+#: ../../gtk-builder-ui/MainWindow.ui:385
+msgid "_Manage Extensions..."
+msgstr "_Hallitse laajennuksia..."
+
+#: ../../gtk-builder-ui/MainWindow.ui:397
+msgid "_Help"
+msgstr "_Ohje"
+
+#: ../../gtk-builder-ui/MainWindow.ui:405
+msgid "User manual contents"
+msgstr "Käyttäjäoppaan hakemisto"
+
+#: ../../gtk-builder-ui/MainWindow.ui:415
+msgid "Report a bug in Jokosher"
+msgstr "Ilmoita virheestä Jokosherissa"
+
+#: ../../gtk-builder-ui/MainWindow.ui:416
+msgid "_Report Bug..."
+msgstr "_Ilmoita ohjelman virheestä..."
+
+#: ../../gtk-builder-ui/MainWindow.ui:425
+msgid "Visit Jokosher's online forums"
+msgstr "Vieraile Jokosherin foorumilla netissä"
+
+#: ../../gtk-builder-ui/MainWindow.ui:436
+msgid "Find out how you can help"
+msgstr "Näin voit auttaa"
+
+#: ../../gtk-builder-ui/MainWindow.ui:447
+msgid "See your system information"
+msgstr "Näe järjestelmäsi tiedot"
+
+#: ../../gtk-builder-ui/MainWindow.ui:458
+msgid "Version information, credits and licence"
+msgstr "Versio tiedot, kiitokset ja lisenssi"
+
+#: ../../gtk-builder-ui/MainWindow.ui:484
+msgid "Add Instrument"
+msgstr "Lisää soitin"
+
+#: ../../gtk-builder-ui/MainWindow.ui:499
+msgid "Add Audio File"
+msgstr "Lisää äänitiedosto"
+
+#: ../../gtk-builder-ui/MainWindow.ui:519
+msgid "Click and hold to rewind"
+msgstr "Paina pohjassa kelataksesi"
+
+#: ../../gtk-builder-ui/MainWindow.ui:531
+msgid "Start playback"
+msgstr "Aloita soitto"
+
+#: ../../gtk-builder-ui/MainWindow.ui:543 ../../Jokosher/JokosherApp.py:66
+msgid "Stop playback"
+msgstr "Pysäytä soitto"
+
+#: ../../gtk-builder-ui/MainWindow.ui:555
+msgid "Click and hold to fast forward"
+msgstr "Paina pohjassa pikakelataksesi"
+
+#: ../../gtk-builder-ui/MainWindow.ui:567
+msgid "Arm an instrument then click here to begin recording"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:588
+msgid "Audio Mixers"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:645
+msgid "Start Jokosher with an empty project"
+msgstr "Käynnistä Jokosher tyhjällä projektilla"
+
+#: ../../gtk-builder-ui/MainWindow.ui:670
+msgid "_New"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:695
+msgid "Find and open an existing project"
+msgstr "Etsi ja avaa olemassaoleva projekti"
+
+#: ../../gtk-builder-ui/MainWindow.ui:720
+msgid "_Import"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:770
+msgid "Double-click on a recent project to open"
+msgstr "Kaksoisnapsauta viimeaikaista projektia avataksesi sen"
+
+#: ../../gtk-builder-ui/MainWindow.ui:788
+msgid "Select a project to open from the list"
+msgstr "Valitse projekti listasta"
+
+#: ../../gtk-builder-ui/MainWindow.ui:813
+msgid "_Open Selected Project"
+msgstr "_Avaa valittu projekti"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:13
+#: ../../Jokosher/JokosherApp.py:630
+msgid "Mixdown Project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:30
+msgid "Mixdown Profile:"
+msgstr ""
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:116
+msgid "<b>Mixdown Actions</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:240
+msgid "Cancel the mixdown"
+msgstr "Peruuta alasmiksaus"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:257
+msgid "Mixdown the project using these settings"
+msgstr "Alasmiksaa projekti näillä asetuksilla"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:282
+msgid "_Mixdown"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:59
+msgid "Open a _new project"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:75
+msgid "_Open most recent project"
+msgstr "_Avaa viimeisin projekti"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:92
+msgid "_Don't open any project"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:116
+msgid "<b>Application Start-up</b>"
+msgstr "<b>Ohjelman käynnistys</b>"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:148
+msgid "_Encoding:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:161
+msgid "S_ample Rate:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:219
+msgid "<b>Recording Format</b>"
+msgstr "<b>Äänitysmuoto</b>"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:251
+msgid "S_ystem:"
+msgstr "_Järjestelmä:"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:264
+msgid "_Pipeline:"
+msgstr "_Putki:"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:316
+msgid "<b>Recording Sound System</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:365
+msgid "Sys_tem:"
+msgstr "_Järjestelmä:"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:378
+msgid "P_ipeline:"
+msgstr "Put_ki:"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:393
+msgid "De_vice:"
+msgstr "_Laite:"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:428
+msgid "autoaudiosink"
+msgstr "autoaudiosink"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:447
+msgid "<b>Playback Sound System</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:470
+msgid "Save preferences and close"
+msgstr "Tallenna asetukset ja sulje"
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:7
+msgid "Mixing Project"
+msgstr "Miksausprojekti"
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:26
+msgid "<big><b>Mixing the project...</b></big>"
+msgstr ""
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:47
+msgid "Your music file is being mixed. This can take some seconds."
+msgstr "Musiikkitiedostoasi miksataan. Tämä voi viedä muutamia sekunteja."
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:90
+msgid "Stop mixing the project"
+msgstr "Lopeta projektin miksaus"
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:7
+msgid "Project Properties"
+msgstr "Projektin ominaisuudet"
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:39
+msgid "_Name:"
+msgstr "_Nimi:"
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:52
+msgid "_Author:"
+msgstr "_Tekijä:"
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:96
+msgid "<b>General</b>"
+msgstr "<b>Yleiset</b>"
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:143
+msgid "<b>N_otes</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:7
+msgid "System Information"
+msgstr "Järjestelmän tiedot"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:36
+msgid "<big>System Information</big>"
+msgstr "<big>Järjestelmän tiedot</big>"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:63
+msgid "GStreamer version:"
+msgstr "GStreamerin versio:"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:74
+msgid "Gnonlin version:"
+msgstr "Gnonlinin versio:"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:87
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:128
+msgid "xx.xx.xx"
+msgstr "xx.xx.xx"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:115
+msgid "Distribution:"
+msgstr "Jakelu:"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:161
+msgid "Close this window"
+msgstr "Sulje tämä ikkuna"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:33
+msgid "Set Time Signature"
+msgstr "Aseta tempo"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:63
+msgid "Beats per _measure"
+msgstr "Iskua _tahdissa"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:76
+msgid "Beat _value"
+msgstr ""
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:111
+msgid "Adjust the amount of beats per measure"
+msgstr "Säädä iskujen määrä tahdissa"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:131
+msgid "<b>Time Signature</b>"
+msgstr "<b>Aikaleima</b>"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:158
+msgid "Use these settings"
+msgstr "Käytä näitä asetuksia"
+
+#: ../../Jokosher/Jokosher:73
+msgid "Print debug output to stdout"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:75
+msgid "Sent debug output to Gstreamer's debug system"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:77
+msgid "Do not load extensions or project on startup (same as -ne)"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:79
+msgid "Do not load a project on startup"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:81
+msgid "Do not load extensions on startup"
+msgstr "Älä lataa laajennuksia käynnistyksessa"
+
+#: ../../Jokosher/AddInstrumentDialog.py:63
+msgid "Change Instrument Type"
+msgstr "Vaihda soittimen tyyppiä"
+
+#: ../../Jokosher/AddInstrumentDialog.py:65
+#, python-format
+msgid "Choose the new instrument type for %s"
+msgstr ""
+
+#: ../../Jokosher/CompactMixView.py:86
+msgid "<b>Instruments Not Shown:</b>"
+msgstr "<b>Soittimet joita ei näytetä:</b>"
+
+#: ../../Jokosher/ControlsBox.py:43
+msgid "Enable this instrument for recording"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:44
+msgid "Disable this instrument for recording"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:45
+msgid "Mute - silence this instrument"
+msgstr "Mykistä - mykistä tämä soitin"
+
+#: ../../Jokosher/ControlsBox.py:46
+msgid "Unmute - hear this instrument"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:47
+msgid "Activate Solo - silence all other instruments"
+msgstr "Soolo - mykistä muut soittimet"
+
+#: ../../Jokosher/ControlsBox.py:48
+msgid "Deactivate Solo - hear all the instruments"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:81
+#: ../../Jokosher/InstrumentEffectsDialog.py:117
+msgid "Instrument Effects"
+msgstr "Soitintehosteet"
+
+#: ../../Jokosher/ControlsBox.py:223
+msgid "You do not have any LADSPA effects plugins installed"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:225
+msgid "Jokosher does not currently support any LADSPA plugins on Windows"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:228
+msgid ""
+"Jokosher requires one or more packages of LADSPA effects to be able to use "
+"this feature, please install the relevant package(s) for your distribution."
+msgstr ""
+
+#: ../../Jokosher/Event.py:780
+#, python-format
+msgid "%(title)s by %(artist)s"
+msgstr ""
+
+#: ../../Jokosher/EventLaneViewer.py:115
+msgid "_Add Audio File..."
+msgstr "_Lisää äänitiedosto..."
+
+#: ../../Jokosher/EventLaneViewer.py:264
+msgid "<b>Right-click</b> for more options."
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:151
+msgid "Trim"
+msgstr "Ota kaistale"
+
+#: ../../Jokosher/EventViewer.py:162
+msgid "Delete Fade Points"
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:170
+msgid "Snap To Fade Points"
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:443
+msgid "Downloading..."
+msgstr "Ladataan..."
+
+#: ../../Jokosher/EventViewer.py:445
+msgid "Loading..."
+msgstr "Latautuu..."
+
+#: ../../Jokosher/EventViewer.py:449
+#, python-format
+msgid "Downloading (%d%%)..."
+msgstr "Ladataan (%d%%)..."
+
+#: ../../Jokosher/EventViewer.py:451
+#, python-format
+msgid "Loading (%d%%)..."
+msgstr "Latautuu (%d%%)..."
+
+#: ../../Jokosher/EventViewer.py:462
+msgid "Recording..."
+msgstr "Äänitetään..."
+
+#: ../../Jokosher/EventViewer.py:510
+msgid ""
+"To <b>Split, Double-Click</b> the wave - To <b>Select, Shift-Click</b> and "
+"drag the mouse"
+msgstr ""
+"<b>Jakaaksesi, kakoisnapsauta</b> aaltoa - <b>Valitaksesi, shift-napsauta</"
+"b> ja vedä hiirellä"
+
+#: ../../Jokosher/EventViewer.py:524
+msgid "<b>Drag</b> the red sliders to modify the volume fade."
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:637
+msgid ""
+"<b>Click</b> the buttons below the selection to do something to that portion "
+"of audio."
+msgstr ""
+"<b>Napsauta</b> valinnan alla olevia nappeja vaikuttaaksesi valittuun "
+"äänikaistaleeseen."
+
+#: ../../Jokosher/EventViewer.py:902
+msgid "_Split"
+msgstr "_Jaa"
+
+#: ../../Jokosher/EventViewer.py:904
+msgid "Cu_t"
+msgstr "_Leikkaa"
+
+#: ../../Jokosher/EventViewer.py:905
+msgid "_Copy"
+msgstr "_Kopioi"
+
+#: ../../Jokosher/EventViewer.py:906
+#: ../../Jokosher/InstrumentEffectsDialog.py:450
+msgid "_Delete"
+msgstr "_Poista"
+
+#: ../../Jokosher/EventViewer.py:1196
+msgid "Error loading file:"
+msgstr "Virhe ladattaessa tiedostoa:"
+
+#: ../../Jokosher/EventViewer.py:1197
+msgid ""
+"Please make sure the file exists, and the appropriate plugin is installed."
+msgstr ""
+"Varmista, että tiedosto on olemassa ja että oikea laajennus on asennettu."
+
+#: ../../Jokosher/EventViewer.py:1415
+#, python-format
+msgid ""
+"Event, %(name)s, %(dur)0.2f seconds long, starting at %(start)0.2f seconds."
+msgstr ""
+
+#: ../../Jokosher/Extension.py:50
+msgid "This is a Jokosher extension; it is not meant to be run directly."
+msgstr ""
+
+#: ../../Jokosher/Extension.py:51
+#, python-format
+msgid ""
+"To install it, move it to the directory %s\n"
+"and run Jokosher."
+msgstr ""
+
+#: ../../Jokosher/Extension.py:54
+msgid ""
+"This is a Jokosher extension, which needs to be installed. Would you like to "
+"install it?"
+msgstr ""
+
+#: ../../Jokosher/Extension.py:56
+msgid "Install"
+msgstr "Asenna"
+
+#: ../../Jokosher/Extension.py:66
+#, python-format
+msgid ""
+"You already have a extension with the name %s installed; would you like to "
+"replace it?"
+msgstr ""
+
+#: ../../Jokosher/Extension.py:69
+msgid "Replace"
+msgstr "Korvaa"
+
+#: ../../Jokosher/Extension.py:82
+msgid "Your new extension is now available in Jokosher!"
+msgstr "Uusi laajennus on nyt käytettävissäsi"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:168
+msgid "Choose a Jokosher Extension file"
+msgstr "Valitse Jokosher-laajennus"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:174
+msgid "Jokosher Extension Files (*.py *.egg)"
+msgstr "Jokosher-laajennukset (*.py *.egg)"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:196
+msgid "There was a problem loading the extension"
+msgstr "Ongelma laajennusta ladattaessa"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:234
+msgid "There was a problem removing the extension"
+msgstr "Ongelma laajennuksen poistamisessa"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:271
+msgid ""
+"An error occurred when trying to launch the preferences for the extension"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:509
+msgid "Broken"
+msgstr "Rikki"
+
+#: ../../Jokosher/Globals.py:510
+msgid "Unclassified"
+msgstr "Luokittelematon"
+
+#: ../../Jokosher/Globals.py:511
+msgid "Amplifiers"
+msgstr "Vahvistimet"
+
+#: ../../Jokosher/Globals.py:512
+msgid "Chorus"
+msgstr "Chorus"
+
+#: ../../Jokosher/Globals.py:513
+msgid "Compressors"
+msgstr "Kompressorit"
+
+#: ../../Jokosher/Globals.py:514
+msgid "Delays"
+msgstr "Viiveet"
+
+#: ../../Jokosher/Globals.py:515
+msgid "Distortions"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:516
+msgid "Equalizers"
+msgstr "Ekvalisaattori"
+
+#: ../../Jokosher/Globals.py:517
+msgid "Filters"
+msgstr "Suotimet"
+
+#: ../../Jokosher/Globals.py:518
+msgid "Flangers"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:519
+msgid "Miscellaneous"
+msgstr "Sekalaiset"
+
+#: ../../Jokosher/Globals.py:520
+msgid "Modulators"
+msgstr "Modulaattorit"
+
+#: ../../Jokosher/Globals.py:521
+msgid "Oscillators"
+msgstr "Oskillaattorit"
+
+#: ../../Jokosher/Globals.py:522
+msgid "Phasers"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:523
+msgid "Reverbs"
+msgstr "Kaiku"
+
+#: ../../Jokosher/Globals.py:524
+msgid "Simulators"
+msgstr "Simulaattorit"
+
+#: ../../Jokosher/Globals.py:718 ../../Jokosher/PreferencesDialog.py:113
+msgid "Autodetect"
+msgstr "Tunnista automaattisesti"
+
+#: ../../Jokosher/Globals.py:719
+msgid "Use GNOME Settings"
+msgstr "Käytän Gnomen asetuksia"
+
+#: ../../Jokosher/Globals.py:729
+msgid "GNOME Settings"
+msgstr "Gnomen asetukset"
+
+#: ../../Jokosher/Globals.py:747
+msgid "Jokosher Audio Editor"
+msgstr "Jokosher-äänieditori"
+
+#: ../../Jokosher/IncrementalSave.py:29 ../../Jokosher/Instrument.py:489
+msgid "Recorded audio"
+msgstr "Tallennettu ääni"
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:58
+msgid "There are no instruments to connect"
+msgstr "Ei liitettäviä soittimia"
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:103
+#: ../../Jokosher/PreferencesDialog.py:338
+msgid "Default"
+msgstr "Oletus"
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:105
+#, python-format
+msgid "Default (%s)"
+msgstr "Oletus (%s)"
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:112
+#, python-format
+msgid "%(device)s (%(id)s), input %(input)d"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:115
+#: ../../Jokosher/PreferencesDialog.py:341
+#, python-format
+msgid "%(device)s (%(id)s)"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:157
+#, python-format
+msgid ""
+"The %(sound-system-name)s sound system does not support device selection."
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:160
+#, python-format
+msgid ""
+"The \"%(custom-pipeline)s\" sound system does not support device selection."
+msgstr ""
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:143
+#: ../../Jokosher/InstrumentEffectsDialog.py:145
+#: ../../Jokosher/MixdownProfileDialog.py:617
+msgid "Name"
+msgstr "Nimi"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:144
+msgid "Type"
+msgstr "Tyyppi"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:447
+msgid "_Move up..."
+msgstr "_Siirrä  ylös..."
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:448
+msgid "M_ove down..."
+msgstr "S_iirrä alas..."
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:451
+msgid "_Settings"
+msgstr "_Asetukset"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:492
+msgid "_Activate effect"
+msgstr "_Aktoivoi tehoste"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:674
+msgid "Effect Settings"
+msgstr "Tehosteen asetukset"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:705
+msgid "-parameter not readable-"
+msgstr "-parametriä ei pystytä lukemaan-"
+
+#: ../../Jokosher/JokosherApp.py:63 ../../Jokosher/JokosherApp.py:65
+msgid "Stop recording"
+msgstr "Pysäytä äänitys"
+
+#: ../../Jokosher/JokosherApp.py:64
+msgid "Arm an instrument, then click here to begin recording"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:67
+msgid "Hide the audio level mixers"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:68
+msgid "Show the audio level mixers"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:438
+#, python-format
+msgid ""
+"<big>Couldn't launch the jokosher website automatically.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:449
+#, python-format
+msgid ""
+"<big>Couldn't launch the launchpad website automatically.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:481
+#, python-format
+msgid ""
+"The instruments '%(name1)s' and '%(name2)s' both have the same input "
+"selected. Please either disarm one, or connect it to a different input "
+"through 'Project -> Recording Inputs'"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:678
+msgid "Preparing to mixdown project"
+msgstr "Valmistellaan projektin alasmiksausta"
+
+#: ../../Jokosher/JokosherApp.py:684
+#, python-format
+msgid "%(progress)d%% of %(total)d seconds completed"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:762
+msgid "Choose a Jokosher project file"
+msgstr "Valitse Jokosher-projektitiedosto"
+
+#: ../../Jokosher/JokosherApp.py:774
+msgid "All Files"
+msgstr "Kaikki tiedostot"
+
+#: ../../Jokosher/JokosherApp.py:778
+msgid "Jokosher Project Files (*.jokosher)"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:811
+msgid "An error occurred and the project could not be imported."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:842
+msgid "New Project"
+msgstr "Uusi projekti"
+
+#: ../../Jokosher/JokosherApp.py:843
+msgid "Unknown Author"
+msgstr "Tuntematon tekijä"
+
+#: ../../Jokosher/JokosherApp.py:849
+msgid "Could not initialize project."
+msgstr "Projektia ei voitu alustaa."
+
+#: ../../Jokosher/JokosherApp.py:851
+msgid ""
+"A file or folder with this name already exists. Please choose a different "
+"project name and try again."
+msgstr ""
+"Samanniminen tiedosto tai kansio on jo olemassa. Valitse toinen nimi "
+"projektille ja yritä uudestaan."
+
+#: ../../Jokosher/JokosherApp.py:853
+msgid "The file or folder location is write-protected."
+msgstr "Tiedosto tai kansio on kirjoitussuojattu."
+
+#: ../../Jokosher/JokosherApp.py:855
+msgid "Invalid name or author."
+msgstr "Virheellinen nimi tai tekijä."
+
+#: ../../Jokosher/JokosherApp.py:857
+msgid "The URI scheme given is either invalid or not supported"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:859
+msgid "Unable to load required Gstreamer plugin:"
+msgstr "Tarvittavaa Gstreamer-lisäosaa ei voida ladata:"
+
+#: ../../Jokosher/JokosherApp.py:866
+#, python-format
+msgid ""
+"Unable to create project.\n"
+"\n"
+"%s"
+msgstr ""
+"Projektia ei voitu luoda:\n"
+"\n"
+"%s"
+
+#: ../../Jokosher/JokosherApp.py:1015
+#, python-format
+msgid "Mixing project to file: %s"
+msgstr "Miksataan projekti tiedostoon: %s"
+
+#: ../../Jokosher/JokosherApp.py:1058
+#, python-format
+msgid "*%s - Jokosher"
+msgstr "*%s - Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:1060
+#, python-format
+msgid "%s - Jokosher"
+msgstr "%s - Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:1127
+#, python-format
+msgid "Show all %d projects"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1129
+msgid "Show all projects"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1132
+msgid "Close the current project, and show all available projects"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1403
+msgid "Jokosher"
+msgstr "Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:1588
+msgid "The project references non-existant files:\n"
+msgstr "Projektissa on viittauksia tiedostoihin, joita ei ole:\n"
+
+#: ../../Jokosher/JokosherApp.py:1592
+msgid ""
+"\n"
+"The project references non-existant images:\n"
+msgstr ""
+"\n"
+"Projektissa on viittauksia kuviin, joita ei ole:\n"
+
+#: ../../Jokosher/JokosherApp.py:1600
+#, python-format
+msgid ""
+"%s\n"
+" Invalid or corrupt project file, will not open."
+msgstr ""
+"%s\n"
+" Virheellinen tai viallinen projektitiedosto, jota ei voida avata."
+
+#: ../../Jokosher/JokosherApp.py:1639
+msgid "You must have Gstreamer version 0.10.9 or higher.\n"
+msgstr "Vaaditaan Gstreamer 0.10.9 tai uudempi.\n"
+
+#: ../../Jokosher/JokosherApp.py:1647
+msgid "You must have Gstreamer plugin gnonlin version 0.10.4.2 or later.\n"
+msgstr "Vaaditaan Gstreamer-lisäosa gnonlin 0.10.4.2 tai uudempi.\n"
+
+#: ../../Jokosher/JokosherApp.py:1649
+msgid "Gstreamer plugin gnonlin is not installed."
+msgstr "Gstreamer-lisäosaa gnonlin ei ole asennettu."
+
+#: ../../Jokosher/JokosherApp.py:1650
+msgid ""
+"\n"
+"See http://doc.jokosher.org/Installation for more details.\n"
+msgstr ""
+"\n"
+"Osiotteessa http://doc.jokosher.org/Installation on lisää tietoja.\n"
+
+#: ../../Jokosher/JokosherApp.py:1653
+msgid ""
+"You must have the Gstreamer plugin packs gst-plugins-base and gst-plugins-"
+"good installed.\n"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1659
+#, python-format
+msgid ""
+"<big>Some functionality will not work correctly or at all.</big>\n"
+"\n"
+"%s"
+msgstr ""
+"<big>Kaikki ominaisuudet eivät välttämättä toimi odotetusti tai lainkaan.</"
+"big>\n"
+"\n"
+"%s"
+
+#: ../../Jokosher/JokosherApp.py:1702
+#, python-format
+msgid ""
+"<big>Couldn't launch the Jokosher documentation site.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1713
+#, python-format
+msgid ""
+"<big>Couldn't launch the forums website automatically.</big>\n"
+"\n"
+"Please visit %s to access them."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1741
+msgid "<b>To find out more, visit:</b>"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1764
+#, python-format
+msgid ""
+"<big>Couldn't launch the contributing website automatically.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1819
+msgid "Gnonlin is missing!"
+msgstr "Gnonlin puuttuu!"
+
+#: ../../Jokosher/JokosherApp.py:1826
+msgid "Unknown"
+msgstr "Tuntematon"
+
+#: ../../Jokosher/JokosherApp.py:1842
+#, python-format
+msgid "The URI scheme '%s' is either invalid or not supported."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1844
+#, python-format
+msgid "Unable to unzip the project file %s"
+msgstr "Projektitiedostoa %s ei voida purkaa"
+
+#: ../../Jokosher/JokosherApp.py:1846
+#, python-format
+msgid "The project file was created with version \"%s\" of Jokosher.\n"
+msgstr "Projektitiedosto luotu Jokosher versiolla \"%s\"\n"
+
+#: ../../Jokosher/JokosherApp.py:1847
+#, python-format
+msgid "Projects from version \"%s\" are incompatible with this release.\n"
+msgstr ""
+"Version \"%s\" projektit eivät ole yhteensopivia tämän version kanssa.\n"
+
+#: ../../Jokosher/JokosherApp.py:1849
+#, python-format
+msgid ""
+"The project:\n"
+"%s\n"
+"\n"
+"does not exist.\n"
+msgstr ""
+"Projektia:\n"
+"%s\n"
+"\n"
+"ei ole olemassa.\n"
+
+#: ../../Jokosher/JokosherApp.py:1851 ../../Jokosher/JokosherApp.py:1855
+msgid "The project file could not be opened.\n"
+msgstr "Projektitiedostoa ei voitu avata:\n"
+
+#: ../../Jokosher/JokosherApp.py:1852
+msgid ""
+"It is recommended that you report this to the Jokosher developers or get "
+"help at http://www.jokosher.org/forums/"
+msgstr ""
+"On suositeltavaa, että ilmoitat tästä Jokosherin kehittäjille tai etsi apua"
+"\r\n"
+"http://www.jokosher.org/forums/"
+
+#: ../../Jokosher/JokosherApp.py:1932
+msgid "Copy file to project"
+msgstr "Kopioi tiedosto projektiin"
+
+#: ../../Jokosher/JokosherApp.py:1937
+msgid "Add Audio File..."
+msgstr "Lisää äänitiedosto..."
+
+#: ../../Jokosher/JokosherApp.py:2011 ../../Jokosher/JokosherApp.py:2016
+msgid "Mix_down As"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:2029
+msgid "_Mixdown Project..."
+msgstr ""
+
+#: ../../Jokosher/MasterMixerStrip.py:46
+msgid "Master Volume:"
+msgstr "Master"
+
+#: ../../Jokosher/MixdownActions.py:157
+msgid "Export File"
+msgstr "Vie tiedosto"
+
+#: ../../Jokosher/MixdownActions.py:158
+msgid "Export a file to the destination of your choosing."
+msgstr "Vie tiedosto valitsemaasi kohteeseen."
+
+#: ../../Jokosher/MixdownActions.py:226
+#, python-format
+msgid ""
+"An encoding plugin could not be found: %s.\n"
+"Please make sure all the plugins required for the specified format are "
+"installed."
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:228
+#, python-format
+msgid "The encoding bin description is invalid: %s"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:254
+msgid "Server type:"
+msgstr "Palvelimen tyyppi:"
+
+#: ../../Jokosher/MixdownActions.py:267
+msgid "Server location:"
+msgstr "Palvelimen sijainti:"
+
+#: ../../Jokosher/MixdownActions.py:271
+msgid "Username:"
+msgstr "Käyttäjänimi:"
+
+#: ../../Jokosher/MixdownActions.py:275
+msgid "Password:"
+msgstr "Salasana:"
+
+#: ../../Jokosher/MixdownActions.py:311
+msgid "Location:"
+msgstr "Sijainti:"
+
+#: ../../Jokosher/MixdownActions.py:379
+msgid "Select Export Location"
+msgstr "Valitse viennin sijainti"
+
+#: ../../Jokosher/MixdownActions.py:490 ../../Jokosher/MixdownActions.py:500
+msgid "Run External Script"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:491
+msgid "Run an external script from the destination of your choosing."
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:532
+#, python-format
+msgid "An error occured with the script %s"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:534
+#, python-format
+msgid "Error in script %s"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:537
+#, python-format
+msgid "The script %s does not exist."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:186
+#, python-format
+msgid "<b>%s is configured</b>"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:188
+#, python-format
+msgid "<b>%s is not configured</b>"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:367
+msgid "Please enter the name of the mixdown profile you wish to create."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:377
+msgid "Profile name:"
+msgstr "Profiilin nimi:"
+
+#: ../../Jokosher/MixdownProfileDialog.py:380
+msgid "Create Mixdown Profile"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:398
+#, python-format
+msgid "Successfully created mixdown profile <b>%s.profile</b>."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:402
+msgid ""
+"Cannot create mixdown profile. Please make sure you have specified a profile "
+"name."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:423
+#, python-format
+msgid "Please make sure the extension <b>%s</b> is enabled."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:424
+#, python-format
+msgid ""
+"<big><b>Cannot load mixdown action %s.</b></big>\n"
+"\n"
+"%s"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:552
+#, python-format
+msgid "An error occured while running the mixdown action: %s"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:616
+msgid "Icon"
+msgstr "Kuvake"
+
+#: ../../Jokosher/MixdownProfileDialog.py:631
+#, python-format
+msgid ""
+"Please select the mixdown actions you would like to add to mixdown profile "
+"<b>%s.</b>"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfiles.py:94 ../../Jokosher/MixdownProfiles.py:151
+#, python-format
+msgid "The mixdown profile %s does not exist"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfiles.py:115
+#, python-format
+msgid "Cannot remove mixdown profile %s"
+msgstr ""
+
+#: ../../Jokosher/MixerStrip.py:63
+msgid "Minimize instrument"
+msgstr ""
+
+#: ../../Jokosher/MixerStrip.py:73
+msgid "Balance:"
+msgstr "Balanssi:"
+
+#: ../../Jokosher/MixerStrip.py:78
+msgid "L"
+msgstr "L"
+
+#: ../../Jokosher/MixerStrip.py:79
+msgid "R"
+msgstr "R"
+
+#: ../../Jokosher/MixerStrip.py:84
+msgid "Adjust instrument balance. Right-click to center"
+msgstr ""
+
+#: ../../Jokosher/MixerStrip.py:98
+msgid "Volume:"
+msgstr "Äänenvoimakkuus:"
+
+#: ../../Jokosher/MixerStrip.py:231
+#, python-format
+msgid "Current balance is <b>%d%%</b> left"
+msgstr ""
+
+#: ../../Jokosher/MixerStrip.py:233
+msgid "Current balance is <b>centered</b>"
+msgstr ""
+
+#: ../../Jokosher/MixerStrip.py:235
+#, python-format
+msgid "Current balance is <b>%d%%</b> right"
+msgstr ""
+
+#: ../../Jokosher/PreferencesDialog.py:75
+#: ../../Jokosher/PreferencesDialog.py:93
+msgid "Custom"
+msgstr "Mukautettu"
+
+#: ../../Jokosher/PreferencesDialog.py:346
+#, python-format
+msgid "Device %d"
+msgstr "Laite %d"
+
+#: ../../Jokosher/RecordingView.py:120
+msgid "Zoom the timeline - Right-Click to reset to the default level"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:129
+msgid "Zoom in timeline"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:136
+msgid "Zoom out timeline"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:180
+msgid "Would you like to restore the current project?"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:181
+msgid ""
+"A crash was detected and changes to your project were not saved.\n"
+"If you would like, you can attempt to recover these lost changes."
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:185
+msgid "_Restore Project"
+msgstr "_Palauta projekti"
+
+#: ../../Jokosher/RecordingView.py:321
+msgid "A Gstreamer error has occurred"
+msgstr "Gstreamer-virhe tapahtui"
+
+#: ../../Jokosher/RecordingView.py:332
+msgid "A GStreamer error has occurred."
+msgstr "Gstreamer-virhe tapahtui."
+
+#: ../../Jokosher/RecordingView.py:333
+msgid ""
+"If this problem persists consider reporting a bug using the link in the help "
+"menu."
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:596
+msgid "This project has no name. Would you like to give it one?"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:597
+msgid ""
+"The Properties dialog in the File menu lets you change the name of author of "
+"the project."
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:601
+msgid "_Open Properties"
+msgstr ""
+
+#: ../../Jokosher/TimeLine.py:566
+#, python-format
+msgid "Timeline, %(bars)d bars, %(beats)d beats and %(ticks)d ticks in"
+msgstr ""
+
+#: ../../Jokosher/TimeLine.py:570
+#, python-format
+msgid ""
+"Timeline, %(hours)d hours, %(mins)d minutes, %(secs)d seconds and %(millis)d "
+"milliseconds in"
+msgstr ""
+
+#: ../../Jokosher/TimeLineBar.py:63
+msgid "Adjust volume of click track"
+msgstr ""
+
+#: ../../Jokosher/TimeLineBar.py:67
+msgid "Beats per minute"
+msgstr "Iskua minuutissa"
+
+#: ../../Jokosher/TimeLineBar.py:86
+msgid "Time signature"
+msgstr "Tempo"
+
+#: ../../Jokosher/TimeView.py:49
+msgid "Double click to change the time format"
+msgstr ""
+
+#: ../../Jokosher/VUWidget.py:146
+msgid ""
+"<b>Drag</b> the <b>slider</b> to alter volume levels - <b>Right-Click</b> to "
+"set the <b>slider</b> to 100%"
+msgstr ""
+
+#: i18n.instr.h:1
+msgid "Acoustic Guitar"
+msgstr "Akustinen kitara"
+
+#: i18n.instr.h:2
+msgid "Audio File"
+msgstr "Äänitiedosto"
+
+#: i18n.instr.h:3
+msgid "Bass Drum"
+msgstr "Bassorumpu"
+
+#: i18n.instr.h:4
+msgid "Bass Guitar"
+msgstr "Bassokitara"
+
+#: i18n.instr.h:5
+msgid "Cello"
+msgstr "Sello"
+
+#: i18n.instr.h:6
+msgid "Cymbal"
+msgstr "Symbaali"
+
+#: i18n.instr.h:7
+msgid "Drum Kit"
+msgstr "Rumpusetti"
+
+#: i18n.instr.h:8
+msgid "Effect"
+msgstr "Tehoste"
+
+#: i18n.instr.h:9
+msgid "Electric Guitar"
+msgstr "Sähkökitara"
+
+#: i18n.instr.h:10
+msgid "Harmonica"
+msgstr "Harmonikka"
+
+#: i18n.instr.h:11
+msgid "Keyboard"
+msgstr "Koskettimet"
+
+#: i18n.instr.h:12
+msgid "Other"
+msgstr "Muu"
+
+#: i18n.instr.h:13
+msgid "Saxophone"
+msgstr "Saksofoni"
+
+#: i18n.instr.h:14
+msgid "Snare"
+msgstr "Virvelirumpu"
+
+#: i18n.instr.h:15
+msgid "Tom Tom"
+msgstr "Tom-Tom"
+
+#: i18n.instr.h:16
+msgid "Trumpet"
+msgstr "Trumpetti"
+
+#: i18n.instr.h:17
+msgid "Violin"
+msgstr "Viulu"
+
+#: i18n.instr.h:18
+msgid "Vocal"
+msgstr "Laulu"
+
+#~ msgid "<b>Jokosher Instruments</b>"
+#~ msgstr "<b>Jokosher-soittimet</b>"
+
+#~ msgid "<b>Recent Projects</b>"
+#~ msgstr "<b>Viimeaikaiset projektit</b>"
+
+#~ msgid "Add Audio _File..."
+#~ msgstr "Lisää _äänitiedosto"
+
+#~ msgid "Add _Instrument..."
+#~ msgstr "Lisää _soitin..."
+
+#~ msgid "Change Jokosher preferences"
+#~ msgstr "Muuta Jokosherin asetuksia"
+
+#~ msgid "Choose a chain effects preset."
+#~ msgstr "Valitse ketjutehoste-esivalinta."
+
+#~ msgid "Choose a project template"
+#~ msgstr "Valitse projektin malli"
+
+#~ msgid "Choose an effect preset."
+#~ msgstr "Valitse tehoste-esivalinta."
+
+#~ msgid "Create the project"
+#~ msgstr "Luo projekti"
+
+#~ msgid "Delete the selected project template"
+#~ msgstr "Poista valittu projektimalli"
+
+#~ msgid "Don't create the project"
+#~ msgstr "Älä luo projektia"
+
+#~ msgid "Edit project templates"
+#~ msgstr "Muokkaa projektimalleja"
+
+#~ msgid ""
+#~ "Enter a name for your project and select a folder to store the project in:"
+#~ msgstr "Anna projektisi nimi ja valitse kansio, jonne se tallennetaan:"
+
+#~ msgid "Enter the author's name"
+#~ msgstr "Anna tekijän nimi"
+
+#~ msgid "Enter the project's name"
+#~ msgstr "Anna projektin nimi"
+
+#~ msgid "Open a recent project"
+#~ msgstr "Avaa viimeaikainen projekti"
+
+#~ msgid "Project Templates"
+#~ msgstr "Projektipohjat"
+
+#~ msgid "R_ecording Inputs..."
+#~ msgstr "_Äänitys sissäntulot..."
+
+#~ msgid "Redo"
+#~ msgstr "Toista"
+
+#~ msgid "Save _As..."
+#~ msgstr "Tallenna _nimellä..."
+
+#~ msgid "Save a copy of the current project"
+#~ msgstr "Tallenna kopioi projektista"
+
+#~ msgid "Save the selected project template"
+#~ msgstr "Tallenna valittu projektimalli"
+
+#~ msgid "Undo"
+#~ msgstr "Kumoa"
+
+#~ msgid "Welcome to Jokosher!"
+#~ msgstr "Tervetuloa Jokosheriin!"
+
+#~ msgid "_Contributing to Jokosher"
+#~ msgstr "_Auta Jokosheria"
+
+#~ msgid "_Create a New Project"
+#~ msgstr "_Luo uusi projekti"
+
+#~ msgid "_Don't open anything"
+#~ msgstr "_Älä avaa mitään"
+
+#~ msgid "_Don't show this on start-up"
+#~ msgstr "_Älä näytä tätä käynnistyksen yhteydessä"
+
+#~ msgid "_Folder:"
+#~ msgstr "_Kansio:"
+
+#~ msgid "_New..."
+#~ msgstr "_Uusi..."
+
+#~ msgid "_Online Forums"
+#~ msgstr "_Foorumit"
+
+#~ msgid "_Open..."
+#~ msgstr "_Avaa..."
+
+#~ msgid "_Preferences"
+#~ msgstr "_Asetukset"
+
+#~ msgid "_Project Name:"
+#~ msgstr "_Projektin nimi:"
+
+#~ msgid "_Recent Projects"
+#~ msgstr "_Viimeisimmät projektit"
+
+#~ msgid "_Remove Selected Instrument"
+#~ msgstr "_Poista valitut soittimet"
+
+#~ msgid "_Show welcome dialog"
+#~ msgstr "_Näytä tervetuloikkuna"
+
+#~ msgid "_System Information"
+#~ msgstr "_Järjestelmän tiedot"
+
+#~ msgid "_Template Name:"
+#~ msgstr "_Mallin nimi:"
+
+#~ msgid "_Use project template"
+#~ msgstr "_Käytä projektimallia"
+
+#~ msgid "Jokosher Project File (*.jokosher)"
+#~ msgstr "Jokosher-projektitiedosto (*.jokosher)"
+
+#~ msgid "Choose a location to save the project"
+#~ msgstr "Valitse sijainti, jonne projekti tallennetaan"
+
+#~ msgid ""
+#~ "<span size='large' weight='bold'>Save changes to project \"%s\" before "
+#~ "closing?</span>\n"
+#~ "\n"
+#~ "Your changes will be lost if you don't save them."
+#~ msgstr ""
+#~ "<span size='large' weight='bold'>Tallenna projektin \"%s\" muutokset "
+#~ "ennen sulkemista?</span>\n"
+#~ "\n"
+#~ "Muutoksesi katoavat ellei niitä tallenneta."
+
+#~ msgid "Close _Without Saving"
+#~ msgstr "Sulje _tallentamatta"
+
+#~ msgid "Clear the list of recent projects"
+#~ msgstr "Tyhjennä viimeisimmät projektit"
+
+#~ msgid "Select A Folder"
+#~ msgstr "Valitse kansio"
+
+#~ msgid "Instrument Name"
+#~ msgstr "Soittimen nimi"
+
+#~ msgid "Force the welcome dialog to show on startup"
+#~ msgstr "Näytä tervetuloikkuna käynnistyksessä"
+
+#~ msgid "Jokosher Errors"
+#~ msgstr "Jokosher-virheet"
+
+#~ msgid "_Close All"
+#~ msgstr "_Sulje kaikki"
+
+#~ msgid "_Show All"
+#~ msgstr "_Näytä kaikki"
+
+#~ msgid "<b>Audio Output Plugin</b>"
+#~ msgstr "<b>Äänen ulostuloliitännäinen</b>"
+
+#, fuzzy
+#~ msgid "<b>Recording Sample Rate</b>"
+#~ msgstr "<b>Äänitysmuoto</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "Autodetect\n"
+#~ "ALSA\n"
+#~ "Custom"
+#~ msgstr "Tunnista automaattisesti"
+
+#~ msgid ""
+#~ "Your sound card isn't capable of recording from multiple sources at the "
+#~ "same time. Please disarm all but one instrument."
+#~ msgstr ""
+#~ "Äänikortti ei tue samanaikaista äänittämistä useammasta äänilähteestä. "
+#~ "Määritä vain yksi soitin äänittämään."
+
+#~ msgid "Argh! Something went wrong and a serious error occurred:"
+#~ msgstr "Äh! Jotain meni pieleen ja"
+
+#~ msgid "Mixdown as"
+#~ msgstr "Alasmiksaa..."
+
+#, fuzzy
+#~ msgid "Files Saves As"
+#~ msgstr "Tiedosto Tallentaan"
+
+#, fuzzy
+#~ msgid "Time Format"
+#~ msgstr "Ajannäyttö"
+
+#, fuzzy
+#~ msgid ""
+#~ "Use the combo boxes below to select which input is used with which "
+#~ "instrument"
+#~ msgstr "Valitse alla mitä sisääntuloa kunkin soittimen kanssa käytetään"
+
+#, fuzzy
+#~ msgid ""
+#~ "Wave\n"
+#~ "FLAC\n"
+#~ "Ogg Vorbis"
+#~ msgstr ""
+#~ "Wave\n"
+#~ "FLAC\n"
+#~ "Ogg Vorbis"
+
+#, fuzzy
+#~ msgid ""
+#~ "The instruments '%s' and '%s' both have the same input selected (%s). "
+#~ "Please either disarm one, or connect it to a different input through "
+#~ "'Project -> Instrument Connections'"
+#~ msgstr ""
+#~ "Soittimilla '%s' ja '%s' on samat valitut sisääntulot (%s). Estä toiselta "
+#~ "soittimelta äänittäminen, tai liitä se toiseen sisääntuloon valikosta "
+#~ "\"Projekti -> Soitinliitännät\""
+
+#, fuzzy
+#~ msgid "%d of %d seconds completed"
+#~ msgstr "%d/%d sekuntia käsitelty"
+
+#, fuzzy
+#~ msgid "Add this step to the current mixdown"
+#~ msgstr "Lisää tämä askel nykyiseen miksaukseen"
+
+#, fuzzy
+#~ msgid "Audio production made simple."
+#~ msgstr "Äänituotantoa yksinkertaisesti."
+
+#, fuzzy
+#~ msgid "Preferences"
+#~ msgstr "_Asetukset"
+
+#, fuzzy
+#~ msgid "Search:"
+#~ msgstr "_Etsi:"
+
+#~ msgid ""
+#~ "16 bit\n"
+#~ "24 bit\n"
+#~ "32 bit"
+#~ msgstr ""
+#~ "16 bittiä\n"
+#~ "24 bittiä\n"
+#~ "32 bittiä"
+
+#~ msgid ""
+#~ "96000\n"
+#~ "48000\n"
+#~ "44100\n"
+#~ "32000\n"
+#~ "24000\n"
+#~ "22050\n"
+#~ "16000\n"
+#~ "11025\n"
+#~ "8000"
+#~ msgstr ""
+#~ "96000\n"
+#~ "48000\n"
+#~ "44100\n"
+#~ "32000\n"
+#~ "24000\n"
+#~ "22050\n"
+#~ "16000\n"
+#~ "11025\n"
+#~ "8000"
+
+#, fuzzy
+#~ msgid "<b>Audio Mixdown</b>"
+#~ msgstr "<b>Ohjelmointi</b>"
+
+#~ msgid ""
+#~ "<b>To find out more, visit:</b>\n"
+#~ "http://www.jokosher.org/contribute"
+#~ msgstr ""
+#~ "<b>Saadaksesi tietää enemmän:</b>\n"
+#~ "http://www.jokosher.org/contribute"
+
+#, fuzzy
+#~ msgid "Device"
+#~ msgstr "_Laite:"
+
+#, fuzzy
+#~ msgid "General"
+#~ msgstr "<b>Yleiset</b>"
+
+#~ msgid "Output Format"
+#~ msgstr "Tulostusmuoto"
+
+#~ msgid "Pre-release Notes"
+#~ msgstr "Esi-julkaisun tiedot"
+
+#~ msgid "Presets"
+#~ msgstr "Esivalinnat"
+
+#~ msgid "Preview"
+#~ msgstr "Esikatselu"
+
+#, fuzzy
+#~ msgid "Sample Format"
+#~ msgstr "Näytteenottotaajuus (Hz)"
+
+#~ msgid "Sample Rate (Hz)"
+#~ msgstr "Näytteenottotaajuus (Hz)"
+
+#~ msgid "Select an instrument, then click here to begin recording"
+#~ msgstr "Valitse soitin, ja paina tästä aloittaaksesi äänitys"
+
+#, fuzzy
+#~ msgid "Show as Bars, Beats, Ticks"
+#~ msgstr "Näytä tunnit, minuutit, sekunnit"
+
+#~ msgid "Show as Hours, Minutes, Seconds"
+#~ msgstr "Näytä tunnit, minuutit, sekunnit"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "kääntäjät\n"
+#~ "\n"
+#~ "Launchpad Contributions:\n"
+#~ "  Boyd Timothy https://launchpad.net/~btimothy\n"
+#~ "  Felix Heinonen https://launchpad.net/~fheinonen\n"
+#~ "  Jyri-Petteri Paloposki https://launchpad.net/~zeip\n"
+#~ "  Mikko Virkkilä https://launchpad.net/~mvirkkil"
+
+#~ msgid ""
+#~ "No instruments are armed for recording. You need to arm an instrument "
+#~ "before you can begin recording."
+#~ msgstr ""
+#~ "Yhtään soitinta ei ole määrätty äänittämään. Vähintään yksi soitin on "
+#~ "määrättävä äänittämään jotta äänitys voi alkaa."
+
+#~ msgid ""
+#~ "No channels capable of recording have found, please attach a device and "
+#~ "try again."
+#~ msgstr "Yhtään äänityskanavaa ei löytynyt. Liitä laite ja yritä uudestaan."
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "See http://jokosher.org/trac/wiki/GettingJokosher for more details.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Osiotteessa http://doc.jokosher.org/Installation on lisää tietoja.\n"
+
+#~ msgid ""
+#~ "<big>Notes about this release</big>\n"
+#~ "\n"
+#~ "This version of Jokosher (0.1) is a pre-release version, and is infact, "
+#~ "our very first release. As such, you may encounter some bugs and "
+#~ "functionality that is not present."
+#~ msgstr ""
+#~ "<big>Tietoja tästä juklaisusta</big>\n"
+#~ "\n"
+#~ "Tämä versio Jokosherista (0.1) on esi-julkaisuversio ja itseasiassa "
+#~ "ensimmäinen julkaisu koskaan. Tästä johtuen ohjelman toiminnallisuudessa "
+#~ "saattaa esiintyä virheitä tai puutteita."
+
+#~ msgid "Paste"
+#~ msgstr "Liitä"
+
+#, fuzzy
+#~ msgid "Import file..."
+#~ msgstr "Vie tiedosto"
+
+#~ msgid ""
+#~ "<b>NOTE</b>: The volume sliders in this pre-release version of Jokosher "
+#~ "do not affect the audio."
+#~ msgstr ""
+#~ "<b>Huomio</b>: Äänenvoimakkuussäätimet tässä esi-julkaisuversiossa eivät "
+#~ "vaikuta äänenvoimakkuuteen."
+
+#~ msgid "The uri scheme '%s' is either invalid or not supported."
+#~ msgstr "URI:n tyyppiä '%s' ei tueta tai se on virheellinen."
+
+#~ msgid "The uri scheme given is either invalid or not supported"
+#~ msgstr "URI:n tyyppiä ei ole määritelty tai sitä ei tueta"
+
+#~ msgid "Beat value"
+#~ msgstr "Iskun arvo"
+
+#, fuzzy
+#~ msgid "Device:"
+#~ msgstr "_Laite:"
+
+#, fuzzy
+#~ msgid "Don't open anything"
+#~ msgstr "_Älä avaa mitään"
+
+#~ msgid "FastForward"
+#~ msgstr "Kelaa eteenpäin"
+
+#~ msgid "Output:"
+#~ msgstr "Ulostulo:"
+
+#, fuzzy
+#~ msgid "Show welcome dialog"
+#~ msgstr "_Näytä tervetuloikkuna"
+
+#~ msgid "Stop"
+#~ msgstr "Stop"
+
+#~ msgid "Switch to the Mixing workspace"
+#~ msgstr "Vaihda Miksaus työtilaan"
+
+#~ msgid "Switch to the Recording workspace"
+#~ msgstr "Vaihda Äänitys työtilaan"
+
+#~ msgid "Workspaces"
+#~ msgstr "Työtilat"
+
+#~ msgid "version 0.9"
+#~ msgstr "versio 0.9"
+
+#~ msgid "_Paste"
+#~ msgstr "_Liitä"
+
+#~ msgid "Currently working in the Recording workspace"
+#~ msgstr "Työskentelet Äänitys työtilassa"
+
+#~ msgid "Currently working in the Mixing workspace"
+#~ msgstr "Työskentelet Miksaus työtilassa"
+
+#~ msgid "_Mixdown as"
+#~ msgstr "_Alasmiksaa..."
+
+#, fuzzy
+#~ msgid "Export file"
+#~ msgstr "Vie tiedosto"
+
+#, fuzzy
+#~ msgid "Export as"
+#~ msgstr "Vie tiedosto"
+
+#~ msgid "Hz"
+#~ msgstr "Hz"
+
+#~ msgid "<b>Drag</b> the <b>slider</b> to alter volume levels"
+#~ msgstr "<b>Vedä liuutinta</b> muuttaaksesi äänenvoimakkuuksia"
+
+#, fuzzy
+#~ msgid "<b>Recorded Audio Format</b>"
+#~ msgstr "<b>Äänitysmuoto</b>"
+
+#, fuzzy
+#~ msgid "_Project"
+#~ msgstr "Uusi projekti"
+
+#, fuzzy
+#~ msgid "<b>Audio Quality</b>"
+#~ msgstr "<b>Taide</b>"
+
+#, fuzzy
+#~ msgid "<b>Quality</b>"
+#~ msgstr "<b>Taide</b>"
+
+#, fuzzy
+#~ msgid "Contributing to Jokosher"
+#~ msgstr "_Auta Jokosheria"
+
+#, fuzzy
+#~ msgid "Instrument Connections"
+#~ msgstr "Soitintehosteet"
+
+#, fuzzy
+#~ msgid "Playback"
+#~ msgstr "Pysäytä soitto"
+
+#, fuzzy
+#~ msgid "Recent Projects"
+#~ msgstr "_Viimeisimmät projektit"
+
+#, fuzzy
+#~ msgid "Select an effect"
+#~ msgstr "_Aktoivoi tehoste"
+
+#, fuzzy
+#~ msgid "Select an effect to add to the instrument"
+#~ msgstr "Valitse projekti listasta"
+
+#, fuzzy
+#~ msgid "Import Audio File..."
+#~ msgstr "Lisää äänitiedosto..."
+
+#, fuzzy
+#~ msgid "Delete"
+#~ msgstr "_Poista"
+
+#, fuzzy
+#~ msgid "Split"
+#~ msgstr "_Jaa"
+
+#, fuzzy
+#~ msgid "Cut"
+#~ msgstr "_Leikkaa"
+
+#, fuzzy
+#~ msgid "Copy"
+#~ msgstr "_Kopioi"
+
+#, fuzzy
+#~ msgid "Instrument Effects..."
+#~ msgstr "Soitintehosteet"
+
+#, fuzzy
+#~ msgid "Master Volume"
+#~ msgstr "Master"
+
+#, fuzzy
+#~ msgid "Volume: %.2f"
+#~ msgstr "Äänenvoimakkuus:"
+
+#, fuzzy
+#~ msgid "<b>Presets for:</b>"
+#~ msgstr "<b>Aktiiviset tehosteet:</b>"
+
+#, fuzzy
+#~ msgid "Add a new instrument"
+#~ msgstr "Lisää soitin"
+
+#, fuzzy
+#~ msgid "Add a new step:"
+#~ msgstr "Lisää soitin"
+
+#, fuzzy
+#~ msgid "Author"
+#~ msgstr "_Tekijä:"
+
+#, fuzzy
+#~ msgid "Beats per measure"
+#~ msgstr "Iskua _tahdissa"
+
+#, fuzzy
+#~ msgid "Browse for an Existing Project"
+#~ msgstr "Avaa olemassaoleva projekti"
+
+#, fuzzy
+#~ msgid "Create a New Project"
+#~ msgstr "_Luo uusi projekti"
+
+#, fuzzy
+#~ msgid "Don't show this on start-up"
+#~ msgstr "_Älä näytä tätä käynnistyksen yhteydessä"
+
+#, fuzzy
+#~ msgid "Folder"
+#~ msgstr "_Kansio:"
+
+#, fuzzy
+#~ msgid "Mixing"
+#~ msgstr "Miksausprojekti"
+
+#, fuzzy
+#~ msgid "Mixing Workspace"
+#~ msgstr "Miksausprojekti"
+
+#, fuzzy
+#~ msgid "Open Selected Project"
+#~ msgstr "_Avaa valittu projekti"
+
+#, fuzzy
+#~ msgid "Open most recent project"
+#~ msgstr "_Avaa viimeisin projekti"
+
+#, fuzzy
+#~ msgid "Project Name"
+#~ msgstr "_Projektin nimi:"
+
+#, fuzzy
+#~ msgid "Record"
+#~ msgstr "Äänitetään..."
+
+#, fuzzy
+#~ msgid "Recording"
+#~ msgstr "Äänitetään..."
+
+#, fuzzy
+#~ msgid "Remove Selected Instrument"
+#~ msgstr "_Poista valitut soittimet"
+
+#, fuzzy
+#~ msgid "Rewind"
+#~ msgstr "Toista"
+
+#, fuzzy
+#~ msgid "_Add Instrument"
+#~ msgstr "Lisää soitin"
+
+#, fuzzy
+#~ msgid "_Manage Extensions"
+#~ msgstr "_Hallitse laajennuksia..."
+
+#, fuzzy
+#~ msgid "_Mixdown Project"
+#~ msgstr "Miksausprojekti"
+
+#, fuzzy
+#~ msgid "_Save these settings"
+#~ msgstr "Käytä näitä asetuksia"
+
+#, fuzzy
+#~ msgid "Choose a name for this profile"
+#~ msgstr "Valitse Jokosher-projektitiedosto"

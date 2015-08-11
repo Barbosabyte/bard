@@ -1,0 +1,2235 @@
+# Hungarian translation for jokosher
+# Copyright (c) 2007 Rosetta Contributors and Canonical Ltd 2007
+# This file is distributed under the same license as the jokosher package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jokosher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-07 14:18+0100\n"
+"PO-Revision-Date: 2009-09-20 17:43+0000\n"
+"Last-Translator: Lévai Tamás <leai@t-online.hu>\n"
+"Language-Team: Hungarian <hu@li.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-02-26 00:44+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: ../../gtk-builder-ui/AboutDialog.ui:10
+msgid ""
+"Audio production made simple.\n"
+"Version 0.11.5"
+msgstr ""
+
+#. TRANSLATORS: Replace this string with your names, one name per line.
+#: ../../gtk-builder-ui/AboutDialog.ui:384
+msgid ""
+"Iestyn Pryce <dylunio@gmail.com>\n"
+"Jerome S. Gotangco <jgotangco@ubuntu.com>\n"
+"torb <torrb@musiker.nu>\n"
+"Robert Renling Berencreuz <berencreuz@gmail.com>\n"
+"Ola Jeppsson <ola.jeppsson@gmail.com>\n"
+"Daniel Nylander <po@danielnylander.se>\n"
+"aruiz <aruiz@synaptia.net>\n"
+"Manuel Duran Moyano <mduran@ubiobio.cl>\n"
+"Laszlo Pandy <laszlok2@gmail.com>\n"
+"Iván Edgardo Vázquez Santos \n"
+"David Corrales <corrales.david@gmail.com>\n"
+"Benjamin A'Lee <bma@bmalee.eu>\n"
+"Peter Baričič <pbaricic@gmail.com>\n"
+"Артём Попов <artfwo@gmail.com>\n"
+"deepred <psalmos@swissinfo.org>\n"
+"KeepYourMind <keepyourmind@gmail.com>\n"
+"Georgy Faradzhev <georgy.faradzhev@gmail.com>\n"
+"Gendolf <pr-baukalo@rambler.ru>\n"
+"Rodrigo NSH <rodrigo.nsh@gmail.com>\n"
+"Christian Reis <kiko@async.com.br>\n"
+"Lourabe Multimédia \n"
+"Tomasz Dominikowski <dominikowski@gmail.com>\n"
+"Konrad Adamczyk <konrad@svx.pl>\n"
+"Hender <simsalabimladen@gmail.com>\n"
+"sklp\n"
+"Bård Aase <base@kvarteret.no>\n"
+"Pecisk <pecisk@gmail.com>\n"
+"Luca Ferretti <elle.uca@libero.it>\n"
+"Daniele Medri <daniele@medri.org>\n"
+"Igor Khanin \n"
+"Tobias Frederick <me@tbfr.org>\n"
+"Tim Fuchs <tim.fuchs@gmail.com>\n"
+"Ramona Barte \n"
+"Marcus Hochstadt\n"
+"Lebowski\n"
+"Julian Turner\n"
+"Dennis Lichtenthäler <dennis.lichtenthaeler@episode-iv.de>\n"
+"dyphil <dyphil@wanadoo.fr>\n"
+"XioNoX \n"
+"Stemp <StempUbuntu@gmail.com>\n"
+"Signez\n"
+"Pierre Slamich <pierre.slamich@gmail.com>\n"
+"Nicolas Velin <nsv@fr.st>\n"
+"Jean-Francois Arseneau <jf.arseneau@gmail.com>\n"
+"Guillaume Hoffmann \n"
+"Gabriel de Perthuis <gabriel.de-perthuis@laposte.net>\n"
+"Bruno Bord <bruno@jehaisleprintemps.net>\n"
+"Mikko Virkkilä <mvirkkil@cc.hut.fi>\n"
+"Boyd Timothy\n"
+"William Anderson<neuro@well.com>\n"
+"Sridhar Dhanapalan <sridhar@dhanapalan.com>\n"
+"Roger Light <roger@atchoo.org>\n"
+"Malcolm Parsons\n"
+"Peturrr <peterdekraker@planet.nl>\n"
+"jerven Bolleman <ik@jerven.eu>\n"
+"Mathias-K <mathias@computergeil.dk>\n"
+"Niels Kjøller Hansen <niels.k.h@gmail.com>\n"
+"David Nielsen <david@lovesunix.net>\n"
+"daave <fan.d.liu@gmail.com>\n"
+msgstr ""
+"Gergely Máté\n"
+"Lévai Tamás\n"
+"Thomas Martin Klein\n"
+"...\n"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:7
+msgid "Add an instrument"
+msgstr "Hangszer hozzáadása"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:21
+msgid "Choose one or more instruments to add to your project."
+msgstr "Válasszunk ki egy vagy több hangszert, hogy a projekthez adjuk"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:37
+msgid "_Search:"
+msgstr "_Keresés:"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:51
+msgid "Type here to search for an instrument"
+msgstr "Írjunk ide a hangszerek közötti kereséshez"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:96
+msgid "Don't add an instrument"
+msgstr "Ne adjon hozzá hangszert"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:113
+msgid "Add the selected instrument"
+msgstr "Kiválasztott hangszer hozzáadása"
+
+#: ../../gtk-builder-ui/AddMixdownActionDialog.ui:7
+msgid "Add Mixdown Action"
+msgstr "Lekeverési művelet hozzáadása"
+
+#: ../../gtk-builder-ui/AddMixdownActionDialog.ui:24
+msgid ""
+"Please select the mixdown actions you would like to add to the mixdown "
+"profile *profile*"
+msgstr "Kérem válassza ki a Lekeverési profilhoz adandó lekeverési műveleteket"
+
+#: ../../gtk-builder-ui/AddMixdownActionDialog.ui:110
+msgid "Add Action"
+msgstr "Művelet hozzáadása"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:13
+msgid "Configure Export File Action"
+msgstr "Fájl exportáló művelet testreszabása"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:25
+msgid ""
+"Please enter the filename of the audio you wish to export. The audio will be "
+"exported to the location specified."
+msgstr ""
+"Kérem írja be az exportálandó hangfájl nevét. Az exportálás a meghatározott "
+"helyre történik."
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:54
+msgid "File name:"
+msgstr "Fájlnév:"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:65
+#: ../../Jokosher/JokosherApp.py:639
+msgid "Save as file type:"
+msgstr "Fájltípus szerinti mentés:"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:115
+msgid "<b>File Details</b>"
+msgstr "<b>Fájl információk</b>"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:144
+msgid "Export to local directory"
+msgstr "Exportálás helyi mappába"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:160
+msgid "Export to remote server"
+msgstr "Exportálás távoli kiszolgálóra"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:200
+msgid "<b>Location Details</b>"
+msgstr "<b>Hely információk</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:34
+msgid ""
+"<b>Jokosher is an Open Source project that is driven by a community of "
+"contributors. To make Jokosher rock, we need your help!</b>"
+msgstr ""
+"<b>A Jokosher egy nyilt-foráskódú projekt, amit egy fejlesztőkből álló "
+"közösség irányít. Ahhoz hogy a Jokosher ütős lehessen, szükségünk van a te "
+"segitségedre is!</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:55
+msgid "Testing Jokosher, and submitting bugs."
+msgstr "A Jokosher tesztelése és hibák jelentése"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:70
+msgid "Drawing icons, images and other art."
+msgstr "Ikonok, képek és más grafika rajzolása."
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:85
+msgid "Writing simple to read documentation."
+msgstr "Egyszerű és érthető dokumentáció készítése."
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:100
+msgid "Writing code and features in Python."
+msgstr "Kód és funkcionalitás írása Pythonban."
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:124
+msgid "<b>Testing</b>"
+msgstr "<b>Tesztelés</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:141
+msgid "<b>Art</b>"
+msgstr "<b>Művészet</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:158
+msgid "<b>Documentation</b>"
+msgstr "<b>Dokumentáció</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:207
+msgid "<b>Coding</b>"
+msgstr "<b>Kódolás</b>"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:18
+msgid "Settings"
+msgstr "Beállítások"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:47
+msgid "<b>Effect Name</b>"
+msgstr "<b>Effektus név</b>"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:112
+msgid "Save the current settings as a preset"
+msgstr "Jelenlegi beállítások alapértelmezetté tétele"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:132
+msgid "Delete the currently active preset"
+msgstr "Aktuális alapbeállítás törlése"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:185
+msgid "Use these effect settings"
+msgstr "Ezen effektbeállítások használata"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:56
+msgid "Add an extension"
+msgstr "Kiegészítő hozzáadása"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:76
+msgid "Remove the currently selected extension"
+msgstr "A kijelölt kiegészítő eltávolítása"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:98
+#: ../../gtk-builder-ui/MainWindow.ui:315
+msgid "Edit Jokosher preferences"
+msgstr "A Jokosher beállításainak szerkesztése"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:123
+msgid "Close the extension manager"
+msgstr "A kiterjesztéskezelő bezárása"
+
+#: ../../gtk-builder-ui/InstrumentConnectionsDialog.ui:23
+msgid "Select the audio input to use with each instrument."
+msgstr "Válasszunk ki minden hangszerhez audiobemenetet"
+
+#: ../../gtk-builder-ui/InstrumentConnectionsDialog.ui:75
+msgid "C_hange Sound System"
+msgstr "Hangrendszer _változtatása"
+
+#: ../../gtk-builder-ui/InstrumentConnectionsDialog.ui:103
+msgid "Save your selections and close this window"
+msgstr "A kijelölések mentése és az ablak becsukása"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:18
+msgid "Configure Instrument Effects"
+msgstr "Hangszer Effektjeinek Beállítása"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:36
+msgid "<b>_Presets for:</b>"
+msgstr "<b>El_őrebeállított ehhez::</b>"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:78
+msgid "Save the currently active effects as a preset"
+msgstr "Aktív effektek mentlése alapértelmezettként"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:98
+msgid "Delete the currently active effects preset"
+msgstr "Effektek aktuális alapbeállításának törlése"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:179
+msgid "Double-click an effect to activate it"
+msgstr "Kattintsunk duplán egy effektre az aktiválásához"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:197
+msgid "<b>Effects</b>"
+msgstr "<b>Effektusok</b>"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:217
+msgid "Activate the selected effect"
+msgstr "Kiválasztott effekt bekapcsolása"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:264
+msgid "Double-click an active effect to adjust its settings"
+msgstr "Kattintsunk duplán egy működő effektre a beállításainak módosításához"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:293
+msgid "Move the selected active effect up on the effects chain"
+msgstr "A kiválasztott effekt előrébbmozgatása az effektek láncolatában"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:313
+msgid "Move the selected active effect down on the effects chain"
+msgstr "A kiválasztott effekt hátrébbmozgatása az effektek láncolatában"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:333
+msgid "Deactivate the currently selected active effect"
+msgstr "Kikapcsolja a kijelölt aktív effektet"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:353
+msgid "Adjust the settings for the currently selected active effect"
+msgstr "Kiválasztott aktív effekt beállításai"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:381
+msgid "<b>Active effects for: </b>"
+msgstr "<b>Aktív effektek ehhez:</b>"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:410
+msgid "Listen to these effects"
+msgstr "Kijelölt effektek meghallgatása"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:427
+msgid "Use these effects"
+msgstr "Ezen effektek használata"
+
+#: ../../gtk-builder-ui/MainWindow.ui:29
+msgid "_File"
+msgstr "_Fájl"
+
+#: ../../gtk-builder-ui/MainWindow.ui:38
+msgid "Create a new project"
+msgstr "Új projekt készítése"
+
+#: ../../gtk-builder-ui/MainWindow.ui:50
+msgid "Open an existing project"
+msgstr "Létező projekt megnyitása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:62
+msgid "Import an existing project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:73
+msgid "Open a project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:74
+msgid "_Switch Project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:91
+msgid "Save the current project"
+msgstr "A jelenlegi projekt mentése"
+
+#: ../../gtk-builder-ui/MainWindow.ui:102
+msgid "Close the current project"
+msgstr "A jelenlegi projekt bezárása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:118
+#: ../../gtk-builder-ui/MainWindow.ui:482
+msgid "Add an instrument to the project"
+msgstr "Hangszer hozzáadása a projekthez"
+
+#: ../../gtk-builder-ui/MainWindow.ui:129
+#: ../../gtk-builder-ui/MainWindow.ui:497
+msgid "Add an audio file to the project"
+msgstr "Hangfájl hozzáadása a projekthez"
+
+#: ../../gtk-builder-ui/MainWindow.ui:140
+msgid "Manage instrument recording inputs"
+msgstr "Hangszerek felvételi bemenetének kezelése"
+
+#: ../../gtk-builder-ui/MainWindow.ui:150
+msgid "Change the timeline"
+msgstr "Idővonal megváltoztatása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:151
+msgid "_Time Format"
+msgstr "Időformá_tum"
+
+#: ../../gtk-builder-ui/MainWindow.ui:158
+msgid "Change the timeline to show bars, beats and ticks"
+msgstr "Ütem alapú idővonal mutatása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:159
+msgid "Show as _Bars, Beats, Ticks"
+msgstr "Ütemenkénti mutatás"
+
+#: ../../gtk-builder-ui/MainWindow.ui:167
+msgid "Change the timeline to show hours, minutes and seconds"
+msgstr "Óra, perc, másodperc alapú idővonal mutatása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:168
+msgid "Show as _Hours, Minutes, Seconds"
+msgstr "Óra, perc, másodperc alapú mutatás"
+
+#: ../../gtk-builder-ui/MainWindow.ui:198
+msgid "Export current project to an audio file"
+msgstr "Aktuális projekt exportálása hangfájlba"
+
+#: ../../gtk-builder-ui/MainWindow.ui:214
+msgid "Quit Jokosher"
+msgstr "Kilépés a Jokosherből"
+
+#: ../../gtk-builder-ui/MainWindow.ui:228
+msgid "_Edit"
+msgstr "Sz_erkesztés"
+
+#: ../../gtk-builder-ui/MainWindow.ui:237
+msgid "Undo the last edit"
+msgstr "Az utolsó szerkesztés visszavonása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:249
+msgid "Redo the previous edit"
+msgstr "Előző szerkesztési művelet megismétlése"
+
+#: ../../gtk-builder-ui/MainWindow.ui:266
+msgid "Cut the current selection"
+msgstr "A jelenlegi kijelölés kivágása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:277
+msgid "Copy the current selection"
+msgstr "Kijelölés másolása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:288
+msgid "Paste the contents of the clipboard"
+msgstr "A vágólap tartalmának beillesztése"
+
+#: ../../gtk-builder-ui/MainWindow.ui:299
+msgid "Delete the current selection"
+msgstr "A jelenlegi kijelölés törlése"
+
+#: ../../gtk-builder-ui/MainWindow.ui:329
+msgid "_Instrument"
+msgstr "_Hangszer"
+
+#: ../../gtk-builder-ui/MainWindow.ui:338
+msgid "Add an audio file to the selected instrument"
+msgstr "Hangfájl hozzáadása a kiválasztott hangszerhez"
+
+#: ../../gtk-builder-ui/MainWindow.ui:348
+msgid "Change type of the selected instrument"
+msgstr "A kiválasztott hangszer típusának megváltoztatása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:349
+msgid "_Change Instrument Type..."
+msgstr "H_angszer típusának módosítása..."
+
+#: ../../gtk-builder-ui/MainWindow.ui:358
+msgid "Remove the selected instrument"
+msgstr "A kijelölt hangszer eltávolítása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:372
+msgid "Ex_tensions"
+msgstr "Kiegészí_tők"
+
+#: ../../gtk-builder-ui/MainWindow.ui:384
+msgid "Open the extension manager"
+msgstr "Kiterjesztéskezelő megnyitása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:385
+msgid "_Manage Extensions..."
+msgstr "_Kiegészítők kezelése..."
+
+#: ../../gtk-builder-ui/MainWindow.ui:397
+msgid "_Help"
+msgstr "_Súgó"
+
+#: ../../gtk-builder-ui/MainWindow.ui:405
+msgid "User manual contents"
+msgstr "Kézikönyv tartalomjegyzéke"
+
+#: ../../gtk-builder-ui/MainWindow.ui:415
+msgid "Report a bug in Jokosher"
+msgstr "A Jokosher hibájának jelentése a fejlesztőknek"
+
+#: ../../gtk-builder-ui/MainWindow.ui:416
+msgid "_Report Bug..."
+msgstr "Hi_bajelentés küldése"
+
+#: ../../gtk-builder-ui/MainWindow.ui:425
+msgid "Visit Jokosher's online forums"
+msgstr "Látogassunk el a Jokosher fórumaira"
+
+#: ../../gtk-builder-ui/MainWindow.ui:436
+msgid "Find out how you can help"
+msgstr "Hogyan tud segíteni"
+
+#: ../../gtk-builder-ui/MainWindow.ui:447
+msgid "See your system information"
+msgstr "Rendszerinformációk megtekintése"
+
+#: ../../gtk-builder-ui/MainWindow.ui:458
+msgid "Version information, credits and licence"
+msgstr "Verzióinformáció, készítők és licensz"
+
+#: ../../gtk-builder-ui/MainWindow.ui:484
+msgid "Add Instrument"
+msgstr "Hangszer hozzáadása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:499
+msgid "Add Audio File"
+msgstr "Hangfájl hozzáadása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:519
+msgid "Click and hold to rewind"
+msgstr "Lenyomva tartva gyorsan visszateker"
+
+#: ../../gtk-builder-ui/MainWindow.ui:531
+msgid "Start playback"
+msgstr "Lejátszás indítása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:543 ../../Jokosher/JokosherApp.py:66
+msgid "Stop playback"
+msgstr "Lejátszás leállítása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:555
+msgid "Click and hold to fast forward"
+msgstr "Lenyomva tartva gyorsan előreteker"
+
+#: ../../gtk-builder-ui/MainWindow.ui:567
+msgid "Arm an instrument then click here to begin recording"
+msgstr "Élesíts egy hangszert és kattints ide a felvétel elkezdéséhez"
+
+#: ../../gtk-builder-ui/MainWindow.ui:588
+msgid "Audio Mixers"
+msgstr "Hangkeverők"
+
+#: ../../gtk-builder-ui/MainWindow.ui:645
+msgid "Start Jokosher with an empty project"
+msgstr "A Jokosher egy üres projekttel induljon"
+
+#: ../../gtk-builder-ui/MainWindow.ui:670
+msgid "_New"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:695
+msgid "Find and open an existing project"
+msgstr "Létező projekt keresése és megnyitása"
+
+#: ../../gtk-builder-ui/MainWindow.ui:720
+msgid "_Import"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:770
+msgid "Double-click on a recent project to open"
+msgstr "Kattintsunk duplán egy korábbi projektre a megnyitásához"
+
+#: ../../gtk-builder-ui/MainWindow.ui:788
+msgid "Select a project to open from the list"
+msgstr "Válassza ki a megnyitandó projektet"
+
+#: ../../gtk-builder-ui/MainWindow.ui:813
+msgid "_Open Selected Project"
+msgstr "K_iválasztott projekt megnyitása"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:13
+#: ../../Jokosher/JokosherApp.py:630
+msgid "Mixdown Project"
+msgstr "Projekt lekeverése"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:30
+msgid "Mixdown Profile:"
+msgstr "Lekeverési profil:"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:116
+msgid "<b>Mixdown Actions</b>"
+msgstr "<b>Lekeverési műveletek</b>"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:240
+msgid "Cancel the mixdown"
+msgstr "Lekeverés megszakítása"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:257
+msgid "Mixdown the project using these settings"
+msgstr "Projekt lekeverése az alábbi beállításokkal"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:282
+msgid "_Mixdown"
+msgstr "_Lekeverés"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:59
+msgid "Open a _new project"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:75
+msgid "_Open most recent project"
+msgstr "_Legutóbbi projekt megnyitása"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:92
+msgid "_Don't open any project"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:116
+msgid "<b>Application Start-up</b>"
+msgstr "<b>Alkalmazás indítása</b>"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:148
+msgid "_Encoding:"
+msgstr "Kó_dolás:"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:161
+msgid "S_ample Rate:"
+msgstr "Mint_avételezés:"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:219
+msgid "<b>Recording Format</b>"
+msgstr "<b>Felvételi formátum</b>"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:251
+msgid "S_ystem:"
+msgstr "_Rendszer:"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:264
+msgid "_Pipeline:"
+msgstr "Adat_csatorna:"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:316
+msgid "<b>Recording Sound System</b>"
+msgstr "<b>Felvevő hangrendszer</b>"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:365
+msgid "Sys_tem:"
+msgstr "Ren_dszer:"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:378
+msgid "P_ipeline:"
+msgstr "_Adatcsatorna:"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:393
+msgid "De_vice:"
+msgstr "Es_zköz:"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:428
+msgid "autoaudiosink"
+msgstr "automatahangsüllyesztés"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:447
+msgid "<b>Playback Sound System</b>"
+msgstr "<b>Lejátszó hangrendszer</b>"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:470
+msgid "Save preferences and close"
+msgstr "Beállítások mentése és bezárás"
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:7
+msgid "Mixing Project"
+msgstr "Projekt Keverése"
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:26
+msgid "<big><b>Mixing the project...</b></big>"
+msgstr "<big><b>Project keverése....</b></big>"
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:47
+msgid "Your music file is being mixed. This can take some seconds."
+msgstr "A hangfájlod keverése folyamatban, ez eltarthat néhány másodpercig."
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:90
+msgid "Stop mixing the project"
+msgstr "A projekt keverésének leállítása"
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:7
+msgid "Project Properties"
+msgstr "Projekt tulajdonságai"
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:39
+msgid "_Name:"
+msgstr "_Név:"
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:52
+msgid "_Author:"
+msgstr "_Szerző:"
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:96
+msgid "<b>General</b>"
+msgstr "<b>Általános</b>"
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:143
+msgid "<b>N_otes</b>"
+msgstr "<b>_Jegyzetek</b>"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:7
+msgid "System Information"
+msgstr "Rendszerinformáció"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:36
+msgid "<big>System Information</big>"
+msgstr "<big>Rendszerinformáció</big>"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:63
+msgid "GStreamer version:"
+msgstr "GStreamer verzió:"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:74
+msgid "Gnonlin version:"
+msgstr "Gnonlin verzió:"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:87
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:128
+msgid "xx.xx.xx"
+msgstr "xx.xx.xx"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:115
+msgid "Distribution:"
+msgstr "Disztribúció:"
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:161
+msgid "Close this window"
+msgstr "A jelenlegi ablak bezárása"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:33
+msgid "Set Time Signature"
+msgstr "Ütemmutató beállítása"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:63
+msgid "Beats per _measure"
+msgstr "_Mérőnkénti beütések"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:76
+msgid "Beat _value"
+msgstr "_Beütések száma"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:111
+msgid "Adjust the amount of beats per measure"
+msgstr "Mérőnkénti beütések számának megadása."
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:131
+msgid "<b>Time Signature</b>"
+msgstr "<b>Ütemmutató</b>"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:158
+msgid "Use these settings"
+msgstr "Beállítások elfogadása"
+
+#: ../../Jokosher/Jokosher:73
+msgid "Print debug output to stdout"
+msgstr "Hibainformáció kiíratása terminálba"
+
+#: ../../Jokosher/Jokosher:75
+msgid "Sent debug output to Gstreamer's debug system"
+msgstr "Hibainformáció küldése a Gstreamer hibajavító rendszerének"
+
+#: ../../Jokosher/Jokosher:77
+msgid "Do not load extensions or project on startup (same as -ne)"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:79
+msgid "Do not load a project on startup"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:81
+msgid "Do not load extensions on startup"
+msgstr "Ne töltsön be kiegészítőket induláskor"
+
+#: ../../Jokosher/AddInstrumentDialog.py:63
+msgid "Change Instrument Type"
+msgstr "Hangszer típusának megváltoztatása"
+
+#: ../../Jokosher/AddInstrumentDialog.py:65
+#, python-format
+msgid "Choose the new instrument type for %s"
+msgstr "Válasszuk ki az új hangszer típust ehhez: %s"
+
+#: ../../Jokosher/CompactMixView.py:86
+msgid "<b>Instruments Not Shown:</b>"
+msgstr "<b>Nem Látszó Hangszerek:</b>"
+
+#: ../../Jokosher/ControlsBox.py:43
+msgid "Enable this instrument for recording"
+msgstr "Hangszer felvételének engedélyezése"
+
+#: ../../Jokosher/ControlsBox.py:44
+msgid "Disable this instrument for recording"
+msgstr "Hangszer felvételének tiltása"
+
+#: ../../Jokosher/ControlsBox.py:45
+msgid "Mute - silence this instrument"
+msgstr "Hangszer elnémítása"
+
+#: ../../Jokosher/ControlsBox.py:46
+msgid "Unmute - hear this instrument"
+msgstr "Hangszer hallhatóvá tétele"
+
+#: ../../Jokosher/ControlsBox.py:47
+msgid "Activate Solo - silence all other instruments"
+msgstr "Szóló - minden más hangszer elnémítása"
+
+#: ../../Jokosher/ControlsBox.py:48
+msgid "Deactivate Solo - hear all the instruments"
+msgstr "Nem Szóló - minden hangszer hallhatóvá tétele"
+
+#: ../../Jokosher/ControlsBox.py:81
+#: ../../Jokosher/InstrumentEffectsDialog.py:117
+msgid "Instrument Effects"
+msgstr "Hangszer Effektek"
+
+#: ../../Jokosher/ControlsBox.py:223
+msgid "You do not have any LADSPA effects plugins installed"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:225
+msgid "Jokosher does not currently support any LADSPA plugins on Windows"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:228
+msgid ""
+"Jokosher requires one or more packages of LADSPA effects to be able to use "
+"this feature, please install the relevant package(s) for your distribution."
+msgstr ""
+
+#: ../../Jokosher/Event.py:780
+#, python-format
+msgid "%(title)s by %(artist)s"
+msgstr "%(artist)s - %(title)s"
+
+#: ../../Jokosher/EventLaneViewer.py:115
+msgid "_Add Audio File..."
+msgstr "Hangfájl Hozzá_adása..."
+
+#: ../../Jokosher/EventLaneViewer.py:264
+msgid "<b>Right-click</b> for more options."
+msgstr "A <b>jobb egérgombbal</b> további opciók érhetők el."
+
+#: ../../Jokosher/EventViewer.py:151
+msgid "Trim"
+msgstr "Levágás"
+
+#: ../../Jokosher/EventViewer.py:162
+msgid "Delete Fade Points"
+msgstr "Keverési pontok törlése"
+
+#: ../../Jokosher/EventViewer.py:170
+msgid "Snap To Fade Points"
+msgstr "A keverési ponthoz másolás"
+
+#: ../../Jokosher/EventViewer.py:443
+msgid "Downloading..."
+msgstr "Letöltés..."
+
+#: ../../Jokosher/EventViewer.py:445
+msgid "Loading..."
+msgstr "Betöltés..."
+
+#: ../../Jokosher/EventViewer.py:449
+#, python-format
+msgid "Downloading (%d%%)..."
+msgstr "Letöltés (%d%%)..."
+
+#: ../../Jokosher/EventViewer.py:451
+#, python-format
+msgid "Loading (%d%%)..."
+msgstr "Betöltés (%d%%)..."
+
+#: ../../Jokosher/EventViewer.py:462
+msgid "Recording..."
+msgstr "Felvétel..."
+
+#: ../../Jokosher/EventViewer.py:510
+msgid ""
+"To <b>Split, Double-Click</b> the wave - To <b>Select, Shift-Click</b> and "
+"drag the mouse"
+msgstr ""
+"<b>Kattintsunk duplán a Szétvágáshoz</b> a hullámra - <b>kattintsunk a "
+"shiftet nyomva tartva és mozgassuk ez egeret a Kijelöléshez</b>"
+
+#: ../../Jokosher/EventViewer.py:524
+msgid "<b>Drag</b> the red sliders to modify the volume fade."
+msgstr "<b>Húzza el</b> a piros csúszkát a hangerő keverés módosításához ."
+
+#: ../../Jokosher/EventViewer.py:637
+msgid ""
+"<b>Click</b> the buttons below the selection to do something to that portion "
+"of audio."
+msgstr ""
+"<b>Kattintsunk</b> a kijelölés alatti gombokra, hogy valamit tegyünk a "
+"kijelölt hanggal."
+
+#: ../../Jokosher/EventViewer.py:902
+msgid "_Split"
+msgstr "_Szétvágás"
+
+#: ../../Jokosher/EventViewer.py:904
+msgid "Cu_t"
+msgstr "_Kivágás"
+
+#: ../../Jokosher/EventViewer.py:905
+msgid "_Copy"
+msgstr "_Másolás"
+
+#: ../../Jokosher/EventViewer.py:906
+#: ../../Jokosher/InstrumentEffectsDialog.py:450
+msgid "_Delete"
+msgstr "_Törlés"
+
+#: ../../Jokosher/EventViewer.py:1196
+msgid "Error loading file:"
+msgstr "Nem sikerült a fájlt betölteni:"
+
+#: ../../Jokosher/EventViewer.py:1197
+msgid ""
+"Please make sure the file exists, and the appropriate plugin is installed."
+msgstr ""
+"Kérem ellenőrizze, hogy a fájl létezik, és a megfelelő plugin telepítve van."
+
+#: ../../Jokosher/EventViewer.py:1415
+#, python-format
+msgid ""
+"Event, %(name)s, %(dur)0.2f seconds long, starting at %(start)0.2f seconds."
+msgstr ""
+"Esemény, %(name)s, %(dur)0.2f másodperc hosszú, a %(start)0.2f-nél kezdődik."
+
+#: ../../Jokosher/Extension.py:50
+msgid "This is a Jokosher extension; it is not meant to be run directly."
+msgstr "Ez egy kiegészítő a Jokosher-hez; önmagában nem működik."
+
+#: ../../Jokosher/Extension.py:51
+#, python-format
+msgid ""
+"To install it, move it to the directory %s\n"
+"and run Jokosher."
+msgstr ""
+"A telepítéséhez másoljuk a %s könyvtárba\n"
+"és indítsuk el a Jokosher-t."
+
+#: ../../Jokosher/Extension.py:54
+msgid ""
+"This is a Jokosher extension, which needs to be installed. Would you like to "
+"install it?"
+msgstr ""
+"Ez egy kiegészítő a Jokosher-hez, amit telepíteni kell a működéshez. "
+"Szeretné telepíteni?"
+
+#: ../../Jokosher/Extension.py:56
+msgid "Install"
+msgstr "Telepítés"
+
+#: ../../Jokosher/Extension.py:66
+#, python-format
+msgid ""
+"You already have a extension with the name %s installed; would you like to "
+"replace it?"
+msgstr "Már van egy %s nevű kiegészítő telepítve, kicseréljük erre?"
+
+#: ../../Jokosher/Extension.py:69
+msgid "Replace"
+msgstr "Csere"
+
+#: ../../Jokosher/Extension.py:82
+msgid "Your new extension is now available in Jokosher!"
+msgstr "Az új kiegészítő most már elérhető a Jokosherben!"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:168
+msgid "Choose a Jokosher Extension file"
+msgstr "Válasszunk ki egy Jokosher Kiegészítőt tartalmazó fájlt"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:174
+msgid "Jokosher Extension Files (*.py *.egg)"
+msgstr "Jokosher Kiegészítők (*.py *.egg)"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:196
+msgid "There was a problem loading the extension"
+msgstr "Probléma merült fel a kiegészítő betöltésekor"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:234
+msgid "There was a problem removing the extension"
+msgstr "Probléma merült fel a kiegészítő eltávolításakor"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:271
+msgid ""
+"An error occurred when trying to launch the preferences for the extension"
+msgstr "Hiba merült fel a kiegészítő beállításainak megjelenítése közben"
+
+#: ../../Jokosher/Globals.py:509
+msgid "Broken"
+msgstr "Törött"
+
+#: ../../Jokosher/Globals.py:510
+msgid "Unclassified"
+msgstr "Nem-besorolt"
+
+#: ../../Jokosher/Globals.py:511
+msgid "Amplifiers"
+msgstr "Erősítők"
+
+#: ../../Jokosher/Globals.py:512
+msgid "Chorus"
+msgstr "Kórus"
+
+#: ../../Jokosher/Globals.py:513
+msgid "Compressors"
+msgstr "Kompresszorok"
+
+#: ../../Jokosher/Globals.py:514
+msgid "Delays"
+msgstr "Késleltetők"
+
+#: ../../Jokosher/Globals.py:515
+msgid "Distortions"
+msgstr "Torzítók"
+
+#: ../../Jokosher/Globals.py:516
+msgid "Equalizers"
+msgstr "Equalizálók"
+
+#: ../../Jokosher/Globals.py:517
+msgid "Filters"
+msgstr "Szűrők"
+
+#: ../../Jokosher/Globals.py:518
+msgid "Flangers"
+msgstr "Flangerek"
+
+#: ../../Jokosher/Globals.py:519
+msgid "Miscellaneous"
+msgstr "Egyebek"
+
+#: ../../Jokosher/Globals.py:520
+msgid "Modulators"
+msgstr "Modulátorok"
+
+#: ../../Jokosher/Globals.py:521
+msgid "Oscillators"
+msgstr "Oszcillátorok"
+
+#: ../../Jokosher/Globals.py:522
+msgid "Phasers"
+msgstr "Phaserek"
+
+#: ../../Jokosher/Globals.py:523
+msgid "Reverbs"
+msgstr "Zengetők"
+
+#: ../../Jokosher/Globals.py:524
+msgid "Simulators"
+msgstr "Szimulátorok"
+
+#: ../../Jokosher/Globals.py:718 ../../Jokosher/PreferencesDialog.py:113
+msgid "Autodetect"
+msgstr "Automatikus felismerés"
+
+#: ../../Jokosher/Globals.py:719
+msgid "Use GNOME Settings"
+msgstr "GNOME beállítások használata"
+
+#: ../../Jokosher/Globals.py:729
+msgid "GNOME Settings"
+msgstr "GNOME beállítások"
+
+#: ../../Jokosher/Globals.py:747
+msgid "Jokosher Audio Editor"
+msgstr "Jokosher hangszerkesztő"
+
+#: ../../Jokosher/IncrementalSave.py:29 ../../Jokosher/Instrument.py:489
+msgid "Recorded audio"
+msgstr "Rögzített hangfelvétel"
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:58
+msgid "There are no instruments to connect"
+msgstr "Nincs csatlakoztatható hangszer"
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:103
+#: ../../Jokosher/PreferencesDialog.py:338
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:105
+#, python-format
+msgid "Default (%s)"
+msgstr "Alapértelmezés (%s)"
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:112
+#, python-format
+msgid "%(device)s (%(id)s), input %(input)d"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:115
+#: ../../Jokosher/PreferencesDialog.py:341
+#, python-format
+msgid "%(device)s (%(id)s)"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:157
+#, python-format
+msgid ""
+"The %(sound-system-name)s sound system does not support device selection."
+msgstr ""
+"A %(sound-system-name)s hangrendszere nem támogatja az eszközválasztást."
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:160
+#, python-format
+msgid ""
+"The \"%(custom-pipeline)s\" sound system does not support device selection."
+msgstr ""
+"A \"%(custom-pipeline)s\" hangrendszer nem támogatja az eszközválasztást."
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:143
+#: ../../Jokosher/InstrumentEffectsDialog.py:145
+#: ../../Jokosher/MixdownProfileDialog.py:617
+msgid "Name"
+msgstr "Név"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:144
+msgid "Type"
+msgstr "Típus"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:447
+msgid "_Move up..."
+msgstr "_Mozgatás fel..."
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:448
+msgid "M_ove down..."
+msgstr "M_ozgatás le..."
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:451
+msgid "_Settings"
+msgstr "_Beállítások"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:492
+msgid "_Activate effect"
+msgstr "Effekt _Aktiválása"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:674
+msgid "Effect Settings"
+msgstr "Effekt Beállításai"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:705
+msgid "-parameter not readable-"
+msgstr "-nem olvasható paraméter-"
+
+#: ../../Jokosher/JokosherApp.py:63 ../../Jokosher/JokosherApp.py:65
+msgid "Stop recording"
+msgstr "Felvétel leállítása"
+
+#: ../../Jokosher/JokosherApp.py:64
+msgid "Arm an instrument, then click here to begin recording"
+msgstr "Élesítsen be egy hangszert, és kattintson ide a felvétel megkezdéséhez"
+
+#: ../../Jokosher/JokosherApp.py:67
+msgid "Hide the audio level mixers"
+msgstr "Hangerő potméterek elrejtése"
+
+#: ../../Jokosher/JokosherApp.py:68
+msgid "Show the audio level mixers"
+msgstr "Hangerő potméterek megjelenítése"
+
+#: ../../Jokosher/JokosherApp.py:438
+#, python-format
+msgid ""
+"<big>Couldn't launch the jokosher website automatically.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+"<big>Nem sikerült a Jokosher honlap automatikus megnyitása.</big>\n"
+"\n"
+"Kérjük látogasson el a %s webcímre."
+
+#: ../../Jokosher/JokosherApp.py:449
+#, python-format
+msgid ""
+"<big>Couldn't launch the launchpad website automatically.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+"<big>Nem sikerült a launchpad honlap automatikus megnyitása.</big>\n"
+"\n"
+"Kérjük látogasson el a  %s webcímre."
+
+#: ../../Jokosher/JokosherApp.py:481
+#, python-format
+msgid ""
+"The instruments '%(name1)s' and '%(name2)s' both have the same input "
+"selected. Please either disarm one, or connect it to a different input "
+"through 'Project -> Recording Inputs'"
+msgstr ""
+"A(z) '%(name1)s' és a(z) '%(name2)s' hangszerhez is ugyanaz a bemenet van "
+"beállítva. Vagy kapcsolja le az egyiket vagy állítsa át a bemeneteket a "
+"Projekt-> Felvételi bemenetek (Recording Inputs)"
+
+#: ../../Jokosher/JokosherApp.py:678
+msgid "Preparing to mixdown project"
+msgstr "Előkészülés a projekt lekeverésére..."
+
+#: ../../Jokosher/JokosherApp.py:684
+#, python-format
+msgid "%(progress)d%% of %(total)d seconds completed"
+msgstr "%(progress)d%% a %(total)d-ból elkészült"
+
+#: ../../Jokosher/JokosherApp.py:762
+msgid "Choose a Jokosher project file"
+msgstr "Válasszon Jokosher projektfájlt"
+
+#: ../../Jokosher/JokosherApp.py:774
+msgid "All Files"
+msgstr "Minden Fájl"
+
+#: ../../Jokosher/JokosherApp.py:778
+msgid "Jokosher Project Files (*.jokosher)"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:811
+msgid "An error occurred and the project could not be imported."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:842
+msgid "New Project"
+msgstr "Új Projekt"
+
+#: ../../Jokosher/JokosherApp.py:843
+msgid "Unknown Author"
+msgstr "Ismeretlen Szerző"
+
+#: ../../Jokosher/JokosherApp.py:849
+msgid "Could not initialize project."
+msgstr "Nem sikerült a projektet elindítani."
+
+#: ../../Jokosher/JokosherApp.py:851
+msgid ""
+"A file or folder with this name already exists. Please choose a different "
+"project name and try again."
+msgstr ""
+"Már van ilyen nevű fájl vagy mappa. Válasszunk másik nevet a projektnek és "
+"próbáljuk újra."
+
+#: ../../Jokosher/JokosherApp.py:853
+msgid "The file or folder location is write-protected."
+msgstr "A fájl vagy mappa írásvédett."
+
+#: ../../Jokosher/JokosherApp.py:855
+msgid "Invalid name or author."
+msgstr "Hibás név vagy szerző."
+
+#: ../../Jokosher/JokosherApp.py:857
+msgid "The URI scheme given is either invalid or not supported"
+msgstr "A megadott URI séma érvénytelen vagy nem támogatott"
+
+#: ../../Jokosher/JokosherApp.py:859
+msgid "Unable to load required Gstreamer plugin:"
+msgstr "Nem sikerült betölteni a szükséges Gstreamer plugint:"
+
+#: ../../Jokosher/JokosherApp.py:866
+#, python-format
+msgid ""
+"Unable to create project.\n"
+"\n"
+"%s"
+msgstr ""
+"Nem sikerült létrehozni a projektet.\n"
+"\n"
+"%s"
+
+#: ../../Jokosher/JokosherApp.py:1015
+#, python-format
+msgid "Mixing project to file: %s"
+msgstr "Projekt lekeverése a %s fájlba"
+
+#: ../../Jokosher/JokosherApp.py:1058
+#, python-format
+msgid "*%s - Jokosher"
+msgstr "*%s - Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:1060
+#, python-format
+msgid "%s - Jokosher"
+msgstr "%s - Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:1127
+#, python-format
+msgid "Show all %d projects"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1129
+msgid "Show all projects"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1132
+msgid "Close the current project, and show all available projects"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1403
+msgid "Jokosher"
+msgstr "Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:1588
+msgid "The project references non-existant files:\n"
+msgstr "A projekt nem létező fájlokra hivatkozik:\n"
+
+#: ../../Jokosher/JokosherApp.py:1592
+msgid ""
+"\n"
+"The project references non-existant images:\n"
+msgstr ""
+"\n"
+"A projekt nem létező képekre hivatkozik:\n"
+
+#: ../../Jokosher/JokosherApp.py:1600
+#, python-format
+msgid ""
+"%s\n"
+" Invalid or corrupt project file, will not open."
+msgstr ""
+"%s\n"
+" Nem megfelelő vagy hibás projekt fájl, nem nyitható meg."
+
+#: ../../Jokosher/JokosherApp.py:1639
+msgid "You must have Gstreamer version 0.10.9 or higher.\n"
+msgstr "Gstreamer 0.10.9-es vagy újabb változatára van szükség.\n"
+
+#: ../../Jokosher/JokosherApp.py:1647
+msgid "You must have Gstreamer plugin gnonlin version 0.10.4.2 or later.\n"
+msgstr ""
+"Gstreamer gnonlin pluginjának 0.10.4.2-es vagy újabb változatára van "
+"szükség.\n"
+
+#: ../../Jokosher/JokosherApp.py:1649
+msgid "Gstreamer plugin gnonlin is not installed."
+msgstr "A gnonlin nevű Gstreamer plugin nincs telepítve."
+
+#: ../../Jokosher/JokosherApp.py:1650
+msgid ""
+"\n"
+"See http://doc.jokosher.org/Installation for more details.\n"
+msgstr ""
+"\n"
+"Látogasson el a http://doc.jokosher.org/Installation webcímre további "
+"információért.\n"
+
+#: ../../Jokosher/JokosherApp.py:1653
+msgid ""
+"You must have the Gstreamer plugin packs gst-plugins-base and gst-plugins-"
+"good installed.\n"
+msgstr ""
+"A  Gstreamer plugin-hoz szükséges telpített gst-plugins-base és gst-plugins-"
+"good telepítése.\n"
+
+#: ../../Jokosher/JokosherApp.py:1659
+#, python-format
+msgid ""
+"<big>Some functionality will not work correctly or at all.</big>\n"
+"\n"
+"%s"
+msgstr ""
+"<big>Néhány funkció nem vagy hiányosan fog működni .</big>\n"
+"\n"
+"%s"
+
+#: ../../Jokosher/JokosherApp.py:1702
+#, python-format
+msgid ""
+"<big>Couldn't launch the Jokosher documentation site.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1713
+#, python-format
+msgid ""
+"<big>Couldn't launch the forums website automatically.</big>\n"
+"\n"
+"Please visit %s to access them."
+msgstr ""
+"<big>Nem sikerült a fórum honlapjának automatikus megnyitása.</big>\n"
+"\n"
+"Kérem tekintse meg %s weboldalt."
+
+#: ../../Jokosher/JokosherApp.py:1741
+msgid "<b>To find out more, visit:</b>"
+msgstr "<b>További információért látogassa meg:</b>"
+
+#: ../../Jokosher/JokosherApp.py:1764
+#, python-format
+msgid ""
+"<big>Couldn't launch the contributing website automatically.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+"<big>Nem sikerült a Jokosher segítői honlapjának automatikus megnyitása.</"
+"big>\n"
+"\n"
+"Kérem tekintse meg a %s weboldalt."
+
+#: ../../Jokosher/JokosherApp.py:1819
+msgid "Gnonlin is missing!"
+msgstr "Hiányzik a Gnonlin!"
+
+#: ../../Jokosher/JokosherApp.py:1826
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+#: ../../Jokosher/JokosherApp.py:1842
+#, python-format
+msgid "The URI scheme '%s' is either invalid or not supported."
+msgstr "Az '%s' URI séma érvénytelen vagy nem támogatott."
+
+#: ../../Jokosher/JokosherApp.py:1844
+#, python-format
+msgid "Unable to unzip the project file %s"
+msgstr "Nem tudtam kitömöríteni a %s projektfájlt"
+
+#: ../../Jokosher/JokosherApp.py:1846
+#, python-format
+msgid "The project file was created with version \"%s\" of Jokosher.\n"
+msgstr "A projektfájl a Jokosher \"%s\" verziójával készült.\n"
+
+#: ../../Jokosher/JokosherApp.py:1847
+#, python-format
+msgid "Projects from version \"%s\" are incompatible with this release.\n"
+msgstr ""
+"A \"%s\" verzió projektjei sajnos nem kompatibilisek ezzel a verzióval.\n"
+
+#: ../../Jokosher/JokosherApp.py:1849
+#, python-format
+msgid ""
+"The project:\n"
+"%s\n"
+"\n"
+"does not exist.\n"
+msgstr ""
+"A projekt:\n"
+"%s\n"
+"\n"
+"nem létezik.\n"
+
+#: ../../Jokosher/JokosherApp.py:1851 ../../Jokosher/JokosherApp.py:1855
+msgid "The project file could not be opened.\n"
+msgstr "A projektfájlt nem lehetett megnyitni.\n"
+
+#: ../../Jokosher/JokosherApp.py:1852
+msgid ""
+"It is recommended that you report this to the Jokosher developers or get "
+"help at http://www.jokosher.org/forums/"
+msgstr ""
+"Azt javasoljuk, hogy jelentse ezt a Jokosher fejlesztőinek vagy kérjen "
+"segítséget itt:\n"
+"http://www.jokosher.org/forums/"
+
+#: ../../Jokosher/JokosherApp.py:1932
+msgid "Copy file to project"
+msgstr "Fájl másolása a projektbe"
+
+#: ../../Jokosher/JokosherApp.py:1937
+msgid "Add Audio File..."
+msgstr "Hangfájl Hozzáadása..."
+
+#: ../../Jokosher/JokosherApp.py:2011 ../../Jokosher/JokosherApp.py:2016
+msgid "Mix_down As"
+msgstr "_Lekeverés mint..."
+
+#: ../../Jokosher/JokosherApp.py:2029
+msgid "_Mixdown Project..."
+msgstr "Pro_jekt lekeverése..."
+
+#: ../../Jokosher/MasterMixerStrip.py:46
+msgid "Master Volume:"
+msgstr "Mester Hangerő"
+
+#: ../../Jokosher/MixdownActions.py:157
+msgid "Export File"
+msgstr "Fájl exportálása"
+
+#: ../../Jokosher/MixdownActions.py:158
+msgid "Export a file to the destination of your choosing."
+msgstr "Kiválasztott helyre exportálás."
+
+#: ../../Jokosher/MixdownActions.py:226
+#, python-format
+msgid ""
+"An encoding plugin could not be found: %s.\n"
+"Please make sure all the plugins required for the specified format are "
+"installed."
+msgstr ""
+"Az alábbi kódoló plugin nem található: %s.\n"
+"Kérjük bizonyosodjon meg arról, hogy az adott fájlformátumhoz szükséges "
+"összes plugin telepítve van."
+
+#: ../../Jokosher/MixdownActions.py:228
+#, python-format
+msgid "The encoding bin description is invalid: %s"
+msgstr "A kódoló bináris leírása hibás: %s"
+
+#: ../../Jokosher/MixdownActions.py:254
+msgid "Server type:"
+msgstr "Kiszolgáló típus:"
+
+#: ../../Jokosher/MixdownActions.py:267
+msgid "Server location:"
+msgstr "Kiszolgáló elérhetősége:"
+
+#: ../../Jokosher/MixdownActions.py:271
+msgid "Username:"
+msgstr "Felhasználónév:"
+
+#: ../../Jokosher/MixdownActions.py:275
+msgid "Password:"
+msgstr "Jelszó:"
+
+#: ../../Jokosher/MixdownActions.py:311
+msgid "Location:"
+msgstr "Cím:"
+
+#: ../../Jokosher/MixdownActions.py:379
+msgid "Select Export Location"
+msgstr "Válassza ki az exportálás helyét"
+
+#: ../../Jokosher/MixdownActions.py:490 ../../Jokosher/MixdownActions.py:500
+msgid "Run External Script"
+msgstr "Külső szkript futtatása"
+
+#: ../../Jokosher/MixdownActions.py:491
+msgid "Run an external script from the destination of your choosing."
+msgstr "Külső szkript futtatása megadott helyről."
+
+#: ../../Jokosher/MixdownActions.py:532
+#, python-format
+msgid "An error occured with the script %s"
+msgstr "Hiba az alábbi szkripttel: %s"
+
+#: ../../Jokosher/MixdownActions.py:534
+#, python-format
+msgid "Error in script %s"
+msgstr "Hiba a %s szkriptben"
+
+#: ../../Jokosher/MixdownActions.py:537
+#, python-format
+msgid "The script %s does not exist."
+msgstr "A %s szkript nem létezik."
+
+#: ../../Jokosher/MixdownProfileDialog.py:186
+#, python-format
+msgid "<b>%s is configured</b>"
+msgstr "<b>%s beállítva</b>"
+
+#: ../../Jokosher/MixdownProfileDialog.py:188
+#, python-format
+msgid "<b>%s is not configured</b>"
+msgstr "<b>%s nincs beállítva</b>"
+
+#: ../../Jokosher/MixdownProfileDialog.py:367
+msgid "Please enter the name of the mixdown profile you wish to create."
+msgstr "Kérem írja be a leendő lekeverési profil nevét."
+
+#: ../../Jokosher/MixdownProfileDialog.py:377
+msgid "Profile name:"
+msgstr "Profil neve:"
+
+#: ../../Jokosher/MixdownProfileDialog.py:380
+msgid "Create Mixdown Profile"
+msgstr "Lekeverési profil létrehozása"
+
+#: ../../Jokosher/MixdownProfileDialog.py:398
+#, python-format
+msgid "Successfully created mixdown profile <b>%s.profile</b>."
+msgstr "A(z) <b>%s.profile</b> lekeverési profil sikeresen létrejött."
+
+#: ../../Jokosher/MixdownProfileDialog.py:402
+msgid ""
+"Cannot create mixdown profile. Please make sure you have specified a profile "
+"name."
+msgstr ""
+"Nem sikerült a lekeverési profilt létrehozni, kérem győződjön meg róla, hogy "
+"megadta-e a nevét."
+
+#: ../../Jokosher/MixdownProfileDialog.py:423
+#, python-format
+msgid "Please make sure the extension <b>%s</b> is enabled."
+msgstr "Kérem bizonyosodjon meg, hogy a <b>%s</b> kiegészítő aktív."
+
+#: ../../Jokosher/MixdownProfileDialog.py:424
+#, python-format
+msgid ""
+"<big><b>Cannot load mixdown action %s.</b></big>\n"
+"\n"
+"%s"
+msgstr ""
+"<big><b>%s lekeverési művelet betöltése meghiúsult.</b></big>\n"
+"\n"
+"%s"
+
+#: ../../Jokosher/MixdownProfileDialog.py:552
+#, python-format
+msgid "An error occured while running the mixdown action: %s"
+msgstr "Hiba történt a %s lekeverési művelet futtatása közben."
+
+#: ../../Jokosher/MixdownProfileDialog.py:616
+msgid "Icon"
+msgstr "Ikon"
+
+#: ../../Jokosher/MixdownProfileDialog.py:631
+#, python-format
+msgid ""
+"Please select the mixdown actions you would like to add to mixdown profile "
+"<b>%s.</b>"
+msgstr ""
+"Kérem válassza ki azokat a lekeverési műveleteket, amelyeket hozzáakar adni "
+"a <b>%s.</b> lekeverési profilhoz."
+
+#: ../../Jokosher/MixdownProfiles.py:94 ../../Jokosher/MixdownProfiles.py:151
+#, python-format
+msgid "The mixdown profile %s does not exist"
+msgstr "A %s lekeverési profil nem létezik."
+
+#: ../../Jokosher/MixdownProfiles.py:115
+#, python-format
+msgid "Cannot remove mixdown profile %s"
+msgstr "A(z) %s lekeverési profilt ne mlehet eltávolítani."
+
+#: ../../Jokosher/MixerStrip.py:63
+msgid "Minimize instrument"
+msgstr "Hangszer lekicsinyítése"
+
+#: ../../Jokosher/MixerStrip.py:73
+msgid "Balance:"
+msgstr "Balansz:"
+
+#: ../../Jokosher/MixerStrip.py:78
+msgid "L"
+msgstr "B"
+
+#: ../../Jokosher/MixerStrip.py:79
+msgid "R"
+msgstr "J"
+
+#: ../../Jokosher/MixerStrip.py:84
+msgid "Adjust instrument balance. Right-click to center"
+msgstr "Hangszer balanszának állítása. Jobb-kattintás a középre igazításhoz"
+
+#: ../../Jokosher/MixerStrip.py:98
+msgid "Volume:"
+msgstr "Hangerő:"
+
+#: ../../Jokosher/MixerStrip.py:231
+#, python-format
+msgid "Current balance is <b>%d%%</b> left"
+msgstr "Balansz <b>%d%%</b> balra"
+
+#: ../../Jokosher/MixerStrip.py:233
+msgid "Current balance is <b>centered</b>"
+msgstr "Balansz <b>középen</b>"
+
+#: ../../Jokosher/MixerStrip.py:235
+#, python-format
+msgid "Current balance is <b>%d%%</b> right"
+msgstr "Balansz <b>%d%%</b> jobbra"
+
+#: ../../Jokosher/PreferencesDialog.py:75
+#: ../../Jokosher/PreferencesDialog.py:93
+msgid "Custom"
+msgstr "Egyéni"
+
+#: ../../Jokosher/PreferencesDialog.py:346
+#, python-format
+msgid "Device %d"
+msgstr "%d eszköz"
+
+#: ../../Jokosher/RecordingView.py:120
+msgid "Zoom the timeline - Right-Click to reset to the default level"
+msgstr "Idővonal nagyítás - Jobb egérgombbal visszaállítható az eredetire"
+
+#: ../../Jokosher/RecordingView.py:129
+msgid "Zoom in timeline"
+msgstr "Idővonal nagyítása"
+
+#: ../../Jokosher/RecordingView.py:136
+msgid "Zoom out timeline"
+msgstr "Idővonal kicsinyítése"
+
+#: ../../Jokosher/RecordingView.py:180
+msgid "Would you like to restore the current project?"
+msgstr "Szeretné visszaálítani a jelenlegi projektet?"
+
+#: ../../Jokosher/RecordingView.py:181
+msgid ""
+"A crash was detected and changes to your project were not saved.\n"
+"If you would like, you can attempt to recover these lost changes."
+msgstr ""
+"Egy összeomlás történt, miközben a projektje nem volt mentve.\n"
+"Ha úgy gondolja, megkísérelheti visszaállítani a változtatásokat."
+
+#: ../../Jokosher/RecordingView.py:185
+msgid "_Restore Project"
+msgstr "P_rojekt viszaálltása"
+
+#: ../../Jokosher/RecordingView.py:321
+msgid "A Gstreamer error has occurred"
+msgstr "Gstreamer hiba történt"
+
+#: ../../Jokosher/RecordingView.py:332
+msgid "A GStreamer error has occurred."
+msgstr "Gstreamer hiba történt."
+
+#: ../../Jokosher/RecordingView.py:333
+msgid ""
+"If this problem persists consider reporting a bug using the link in the help "
+"menu."
+msgstr ""
+"Ha ez a hiba továbbra is fennál, kérem jelentse a hibát a Súgó menüben "
+"található linken keresztül."
+
+#: ../../Jokosher/RecordingView.py:596
+msgid "This project has no name. Would you like to give it one?"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:597
+msgid ""
+"The Properties dialog in the File menu lets you change the name of author of "
+"the project."
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:601
+msgid "_Open Properties"
+msgstr ""
+
+#: ../../Jokosher/TimeLine.py:566
+#, python-format
+msgid "Timeline, %(bars)d bars, %(beats)d beats and %(ticks)d ticks in"
+msgstr "Idővonal, %(bars)d ütem, %(beats)d beütés és %(ticks)d és taktus"
+
+#: ../../Jokosher/TimeLine.py:570
+#, python-format
+msgid ""
+"Timeline, %(hours)d hours, %(mins)d minutes, %(secs)d seconds and %(millis)d "
+"milliseconds in"
+msgstr ""
+"Idővonal, %(hours)d óra, %(mins)d perc, %(secs)d másodperc és %(millis)d "
+"milliszekundum"
+
+#: ../../Jokosher/TimeLineBar.py:63
+msgid "Adjust volume of click track"
+msgstr "Kattogó sáv hangerejének beállítása"
+
+#: ../../Jokosher/TimeLineBar.py:67
+msgid "Beats per minute"
+msgstr "Percenkénti beütések"
+
+#: ../../Jokosher/TimeLineBar.py:86
+msgid "Time signature"
+msgstr "Időmutató"
+
+#: ../../Jokosher/TimeView.py:49
+msgid "Double click to change the time format"
+msgstr "Kattintsunk duplán az időformátum megváltoztatásához"
+
+#: ../../Jokosher/VUWidget.py:146
+msgid ""
+"<b>Drag</b> the <b>slider</b> to alter volume levels - <b>Right-Click</b> to "
+"set the <b>slider</b> to 100%"
+msgstr ""
+"<b>Ragadja</b> meg <b>a csúszkát</b> a hangerő változtatásához - <b>Jobb-"
+"Klikk</b>, hogy a <b>csúszka</b> 100%-ra álljon"
+
+#: i18n.instr.h:1
+msgid "Acoustic Guitar"
+msgstr "Akusztikus Gitár"
+
+#: i18n.instr.h:2
+msgid "Audio File"
+msgstr "Hangfájl"
+
+#: i18n.instr.h:3
+msgid "Bass Drum"
+msgstr "Lábdob"
+
+#: i18n.instr.h:4
+msgid "Bass Guitar"
+msgstr "Basszusgitár"
+
+#: i18n.instr.h:5
+msgid "Cello"
+msgstr "Cselló"
+
+#: i18n.instr.h:6
+msgid "Cymbal"
+msgstr "Cintányér"
+
+#: i18n.instr.h:7
+msgid "Drum Kit"
+msgstr "Dobkészlet"
+
+#: i18n.instr.h:8
+msgid "Effect"
+msgstr "Effekt"
+
+#: i18n.instr.h:9
+msgid "Electric Guitar"
+msgstr "Elektromos Gitár"
+
+#: i18n.instr.h:10
+msgid "Harmonica"
+msgstr "Harmónika"
+
+#: i18n.instr.h:11
+msgid "Keyboard"
+msgstr "Szintetizátor"
+
+#: i18n.instr.h:12
+msgid "Other"
+msgstr "Egyéb"
+
+#: i18n.instr.h:13
+msgid "Saxophone"
+msgstr "Szaxofon"
+
+#: i18n.instr.h:14
+msgid "Snare"
+msgstr "Pergő"
+
+#: i18n.instr.h:15
+msgid "Tom Tom"
+msgstr "Tam Tam"
+
+#: i18n.instr.h:16
+msgid "Trumpet"
+msgstr "Trombita"
+
+#: i18n.instr.h:17
+msgid "Violin"
+msgstr "Hegedű"
+
+#: i18n.instr.h:18
+msgid "Vocal"
+msgstr "Vokál"
+
+#~ msgid "<b>Jokosher Instruments</b>"
+#~ msgstr "<b>Jokosher Hangszerek</b>"
+
+#~ msgid "<b>Recent Projects</b>"
+#~ msgstr "<b>Legutóbbi projektek</b>"
+
+#~ msgid "<b>Template Instruments</b>"
+#~ msgstr "<b>Sablon hangszerek</b>"
+
+#~ msgid "Add Audio _File..."
+#~ msgstr "_Hangfájl hozzáadása..."
+
+#~ msgid "Add _Instrument..."
+#~ msgstr "H_angszer hozzáadása..."
+
+#~ msgid "Add the selected jokosher instrument"
+#~ msgstr "Kiválasztott jokosher hangszer hozzáadása"
+
+#~ msgid "Change Jokosher preferences"
+#~ msgstr "A Jokosher beállításainak megváltoztatása"
+
+#~ msgid "Choose a chain effects preset."
+#~ msgstr "Válasszunk ki egy előre beállított effektláncot."
+
+#~ msgid "Choose a project template"
+#~ msgstr "Project sablon kiválasztása"
+
+#~ msgid "Choose an effect preset."
+#~ msgstr "Válasszunk ki egy alapbeállítást az effekthez"
+
+#~ msgid "Create the project"
+#~ msgstr "Projekt létrehozása"
+
+#~ msgid "Delete the selected project template"
+#~ msgstr "Az aktuális projekt sablon törlése"
+
+#~ msgid "Don't create the project"
+#~ msgstr "Ne készítsen projektet"
+
+#~ msgid "Edit project templates"
+#~ msgstr "Projekt sablonok szerkesztése"
+
+#~ msgid ""
+#~ "Enter a name for your project and select a folder to store the project in:"
+#~ msgstr ""
+#~ "Írjunk be egy nevet a projektnek és válasszunk ki egy mappát amibe a "
+#~ "projekt fájljai kerülnek:"
+
+#~ msgid "Enter the author's name"
+#~ msgstr "Írjuk be a szerző nevét"
+
+#~ msgid "Enter the project's name"
+#~ msgstr "Írjuk be a projekt nevét"
+
+#~ msgid "Open a recent project"
+#~ msgstr "Nemrég használt projekt megnyitása"
+
+#~ msgid "Project Templates"
+#~ msgstr "Projektsablonok"
+
+#~ msgid "R_ecording Inputs..."
+#~ msgstr "B_emenet felvétele..."
+
+#~ msgid "Redo"
+#~ msgstr "Megismétlés"
+
+#~ msgid "Save _As..."
+#~ msgstr "Men_tés másként…"
+
+#~ msgid "Save a copy of the current project"
+#~ msgstr "Másolat mentése az aktuális projektről"
+
+#~ msgid "Save the selected project template"
+#~ msgstr "Kiválasztott projektsablon mentése"
+
+#~ msgid "Undo"
+#~ msgstr "Visszavonás"
+
+#~ msgid "Welcome to Jokosher!"
+#~ msgstr "A Jokosher üdvözli Önt!"
+
+#~ msgid "_Browse for an Existing Project"
+#~ msgstr "_Meglévő projekt megnyitása"
+
+#~ msgid "_Contributing to Jokosher"
+#~ msgstr "_Csatlakozom a Jokosherhez"
+
+#~ msgid "_Create a New Project"
+#~ msgstr "_Új projekt létrehozása"
+
+#~ msgid "_Don't open anything"
+#~ msgstr "Ne n_yisson meg semmit"
+
+#~ msgid "_Don't show this on start-up"
+#~ msgstr "_Ne mustassa ezt az ablakot indulásnál"
+
+#~ msgid "_Folder:"
+#~ msgstr "_Mappa:"
+
+#~ msgid "_New..."
+#~ msgstr "_Új"
+
+#~ msgid "_Online Forums"
+#~ msgstr "Internetes Fórum_ok"
+
+#~ msgid "_Open..."
+#~ msgstr "_Megnyitás…"
+
+#~ msgid "_Preferences"
+#~ msgstr "_Beállítások"
+
+#~ msgid "_Project Name:"
+#~ msgstr "A _projekt neve:"
+
+#~ msgid "_Recent Projects"
+#~ msgstr "Nem_rég Használt Projektek"
+
+#~ msgid "_Remove Selected Instrument"
+#~ msgstr "Ki_választott hangszer eltávolítása"
+
+#~ msgid "_Show welcome dialog"
+#~ msgstr "_Üdvözlő képernyő mutatása"
+
+#~ msgid "_System Information"
+#~ msgstr "_Rendszerinformáció"
+
+#~ msgid "_Template Name:"
+#~ msgstr "_Sablon neve:"
+
+#~ msgid "_Use project template"
+#~ msgstr "Pr_ojektsablon használata"
+
+#~ msgid "Jokosher Project File (*.jokosher)"
+#~ msgstr "Jokosher Projekt Fájl (*.jokosher)"
+
+#~ msgid "Choose a location to save the project"
+#~ msgstr "Válasszunk mappát a projekt mentéséhez"
+
+#~ msgid ""
+#~ "<span size='large' weight='bold'>Save changes to project \"%s\" before "
+#~ "closing?</span>\n"
+#~ "\n"
+#~ "Your changes will be lost if you don't save them."
+#~ msgstr ""
+#~ "<span size='large' weight='bold'>Menti a \"%s\" projekten végzett "
+#~ "változásokat kilépés előtt?</span>\n"
+#~ "\n"
+#~ "A mentetlen változtatások elvesznek mentés nélkül."
+
+#~ msgid "Close _Without Saving"
+#~ msgstr "Bezárás mentés _nélkül"
+
+#~ msgid "Clear the list of recent projects"
+#~ msgstr "Nemrég használt projektek listájának törlése"
+
+#~ msgid "Select A Folder"
+#~ msgstr "Válasszon egy mappát"
+
+#~ msgid "Instrument Name"
+#~ msgstr "Hangszer neve"
+
+#~ msgid "Don't load extensions or last project on startup (same as -ne)"
+#~ msgstr ""
+#~ "Ne töltsön be kiegészítőket vagy legutolsó projektet indításkor (ugyanaz "
+#~ "mint a -ne)"
+
+#~ msgid "Force the welcome dialog to show on startup"
+#~ msgstr "Jelenítse meg az üdvözlőképernyőt indításkor"
+
+#~ msgid "Force Jokosher to load without a welcome dialog or project"
+#~ msgstr "Induljon a Jokosher üdvözlőképernyő vagy projekt nélkül"
+
+#~ msgid ""
+#~ "Audio production made simple.\n"
+#~ "Version 0.11.1"
+#~ msgstr ""
+#~ "Amivel könnyű zenét csinálni.\n"
+#~ "0.11.1-es változat"
+
+#~ msgid "Jokosher Errors"
+#~ msgstr "Jokosher Hibák"
+
+#~ msgid "%(device)s, input %(input)d"
+#~ msgstr "%(device)s-k, bemenet: %(input)d"
+
+#~ msgid "<big>Couldn't launch the Yelp help browser.</big>"
+#~ msgstr "<big>Nem tudtam elindítani a Yelp súgóböngészőt.</big>"
+
+#~ msgid "There are %(number)d more errors not shown."
+#~ msgstr "További %(number)d hiba nincs megjelenítve."
+
+#~ msgid "_Close All"
+#~ msgstr "Mindet _bezár"
+
+#~ msgid "_Show All"
+#~ msgstr "_Mindet mutat"
+
+#~ msgid "<b>Audio Output Plugin</b>"
+#~ msgstr "<b>Audio kimenet bővítmény</b>"
+
+#, fuzzy
+#~ msgid "<b>Recording Sample Rate</b>"
+#~ msgstr "<b>Felvételi formátum</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "Autodetect\n"
+#~ "ALSA\n"
+#~ "Custom"
+#~ msgstr "Automatikus felismerés"
+
+#~ msgid "Argh! Something went wrong and a serious error occurred:"
+#~ msgstr "Hű! Valami elromlott és komoly hiba merült fel:"
+
+#, fuzzy
+#~ msgid "Mixdown as"
+#~ msgstr "_Lekeverés mint..."
+
+#, fuzzy
+#~ msgid "Audio production made simple."
+#~ msgstr ""
+#~ "Amivel könnyű zenét csinálni.\n"
+#~ "0.11.1-es változat"
+
+#, fuzzy
+#~ msgid "Beat value"
+#~ msgstr "_Beütések száma"
+
+#, fuzzy
+#~ msgid "Device:"
+#~ msgstr "Es_zköz:"
+
+#, fuzzy
+#~ msgid "Don't open anything"
+#~ msgstr "Ne n_yisson meg semmit"
+
+#~ msgid "FastForward"
+#~ msgstr "Gyors Előretekerés"
+
+#~ msgid "Output:"
+#~ msgstr "Kimenet"
+
+#, fuzzy
+#~ msgid "Pipeline:"
+#~ msgstr "_Adatcsatorna:"
+
+#, fuzzy
+#~ msgid "Preferences"
+#~ msgstr "_Beállítások"
+
+#, fuzzy
+#~ msgid "Recording Workspace"
+#~ msgstr "<b>Felvételi formátum</b>"
+
+#, fuzzy
+#~ msgid "Search:"
+#~ msgstr "_Keresés:"
+
+#, fuzzy
+#~ msgid "Show welcome dialog"
+#~ msgstr "_Üdvözlő képernyő mutatása"
+
+#~ msgid "Stop"
+#~ msgstr "Stop"
+
+#~ msgid "Switch to the Mixing workspace"
+#~ msgstr "Váltás a keverőpultra"
+
+#~ msgid "Switch to the Recording workspace"
+#~ msgstr "Váltás a felvételi eszközökhöz"
+
+#~ msgid "Workspaces"
+#~ msgstr "Munkaterületek"
+
+#~ msgid "version 0.9"
+#~ msgstr "0.9 verzió"
+
+#, fuzzy
+#~ msgid "_Paste"
+#~ msgstr "Phaserek"
+
+#~ msgid "Currently working in the Recording workspace"
+#~ msgstr "Jelenleg a Felvételi Munkaterületen dolgozunk"
+
+#~ msgid "Currently working in the Mixing workspace"
+#~ msgstr "Jelenleg a Keverőpulton dolgozunk"
+
+#, fuzzy
+#~ msgid "_Mixdown as"
+#~ msgstr "_Lekeverés"
+
+#, fuzzy
+#~ msgid "Export file"
+#~ msgstr "Fájl exportálása"
+
+#, fuzzy
+#~ msgid "Export as"
+#~ msgstr "Fájl exportálása"
+
+#, fuzzy
+#~ msgid "Run external script"
+#~ msgstr "Külső szkript futtatása"
+
+#~ msgid "Hz"
+#~ msgstr "Hz"
+
+#, fuzzy
+#~ msgid "<b>Drag</b> the <b>slider</b> to alter volume levels"
+#~ msgstr "<b>Húzza el</b> a piros csúszkát a hangerő keverés módosításához ."
+
+#, fuzzy
+#~ msgid "_Project"
+#~ msgstr "Új Projekt"
+
+#, fuzzy
+#~ msgid "<b>Presets for:</b>"
+#~ msgstr "<b>El_őrebeállított ehhez::</b>"
+
+#, fuzzy
+#~ msgid "Add a new instrument"
+#~ msgstr "Hangszer hozzáadása"
+
+#, fuzzy
+#~ msgid "Add a new step:"
+#~ msgstr "Hangszer hozzáadása"
+
+#, fuzzy
+#~ msgid "Author"
+#~ msgstr "_Szerző:"
+
+#, fuzzy
+#~ msgid "Browse for an Existing Project"
+#~ msgstr "_Meglévő projekt megnyitása"
+
+#, fuzzy
+#~ msgid "Create a New Project"
+#~ msgstr "_Új projekt létrehozása"
+
+#, fuzzy
+#~ msgid "Don't show this on start-up"
+#~ msgstr "_Ne mustassa ezt az ablakot indulásnál"
+
+#, fuzzy
+#~ msgid "Folder"
+#~ msgstr "_Mappa:"
+
+#, fuzzy
+#~ msgid "Mixing"
+#~ msgstr "Projekt Keverése"
+
+#, fuzzy
+#~ msgid "Mixing Workspace"
+#~ msgstr "Projekt Keverése"
+
+#, fuzzy
+#~ msgid "Open Selected Project"
+#~ msgstr "K_iválasztott projekt megnyitása"
+
+#, fuzzy
+#~ msgid "Open most recent project"
+#~ msgstr "_Legutóbbi projekt megnyitása"
+
+#, fuzzy
+#~ msgid "Project Name"
+#~ msgstr "A _projekt neve:"
+
+#, fuzzy
+#~ msgid "Record"
+#~ msgstr "Felvétel..."
+
+#, fuzzy
+#~ msgid "Recording"
+#~ msgstr "Felvétel..."
+
+#, fuzzy
+#~ msgid "Remove Selected Instrument"
+#~ msgstr "Ki_választott hangszer eltávolítása"
+
+#, fuzzy
+#~ msgid "Rewind"
+#~ msgstr "Megismétlés"
+
+#, fuzzy
+#~ msgid "_Add Instrument"
+#~ msgstr "Hangszer hozzáadása"
+
+#, fuzzy
+#~ msgid "_Manage Extensions"
+#~ msgstr "_Kiegészítők kezelése..."
+
+#, fuzzy
+#~ msgid "_Mixdown Project"
+#~ msgstr "Projekt lekeverése"
+
+#, fuzzy
+#~ msgid "_Mixdown the project"
+#~ msgstr "Projekt lekeverése"
+
+#, fuzzy
+#~ msgid "_Recording Inputs"
+#~ msgstr "B_emenet felvétele..."
+
+#, fuzzy
+#~ msgid "_Save these settings"
+#~ msgstr "Beállítások elfogadása"
+
+#, fuzzy
+#~ msgid "Choose a name for this profile"
+#~ msgstr "Válasszon Jokosher projektfájlt"
+
+#, fuzzy
+#~ msgid "Run script %s"
+#~ msgstr "Hiba a %s szkriptben"
+
+#, fuzzy
+#~ msgid "No such script %s"
+#~ msgstr "Hiba a %s szkriptben"
+
+#, fuzzy
+#~ msgid "Zoom the timeline"
+#~ msgstr "Idővonal kicsinyítése"

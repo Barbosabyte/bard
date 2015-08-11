@@ -1,0 +1,2439 @@
+# Slovak translation for jokosher
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the jokosher package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jokosher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-07 14:18+0100\n"
+"PO-Revision-Date: 2009-02-18 07:10+0000\n"
+"Last-Translator: Laszlo Pandy <laszlok2@gmail.com>\n"
+"Language-Team: Slovak <sk@li.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-02-26 00:44+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: ../../gtk-builder-ui/AboutDialog.ui:10
+msgid ""
+"Audio production made simple.\n"
+"Version 0.11.5"
+msgstr ""
+
+#. TRANSLATORS: Replace this string with your names, one name per line.
+#: ../../gtk-builder-ui/AboutDialog.ui:384
+msgid ""
+"Iestyn Pryce <dylunio@gmail.com>\n"
+"Jerome S. Gotangco <jgotangco@ubuntu.com>\n"
+"torb <torrb@musiker.nu>\n"
+"Robert Renling Berencreuz <berencreuz@gmail.com>\n"
+"Ola Jeppsson <ola.jeppsson@gmail.com>\n"
+"Daniel Nylander <po@danielnylander.se>\n"
+"aruiz <aruiz@synaptia.net>\n"
+"Manuel Duran Moyano <mduran@ubiobio.cl>\n"
+"Laszlo Pandy <laszlok2@gmail.com>\n"
+"Iván Edgardo Vázquez Santos \n"
+"David Corrales <corrales.david@gmail.com>\n"
+"Benjamin A'Lee <bma@bmalee.eu>\n"
+"Peter Baričič <pbaricic@gmail.com>\n"
+"Артём Попов <artfwo@gmail.com>\n"
+"deepred <psalmos@swissinfo.org>\n"
+"KeepYourMind <keepyourmind@gmail.com>\n"
+"Georgy Faradzhev <georgy.faradzhev@gmail.com>\n"
+"Gendolf <pr-baukalo@rambler.ru>\n"
+"Rodrigo NSH <rodrigo.nsh@gmail.com>\n"
+"Christian Reis <kiko@async.com.br>\n"
+"Lourabe Multimédia \n"
+"Tomasz Dominikowski <dominikowski@gmail.com>\n"
+"Konrad Adamczyk <konrad@svx.pl>\n"
+"Hender <simsalabimladen@gmail.com>\n"
+"sklp\n"
+"Bård Aase <base@kvarteret.no>\n"
+"Pecisk <pecisk@gmail.com>\n"
+"Luca Ferretti <elle.uca@libero.it>\n"
+"Daniele Medri <daniele@medri.org>\n"
+"Igor Khanin \n"
+"Tobias Frederick <me@tbfr.org>\n"
+"Tim Fuchs <tim.fuchs@gmail.com>\n"
+"Ramona Barte \n"
+"Marcus Hochstadt\n"
+"Lebowski\n"
+"Julian Turner\n"
+"Dennis Lichtenthäler <dennis.lichtenthaeler@episode-iv.de>\n"
+"dyphil <dyphil@wanadoo.fr>\n"
+"XioNoX \n"
+"Stemp <StempUbuntu@gmail.com>\n"
+"Signez\n"
+"Pierre Slamich <pierre.slamich@gmail.com>\n"
+"Nicolas Velin <nsv@fr.st>\n"
+"Jean-Francois Arseneau <jf.arseneau@gmail.com>\n"
+"Guillaume Hoffmann \n"
+"Gabriel de Perthuis <gabriel.de-perthuis@laposte.net>\n"
+"Bruno Bord <bruno@jehaisleprintemps.net>\n"
+"Mikko Virkkilä <mvirkkil@cc.hut.fi>\n"
+"Boyd Timothy\n"
+"William Anderson<neuro@well.com>\n"
+"Sridhar Dhanapalan <sridhar@dhanapalan.com>\n"
+"Roger Light <roger@atchoo.org>\n"
+"Malcolm Parsons\n"
+"Peturrr <peterdekraker@planet.nl>\n"
+"jerven Bolleman <ik@jerven.eu>\n"
+"Mathias-K <mathias@computergeil.dk>\n"
+"Niels Kjøller Hansen <niels.k.h@gmail.com>\n"
+"David Nielsen <david@lovesunix.net>\n"
+"daave <fan.d.liu@gmail.com>\n"
+msgstr ""
+"Iestyn Pryce <dylunio@gmail.com>\n"
+"Jerome S. Gotangco <jgotangco@ubuntu.com>\n"
+"torb <torrb@musiker.nu>\n"
+"Robert Renling Berencreuz <berencreuz@gmail.com>\n"
+"Ola Jeppsson <ola.jeppsson@gmail.com>\n"
+"Daniel Nylander <po@danielnylander.se>\n"
+"aruiz <aruiz@synaptia.net>\n"
+"Manuel Duran Moyano <mduran@ubiobio.cl>\n"
+"Laszlo Pandy <laszlok2@gmail.com>\n"
+"Iván Edgardo Vázquez Santos\n"
+"David Corrales <corrales.david@gmail.com>\n"
+"Benjamin A'Lee <bma@bmalee.eu>\n"
+"Peter Baričič <pbaricic@gmail.com>\n"
+"Артём Попов <artfwo@gmail.com>\n"
+"deepred <psalmos@swissinfo.org>\n"
+"KeepYourMind <keepyourmind@gmail.com>\n"
+"Georgy Faradzhev <georgy.faradzhev@gmail.com>\n"
+"Gendolf <pr-baukalo@rambler.ru>\n"
+"Rodrigo NSH <rodrigo.nsh@gmail.com>\n"
+"Christian Reis <kiko@async.com.br>\n"
+"Lourabe Multimédia\n"
+"Tomasz Dominikowski <dominikowski@gmail.com>\n"
+"Konrad Adamczyk <konrad@svx.pl>\n"
+"Hender <simsalabimladen@gmail.com>\n"
+"sklp\n"
+"Bård Aase <base@kvarteret.no>\n"
+"Pecisk <pecisk@gmail.com>\n"
+"Luca Ferretti <elle.uca@libero.it>\n"
+"Daniele Medri <daniele@medri.org>\n"
+"Igor Khanin\n"
+"Tobias Frederick <me@tbfr.org>\n"
+"Tim Fuchs <tim.fuchs@gmail.com>\n"
+"Ramona Barte\n"
+"Marcus Hochstadt\n"
+"Lebowski\n"
+"Julian Turner\n"
+"Dennis Lichtenthäler <dennis.lichtenthaeler@episode-iv.de>\n"
+"dyphil <dyphil@wanadoo.fr>\n"
+"XioNoX\n"
+"Stemp <StempUbuntu@gmail.com>\n"
+"Signez\n"
+"Pierre Slamich <pierre.slamich@gmail.com>\n"
+"Nicolas Velin <nsv@fr.st>\n"
+"Jean-Francois Arseneau <jf.arseneau@gmail.com>\n"
+"Guillaume Hoffmann\n"
+"Gabriel de Perthuis <gabriel.de-perthuis@laposte.net>\n"
+"Bruno Bord <bruno@jehaisleprintemps.net>\n"
+"Mikko Virkkilä <mvirkkil@cc.hut.fi>\n"
+"Boyd Timothy\n"
+"William Anderson<neuro@well.com>\n"
+"Sridhar Dhanapalan <sridhar@dhanapalan.com>\n"
+"Roger Light <roger@atchoo.org>\n"
+"Malcolm Parsons\n"
+"Peturrr <peterdekraker@planet.nl>\n"
+"jerven Bolleman <ik@jerven.eu>\n"
+"Mathias-K <mathias@computergeil.dk>\n"
+"Niels Kjøller Hansen <niels.k.h@gmail.com>\n"
+"David Nielsen <david@lovesunix.net>\n"
+"daave <fan.d.liu@gmail.com>\n"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:7
+msgid "Add an instrument"
+msgstr "Pridať nástroj"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:21
+msgid "Choose one or more instruments to add to your project."
+msgstr "Vyber jeden alebo viac nástrojov pre pridanie do tvojho projektu."
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:37
+msgid "_Search:"
+msgstr ""
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:51
+msgid "Type here to search for an instrument"
+msgstr "Zadajte hľadaný nástroj"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:96
+msgid "Don't add an instrument"
+msgstr "Nepridať nové nástroje"
+
+#: ../../gtk-builder-ui/AddInstrumentDialog.ui:113
+msgid "Add the selected instrument"
+msgstr "Pridať vybraný inštrument"
+
+#: ../../gtk-builder-ui/AddMixdownActionDialog.ui:7
+msgid "Add Mixdown Action"
+msgstr ""
+
+#: ../../gtk-builder-ui/AddMixdownActionDialog.ui:24
+msgid ""
+"Please select the mixdown actions you would like to add to the mixdown "
+"profile *profile*"
+msgstr ""
+
+#: ../../gtk-builder-ui/AddMixdownActionDialog.ui:110
+msgid "Add Action"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:13
+msgid "Configure Export File Action"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:25
+msgid ""
+"Please enter the filename of the audio you wish to export. The audio will be "
+"exported to the location specified."
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:54
+msgid "File name:"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:65
+#: ../../Jokosher/JokosherApp.py:639
+msgid "Save as file type:"
+msgstr "Uložiť ako typ súboru:"
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:115
+msgid "<b>File Details</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:144
+msgid "Export to local directory"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:160
+msgid "Export to remote server"
+msgstr ""
+
+#: ../../gtk-builder-ui/ConfigureExportFileAction.ui:200
+msgid "<b>Location Details</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:34
+msgid ""
+"<b>Jokosher is an Open Source project that is driven by a community of "
+"contributors. To make Jokosher rock, we need your help!</b>"
+msgstr ""
+"<b>Jokosher je Open Source projekt, ktorý vyvíja komunita prispievateľov. "
+"Aby bol Jokosher najlepší, potrebujeme tvoju pomoc!</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:55
+msgid "Testing Jokosher, and submitting bugs."
+msgstr "Testovanie Jokosher a posielanie hlásení o chybách."
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:70
+msgid "Drawing icons, images and other art."
+msgstr "Kreslenie ikon, obrázkov a inej grafiky."
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:85
+msgid "Writing simple to read documentation."
+msgstr "Písanie zrozumiteľnej dokumentácie"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:100
+msgid "Writing code and features in Python."
+msgstr "Programovanie v jazyku Python"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:124
+msgid "<b>Testing</b>"
+msgstr "<b>Testujem</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:141
+msgid "<b>Art</b>"
+msgstr "<b>Umenie</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:158
+msgid "<b>Documentation</b>"
+msgstr "<b>Dokumentácia</b>"
+
+#: ../../gtk-builder-ui/ContributingDialog.ui:207
+msgid "<b>Coding</b>"
+msgstr "<b>Kódovanie</b>"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:18
+msgid "Settings"
+msgstr "Nastavenie"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:47
+msgid "<b>Effect Name</b>"
+msgstr "<b>Názov efektu</b>"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:112
+msgid "Save the current settings as a preset"
+msgstr "Uložiť aktuálne nastavenia ako predvoľbu"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:132
+msgid "Delete the currently active preset"
+msgstr "Zmazať aktuálne aktívnu predvoľbu"
+
+#: ../../gtk-builder-ui/EffectSettingsDialog.ui:185
+msgid "Use these effect settings"
+msgstr "Použiť tieto nastavenia efektov"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:56
+msgid "Add an extension"
+msgstr "Pridať rozšírenie"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:76
+msgid "Remove the currently selected extension"
+msgstr "Odstrániť zvolené rozšírenie"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:98
+#: ../../gtk-builder-ui/MainWindow.ui:315
+msgid "Edit Jokosher preferences"
+msgstr "Zmeniť nastavenia"
+
+#: ../../gtk-builder-ui/ExtensionManagerDialog.ui:123
+msgid "Close the extension manager"
+msgstr "Zatvoriť manažéra rozšírení"
+
+#: ../../gtk-builder-ui/InstrumentConnectionsDialog.ui:23
+msgid "Select the audio input to use with each instrument."
+msgstr "Vyberte zvukový vstup pre každý nástroj"
+
+#: ../../gtk-builder-ui/InstrumentConnectionsDialog.ui:75
+msgid "C_hange Sound System"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentConnectionsDialog.ui:103
+msgid "Save your selections and close this window"
+msgstr "Uložte svoj výber a zatvorte toto okno"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:18
+msgid "Configure Instrument Effects"
+msgstr "Nastaviť efekt nástroju"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:36
+msgid "<b>_Presets for:</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:78
+msgid "Save the currently active effects as a preset"
+msgstr "Uložiť aktuálne aktívne efekty ako predvoľbu"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:98
+msgid "Delete the currently active effects preset"
+msgstr "Zmazať aktuálne aktívnu predvoľbu efektov"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:179
+msgid "Double-click an effect to activate it"
+msgstr "Dvojklikni na efekt pre jeho aktiváciu"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:197
+msgid "<b>Effects</b>"
+msgstr "<b>Efekty</b>"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:217
+msgid "Activate the selected effect"
+msgstr "Aktivovať zvolený efekt"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:264
+msgid "Double-click an active effect to adjust its settings"
+msgstr "Dvojklikni na aktívny efekt pre zmenu jeho nastavenia"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:293
+msgid "Move the selected active effect up on the effects chain"
+msgstr "Posunúť zvolený efekt vyššie v reťazi efektov"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:313
+msgid "Move the selected active effect down on the effects chain"
+msgstr "Posunúť zvolený efekt nižšie v reťazi efektov"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:333
+msgid "Deactivate the currently selected active effect"
+msgstr "Deaktivovať aktuálne označený aktívny efekt"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:353
+msgid "Adjust the settings for the currently selected active effect"
+msgstr "Upraviť nastavenia pre aktuálne označený aktívny efekt"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:381
+msgid "<b>Active effects for: </b>"
+msgstr "<b>Aktívne efekty pre: </b>"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:410
+msgid "Listen to these effects"
+msgstr "Vypočuť si tieto efekty"
+
+#: ../../gtk-builder-ui/InstrumentEffectsDialog.ui:427
+msgid "Use these effects"
+msgstr "Použiť tieto efekty"
+
+#: ../../gtk-builder-ui/MainWindow.ui:29
+msgid "_File"
+msgstr "_Súbor"
+
+#: ../../gtk-builder-ui/MainWindow.ui:38
+msgid "Create a new project"
+msgstr "Vytvoriť nový projekt"
+
+#: ../../gtk-builder-ui/MainWindow.ui:50
+msgid "Open an existing project"
+msgstr "Otvoriť existujúci projekt"
+
+#: ../../gtk-builder-ui/MainWindow.ui:62
+msgid "Import an existing project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:73
+msgid "Open a project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:74
+msgid "_Switch Project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:91
+msgid "Save the current project"
+msgstr "Uložiť aktuálny projekt"
+
+#: ../../gtk-builder-ui/MainWindow.ui:102
+msgid "Close the current project"
+msgstr "Zatvoriť aktuálny projekt"
+
+#: ../../gtk-builder-ui/MainWindow.ui:118
+#: ../../gtk-builder-ui/MainWindow.ui:482
+msgid "Add an instrument to the project"
+msgstr "Pridať inštrument k projektu"
+
+#: ../../gtk-builder-ui/MainWindow.ui:129
+#: ../../gtk-builder-ui/MainWindow.ui:497
+msgid "Add an audio file to the project"
+msgstr "Pridať zvukový súbor do projektu"
+
+#: ../../gtk-builder-ui/MainWindow.ui:140
+msgid "Manage instrument recording inputs"
+msgstr "Spravovať nahrávacie vstupy nástrojov"
+
+#: ../../gtk-builder-ui/MainWindow.ui:150
+msgid "Change the timeline"
+msgstr "Zmeniť časovú os"
+
+#: ../../gtk-builder-ui/MainWindow.ui:151
+msgid "_Time Format"
+msgstr "_Časový formát"
+
+#: ../../gtk-builder-ui/MainWindow.ui:158
+msgid "Change the timeline to show bars, beats and ticks"
+msgstr "Časový prehľad má zobrazovať takty, údery a tikanie"
+
+#: ../../gtk-builder-ui/MainWindow.ui:159
+msgid "Show as _Bars, Beats, Ticks"
+msgstr "Zobraziť ako _takty, údery, tikanie"
+
+#: ../../gtk-builder-ui/MainWindow.ui:167
+msgid "Change the timeline to show hours, minutes and seconds"
+msgstr "Zmeniť časovú os aby zobrazovala hodiny, minúty a sekundy"
+
+#: ../../gtk-builder-ui/MainWindow.ui:168
+msgid "Show as _Hours, Minutes, Seconds"
+msgstr "Zobraziť ako _Hodiny, Minúty, Sekundy"
+
+#: ../../gtk-builder-ui/MainWindow.ui:198
+msgid "Export current project to an audio file"
+msgstr "Exportovať projekt do zvukového súboru"
+
+#: ../../gtk-builder-ui/MainWindow.ui:214
+msgid "Quit Jokosher"
+msgstr "Ukončiť Jokosher"
+
+#: ../../gtk-builder-ui/MainWindow.ui:228
+msgid "_Edit"
+msgstr "_Upraviť"
+
+#: ../../gtk-builder-ui/MainWindow.ui:237
+msgid "Undo the last edit"
+msgstr "Vrátiť poslednú úpravu"
+
+#: ../../gtk-builder-ui/MainWindow.ui:249
+msgid "Redo the previous edit"
+msgstr "Vrátiť poslednú úpravu"
+
+#: ../../gtk-builder-ui/MainWindow.ui:266
+msgid "Cut the current selection"
+msgstr "Vystrihnúť výber"
+
+#: ../../gtk-builder-ui/MainWindow.ui:277
+msgid "Copy the current selection"
+msgstr "Kopírovať výber"
+
+#: ../../gtk-builder-ui/MainWindow.ui:288
+msgid "Paste the contents of the clipboard"
+msgstr "Vložiť obsah schránky"
+
+#: ../../gtk-builder-ui/MainWindow.ui:299
+msgid "Delete the current selection"
+msgstr "Zmazať výber"
+
+#: ../../gtk-builder-ui/MainWindow.ui:329
+msgid "_Instrument"
+msgstr "_Nástroj"
+
+#: ../../gtk-builder-ui/MainWindow.ui:338
+msgid "Add an audio file to the selected instrument"
+msgstr "Pridať zvukový súbor do označeného nástroja"
+
+#: ../../gtk-builder-ui/MainWindow.ui:348
+msgid "Change type of the selected instrument"
+msgstr "Zmeniť typ zvoleného nástroja"
+
+#: ../../gtk-builder-ui/MainWindow.ui:349
+msgid "_Change Instrument Type..."
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:358
+msgid "Remove the selected instrument"
+msgstr "Odstrániť zvolený nástroj"
+
+#: ../../gtk-builder-ui/MainWindow.ui:372
+msgid "Ex_tensions"
+msgstr "Ro_zšírenia"
+
+#: ../../gtk-builder-ui/MainWindow.ui:384
+msgid "Open the extension manager"
+msgstr "Otvoriť manažéra rozšírení"
+
+#: ../../gtk-builder-ui/MainWindow.ui:385
+msgid "_Manage Extensions..."
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:397
+msgid "_Help"
+msgstr "_Pomoc"
+
+#: ../../gtk-builder-ui/MainWindow.ui:405
+msgid "User manual contents"
+msgstr "Obsah užívateľského manuálu"
+
+#: ../../gtk-builder-ui/MainWindow.ui:415
+msgid "Report a bug in Jokosher"
+msgstr "Nahlásiť chybu"
+
+#: ../../gtk-builder-ui/MainWindow.ui:416
+msgid "_Report Bug..."
+msgstr "_Nahlásiť chybu..."
+
+#: ../../gtk-builder-ui/MainWindow.ui:425
+msgid "Visit Jokosher's online forums"
+msgstr "Naštíviť internetové fórum Jokosher"
+
+#: ../../gtk-builder-ui/MainWindow.ui:436
+msgid "Find out how you can help"
+msgstr "Zisti ako môžeš pomôcť"
+
+#: ../../gtk-builder-ui/MainWindow.ui:447
+msgid "See your system information"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:458
+msgid "Version information, credits and licence"
+msgstr "Informácie o verzii, príspevkoch a licencii"
+
+#: ../../gtk-builder-ui/MainWindow.ui:484
+msgid "Add Instrument"
+msgstr "Pridať nástroj"
+
+#: ../../gtk-builder-ui/MainWindow.ui:499
+msgid "Add Audio File"
+msgstr "Pridať zvukový súbor"
+
+#: ../../gtk-builder-ui/MainWindow.ui:519
+msgid "Click and hold to rewind"
+msgstr "Klikni a drž pre pretočenie dozadu"
+
+#: ../../gtk-builder-ui/MainWindow.ui:531
+msgid "Start playback"
+msgstr "Spustiť prehrávanie"
+
+#: ../../gtk-builder-ui/MainWindow.ui:543 ../../Jokosher/JokosherApp.py:66
+msgid "Stop playback"
+msgstr "Zastaviť prehrávanie"
+
+#: ../../gtk-builder-ui/MainWindow.ui:555
+msgid "Click and hold to fast forward"
+msgstr "Klikni a drž pre rýchle pretáčanie dopredu"
+
+#: ../../gtk-builder-ui/MainWindow.ui:567
+msgid "Arm an instrument then click here to begin recording"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:588
+msgid "Audio Mixers"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:645
+msgid "Start Jokosher with an empty project"
+msgstr "Spustiť Jokosher s prázdnym projektom"
+
+#: ../../gtk-builder-ui/MainWindow.ui:670
+msgid "_New"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:695
+msgid "Find and open an existing project"
+msgstr "Nájsť a otvoriť existujúci projekt"
+
+#: ../../gtk-builder-ui/MainWindow.ui:720
+msgid "_Import"
+msgstr ""
+
+#: ../../gtk-builder-ui/MainWindow.ui:770
+msgid "Double-click on a recent project to open"
+msgstr "Dvojklik myšou otvorí posledný projekt"
+
+#: ../../gtk-builder-ui/MainWindow.ui:788
+msgid "Select a project to open from the list"
+msgstr "Vyberte projekt k otvoreniu zo zoznamu"
+
+#: ../../gtk-builder-ui/MainWindow.ui:813
+msgid "_Open Selected Project"
+msgstr ""
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:13
+#: ../../Jokosher/JokosherApp.py:630
+msgid "Mixdown Project"
+msgstr "Zmixuj projekt"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:30
+msgid "Mixdown Profile:"
+msgstr ""
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:116
+msgid "<b>Mixdown Actions</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:240
+msgid "Cancel the mixdown"
+msgstr "Zrušiť zmixovanie"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:257
+msgid "Mixdown the project using these settings"
+msgstr "Zmixovať projekt s týmito nastaveniami"
+
+#: ../../gtk-builder-ui/MixdownProfileDialog.ui:282
+msgid "_Mixdown"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:59
+msgid "Open a _new project"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:75
+msgid "_Open most recent project"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:92
+msgid "_Don't open any project"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:116
+msgid "<b>Application Start-up</b>"
+msgstr "<b>Inicializácia aplikácie</b>"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:148
+msgid "_Encoding:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:161
+msgid "S_ample Rate:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:219
+msgid "<b>Recording Format</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:251
+msgid "S_ystem:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:264
+msgid "_Pipeline:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:316
+msgid "<b>Recording Sound System</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:365
+msgid "Sys_tem:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:378
+msgid "P_ipeline:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:393
+msgid "De_vice:"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:428
+msgid "autoaudiosink"
+msgstr "autoaudiosink"
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:447
+msgid "<b>Playback Sound System</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/PreferencesDialog.ui:470
+msgid "Save preferences and close"
+msgstr "Uložiť nastavenia a zatvoriť"
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:7
+msgid "Mixing Project"
+msgstr "Mixovanie projektu"
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:26
+msgid "<big><b>Mixing the project...</b></big>"
+msgstr ""
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:47
+msgid "Your music file is being mixed. This can take some seconds."
+msgstr ""
+
+#: ../../gtk-builder-ui/ProgressDialog.ui:90
+msgid "Stop mixing the project"
+msgstr "Zastaviť mixovanie projektu"
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:7
+msgid "Project Properties"
+msgstr ""
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:39
+msgid "_Name:"
+msgstr ""
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:52
+msgid "_Author:"
+msgstr ""
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:96
+msgid "<b>General</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/ProjectPropertiesDialog.ui:143
+msgid "<b>N_otes</b>"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:7
+msgid "System Information"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:36
+msgid "<big>System Information</big>"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:63
+msgid "GStreamer version:"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:74
+msgid "Gnonlin version:"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:87
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:128
+msgid "xx.xx.xx"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:115
+msgid "Distribution:"
+msgstr ""
+
+#: ../../gtk-builder-ui/SystemInformationDialog.ui:161
+msgid "Close this window"
+msgstr ""
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:33
+msgid "Set Time Signature"
+msgstr "Nastaviť časovú známku"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:63
+msgid "Beats per _measure"
+msgstr ""
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:76
+msgid "Beat _value"
+msgstr ""
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:111
+msgid "Adjust the amount of beats per measure"
+msgstr "Nastaviť počet úderov za minútu"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:131
+msgid "<b>Time Signature</b>"
+msgstr "<b>Časová signatúra</b>"
+
+#: ../../gtk-builder-ui/TimeSignatureDialog.ui:158
+msgid "Use these settings"
+msgstr "Použiť tieto nastavenia"
+
+#: ../../Jokosher/Jokosher:73
+msgid "Print debug output to stdout"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:75
+msgid "Sent debug output to Gstreamer's debug system"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:77
+msgid "Do not load extensions or project on startup (same as -ne)"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:79
+msgid "Do not load a project on startup"
+msgstr ""
+
+#: ../../Jokosher/Jokosher:81
+msgid "Do not load extensions on startup"
+msgstr "Nenahrávať rozšírenia pri štarte"
+
+#: ../../Jokosher/AddInstrumentDialog.py:63
+msgid "Change Instrument Type"
+msgstr "Zmeniť typ nástroja"
+
+#: ../../Jokosher/AddInstrumentDialog.py:65
+#, python-format
+msgid "Choose the new instrument type for %s"
+msgstr "Vybrať nový typ inštrumentu pre %s"
+
+#: ../../Jokosher/CompactMixView.py:86
+msgid "<b>Instruments Not Shown:</b>"
+msgstr "<b>Nezobrazené nástroje:</b>"
+
+#: ../../Jokosher/ControlsBox.py:43
+msgid "Enable this instrument for recording"
+msgstr "Povoliť tento nástroj na nahrávanie"
+
+#: ../../Jokosher/ControlsBox.py:44
+msgid "Disable this instrument for recording"
+msgstr "Vypnúť tento nástroj z nahrávania"
+
+#: ../../Jokosher/ControlsBox.py:45
+msgid "Mute - silence this instrument"
+msgstr "Stlmiť - umlčať tento nástroj"
+
+#: ../../Jokosher/ControlsBox.py:46
+msgid "Unmute - hear this instrument"
+msgstr "Odmlčiť - počuť tento nástroj"
+
+#: ../../Jokosher/ControlsBox.py:47
+msgid "Activate Solo - silence all other instruments"
+msgstr "Aktivovať sólo - umlčať ostatné nástroje"
+
+#: ../../Jokosher/ControlsBox.py:48
+msgid "Deactivate Solo - hear all the instruments"
+msgstr "Deaktivovať sólo - počuť ostatné nástroje"
+
+#: ../../Jokosher/ControlsBox.py:81
+#: ../../Jokosher/InstrumentEffectsDialog.py:117
+msgid "Instrument Effects"
+msgstr "Efekty nástrojov"
+
+#: ../../Jokosher/ControlsBox.py:223
+msgid "You do not have any LADSPA effects plugins installed"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:225
+msgid "Jokosher does not currently support any LADSPA plugins on Windows"
+msgstr ""
+
+#: ../../Jokosher/ControlsBox.py:228
+msgid ""
+"Jokosher requires one or more packages of LADSPA effects to be able to use "
+"this feature, please install the relevant package(s) for your distribution."
+msgstr ""
+
+#: ../../Jokosher/Event.py:780
+#, python-format
+msgid "%(title)s by %(artist)s"
+msgstr ""
+
+#: ../../Jokosher/EventLaneViewer.py:115
+msgid "_Add Audio File..."
+msgstr "_Pridať zvukový súbor..."
+
+#: ../../Jokosher/EventLaneViewer.py:264
+msgid "<b>Right-click</b> for more options."
+msgstr "<b>Klikni pravým tlačítkom myši</b> pre viac možností."
+
+#: ../../Jokosher/EventViewer.py:151
+msgid "Trim"
+msgstr "Orezať"
+
+#: ../../Jokosher/EventViewer.py:162
+msgid "Delete Fade Points"
+msgstr "Zmazať body dozvuku"
+
+#: ../../Jokosher/EventViewer.py:170
+msgid "Snap To Fade Points"
+msgstr "Prichytávať k bodom slabnutia"
+
+#: ../../Jokosher/EventViewer.py:443
+msgid "Downloading..."
+msgstr "Sťahujem..."
+
+#: ../../Jokosher/EventViewer.py:445
+msgid "Loading..."
+msgstr "Načítavam...."
+
+#: ../../Jokosher/EventViewer.py:449
+#, python-format
+msgid "Downloading (%d%%)..."
+msgstr "Sťahujem (%d%%)..."
+
+#: ../../Jokosher/EventViewer.py:451
+#, python-format
+msgid "Loading (%d%%)..."
+msgstr "Načítavam (%d%%)..."
+
+#: ../../Jokosher/EventViewer.py:462
+msgid "Recording..."
+msgstr "Nahrávam..."
+
+#: ../../Jokosher/EventViewer.py:510
+msgid ""
+"To <b>Split, Double-Click</b> the wave - To <b>Select, Shift-Click</b> and "
+"drag the mouse"
+msgstr ""
+"Pre <b>rozdelenie, dvoj-klikni</b> na zvukovú vlnu - Pre <b>výber, drž Shift "
+"a klikni</b> a pohni myšou"
+
+#: ../../Jokosher/EventViewer.py:524
+msgid "<b>Drag</b> the red sliders to modify the volume fade."
+msgstr ""
+
+#: ../../Jokosher/EventViewer.py:637
+msgid ""
+"<b>Click</b> the buttons below the selection to do something to that portion "
+"of audio."
+msgstr ""
+"<b>Klikni</b> na tlačítka pod výberom na vykonanie činnosti s tou časťou "
+"zvuku."
+
+#: ../../Jokosher/EventViewer.py:902
+msgid "_Split"
+msgstr "_Rozdeliť"
+
+#: ../../Jokosher/EventViewer.py:904
+msgid "Cu_t"
+msgstr "Vy_strihnúť"
+
+#: ../../Jokosher/EventViewer.py:905
+msgid "_Copy"
+msgstr "_Kopírovať"
+
+#: ../../Jokosher/EventViewer.py:906
+#: ../../Jokosher/InstrumentEffectsDialog.py:450
+msgid "_Delete"
+msgstr "_Odstrániť"
+
+#: ../../Jokosher/EventViewer.py:1196
+msgid "Error loading file:"
+msgstr "Chyba pri načítavaní súboru:"
+
+#: ../../Jokosher/EventViewer.py:1197
+msgid ""
+"Please make sure the file exists, and the appropriate plugin is installed."
+msgstr ""
+"Prosím, uistite sa, že tento súbor existuje a vhodný zásuvný modul je "
+"nainštalovaný."
+
+#: ../../Jokosher/EventViewer.py:1415
+#, python-format
+msgid ""
+"Event, %(name)s, %(dur)0.2f seconds long, starting at %(start)0.2f seconds."
+msgstr ""
+
+#: ../../Jokosher/Extension.py:50
+msgid "This is a Jokosher extension; it is not meant to be run directly."
+msgstr "Toto je rozšírenie pre Jokosher; nemá sa spúšťať priamo."
+
+#: ../../Jokosher/Extension.py:51
+#, python-format
+msgid ""
+"To install it, move it to the directory %s\n"
+"and run Jokosher."
+msgstr ""
+"Aby ste ho nainštalovali, presuňte ho do adresára %s\n"
+"a spustite Jokosher."
+
+#: ../../Jokosher/Extension.py:54
+msgid ""
+"This is a Jokosher extension, which needs to be installed. Would you like to "
+"install it?"
+msgstr ""
+"Toto je Jokosher rozšírenie, ktoré musí byť nainštalované. Chcete ho "
+"nainštalovať?"
+
+#: ../../Jokosher/Extension.py:56
+msgid "Install"
+msgstr "Inštalovať"
+
+#: ../../Jokosher/Extension.py:66
+#, python-format
+msgid ""
+"You already have a extension with the name %s installed; would you like to "
+"replace it?"
+msgstr "Rozšírenie %s už máte nainštalované; chcete ho nahradiť?"
+
+#: ../../Jokosher/Extension.py:69
+msgid "Replace"
+msgstr "Nahradiť"
+
+#: ../../Jokosher/Extension.py:82
+msgid "Your new extension is now available in Jokosher!"
+msgstr "Vaše nové rozšírenie je k dispozícii v Jokosher!"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:168
+msgid "Choose a Jokosher Extension file"
+msgstr "Vybrať Jokosher súbor s rozšírením"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:174
+msgid "Jokosher Extension Files (*.py *.egg)"
+msgstr "Súbory rozšírenia Jokosher (*.py *.egg)"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:196
+msgid "There was a problem loading the extension"
+msgstr "Nastal problém s načítavaním rozšírenia"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:234
+msgid "There was a problem removing the extension"
+msgstr "Nastal problém pri odstranovaní rozšírenia"
+
+#: ../../Jokosher/ExtensionManagerDialog.py:271
+msgid ""
+"An error occurred when trying to launch the preferences for the extension"
+msgstr "Nastala chyba pri spúšťaní nastavenia rozšírenia"
+
+#: ../../Jokosher/Globals.py:509
+msgid "Broken"
+msgstr "Poškodené"
+
+#: ../../Jokosher/Globals.py:510
+msgid "Unclassified"
+msgstr "Nezaradené"
+
+#: ../../Jokosher/Globals.py:511
+msgid "Amplifiers"
+msgstr "Zosilňovače"
+
+#: ../../Jokosher/Globals.py:512
+msgid "Chorus"
+msgstr "Zbor"
+
+#: ../../Jokosher/Globals.py:513
+msgid "Compressors"
+msgstr "Kompresory"
+
+#: ../../Jokosher/Globals.py:514
+msgid "Delays"
+msgstr "Oneskorenia"
+
+#: ../../Jokosher/Globals.py:515
+msgid "Distortions"
+msgstr "Skreslenia"
+
+#: ../../Jokosher/Globals.py:516
+msgid "Equalizers"
+msgstr "Korektor"
+
+#: ../../Jokosher/Globals.py:517
+msgid "Filters"
+msgstr "Filtre"
+
+#: ../../Jokosher/Globals.py:518
+msgid "Flangers"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:519
+msgid "Miscellaneous"
+msgstr "Rôzne"
+
+#: ../../Jokosher/Globals.py:520
+msgid "Modulators"
+msgstr "Modulátory"
+
+#: ../../Jokosher/Globals.py:521
+msgid "Oscillators"
+msgstr "Oscilátory"
+
+#: ../../Jokosher/Globals.py:522
+msgid "Phasers"
+msgstr "Fázovače"
+
+#: ../../Jokosher/Globals.py:523
+msgid "Reverbs"
+msgstr "Odrazy"
+
+#: ../../Jokosher/Globals.py:524
+msgid "Simulators"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:718 ../../Jokosher/PreferencesDialog.py:113
+msgid "Autodetect"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:719
+msgid "Use GNOME Settings"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:729
+msgid "GNOME Settings"
+msgstr ""
+
+#: ../../Jokosher/Globals.py:747
+msgid "Jokosher Audio Editor"
+msgstr ""
+
+#: ../../Jokosher/IncrementalSave.py:29 ../../Jokosher/Instrument.py:489
+msgid "Recorded audio"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:58
+msgid "There are no instruments to connect"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:103
+#: ../../Jokosher/PreferencesDialog.py:338
+msgid "Default"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:105
+#, python-format
+msgid "Default (%s)"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:112
+#, python-format
+msgid "%(device)s (%(id)s), input %(input)d"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:115
+#: ../../Jokosher/PreferencesDialog.py:341
+#, python-format
+msgid "%(device)s (%(id)s)"
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:157
+#, python-format
+msgid ""
+"The %(sound-system-name)s sound system does not support device selection."
+msgstr ""
+
+#: ../../Jokosher/InstrumentConnectionsDialog.py:160
+#, python-format
+msgid ""
+"The \"%(custom-pipeline)s\" sound system does not support device selection."
+msgstr ""
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:143
+#: ../../Jokosher/InstrumentEffectsDialog.py:145
+#: ../../Jokosher/MixdownProfileDialog.py:617
+msgid "Name"
+msgstr ""
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:144
+msgid "Type"
+msgstr ""
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:447
+msgid "_Move up..."
+msgstr ""
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:448
+msgid "M_ove down..."
+msgstr "_Presunúť nižšie"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:451
+msgid "_Settings"
+msgstr "_Nastavenie"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:492
+msgid "_Activate effect"
+msgstr "_Aktivovať efekt"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:674
+msgid "Effect Settings"
+msgstr "Nastavenie efektov"
+
+#: ../../Jokosher/InstrumentEffectsDialog.py:705
+msgid "-parameter not readable-"
+msgstr "-parameter je nečitateľný-"
+
+#: ../../Jokosher/JokosherApp.py:63 ../../Jokosher/JokosherApp.py:65
+msgid "Stop recording"
+msgstr "Zastaviť nahrávanie"
+
+#: ../../Jokosher/JokosherApp.py:64
+msgid "Arm an instrument, then click here to begin recording"
+msgstr "Pripoj nástroj, potom klikni na spustenie nahrávania"
+
+#: ../../Jokosher/JokosherApp.py:67
+msgid "Hide the audio level mixers"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:68
+msgid "Show the audio level mixers"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:438
+#, python-format
+msgid ""
+"<big>Couldn't launch the jokosher website automatically.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+"<big>Nepodarilo sa automaticky spustiť webstránku Jokosher.</big>\n"
+"\n"
+"Prosím, navštívte ju na %s."
+
+#: ../../Jokosher/JokosherApp.py:449
+#, python-format
+msgid ""
+"<big>Couldn't launch the launchpad website automatically.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+"<big>Nepodarilo sa automaticky spustiť webstránku Launchpad.</big>\n"
+"\n"
+"Prosím, navštívte ju na %s."
+
+#: ../../Jokosher/JokosherApp.py:481
+#, python-format
+msgid ""
+"The instruments '%(name1)s' and '%(name2)s' both have the same input "
+"selected. Please either disarm one, or connect it to a different input "
+"through 'Project -> Recording Inputs'"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:678
+msgid "Preparing to mixdown project"
+msgstr "Pripravujem zmixovanie projektu"
+
+#: ../../Jokosher/JokosherApp.py:684
+#, python-format
+msgid "%(progress)d%% of %(total)d seconds completed"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:762
+msgid "Choose a Jokosher project file"
+msgstr "Vyberte súbor projektu Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:774
+msgid "All Files"
+msgstr "Všetky súboru"
+
+#: ../../Jokosher/JokosherApp.py:778
+msgid "Jokosher Project Files (*.jokosher)"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:811
+msgid "An error occurred and the project could not be imported."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:842
+msgid "New Project"
+msgstr "Nový projekt"
+
+#: ../../Jokosher/JokosherApp.py:843
+msgid "Unknown Author"
+msgstr "Neznámy autor"
+
+#: ../../Jokosher/JokosherApp.py:849
+msgid "Could not initialize project."
+msgstr "Nie je možné inicializovať projekt."
+
+#: ../../Jokosher/JokosherApp.py:851
+msgid ""
+"A file or folder with this name already exists. Please choose a different "
+"project name and try again."
+msgstr ""
+"Súbor alebo priečinok s týmto názvom už existuje. Prosím vyberte iný názov "
+"projektu a skúste znova."
+
+#: ../../Jokosher/JokosherApp.py:853
+msgid "The file or folder location is write-protected."
+msgstr "Súbor alebo priečinok lokácie je chránený pred zápisom."
+
+#: ../../Jokosher/JokosherApp.py:855
+msgid "Invalid name or author."
+msgstr "Neplatný názov alebo autor."
+
+#: ../../Jokosher/JokosherApp.py:857
+msgid "The URI scheme given is either invalid or not supported"
+msgstr "Schéma URI je neplatná alebo nepodporovaná"
+
+#: ../../Jokosher/JokosherApp.py:859
+msgid "Unable to load required Gstreamer plugin:"
+msgstr "Nepodarilo sa načítať požadovaný zásuvný modul Gstreamer:"
+
+#: ../../Jokosher/JokosherApp.py:866
+#, python-format
+msgid ""
+"Unable to create project.\n"
+"\n"
+"%s"
+msgstr ""
+"Nie je možné vytvoriť projekt.\n"
+"\n"
+"%s"
+
+#: ../../Jokosher/JokosherApp.py:1015
+#, python-format
+msgid "Mixing project to file: %s"
+msgstr "Projekt mixujem do súboru: %s"
+
+#: ../../Jokosher/JokosherApp.py:1058
+#, python-format
+msgid "*%s - Jokosher"
+msgstr "*%s - Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:1060
+#, python-format
+msgid "%s - Jokosher"
+msgstr "%s - Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:1127
+#, python-format
+msgid "Show all %d projects"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1129
+msgid "Show all projects"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1132
+msgid "Close the current project, and show all available projects"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1403
+msgid "Jokosher"
+msgstr "Jokosher"
+
+#: ../../Jokosher/JokosherApp.py:1588
+msgid "The project references non-existant files:\n"
+msgstr "Projekt odkazuje na neexistujúce súbory:\n"
+
+#: ../../Jokosher/JokosherApp.py:1592
+msgid ""
+"\n"
+"The project references non-existant images:\n"
+msgstr ""
+"\n"
+"Projekt odkazuje na neexistujúce obrázky:\n"
+
+#: ../../Jokosher/JokosherApp.py:1600
+#, python-format
+msgid ""
+"%s\n"
+" Invalid or corrupt project file, will not open."
+msgstr ""
+"%s\n"
+" Neplatný alebo poškodený súbor projektu, nebude otvorený."
+
+#: ../../Jokosher/JokosherApp.py:1639
+msgid "You must have Gstreamer version 0.10.9 or higher.\n"
+msgstr "Musíte mať Gstreamer verzie minimálne 0.10.9.\n"
+
+#: ../../Jokosher/JokosherApp.py:1647
+msgid "You must have Gstreamer plugin gnonlin version 0.10.4.2 or later.\n"
+msgstr "Musíte mať Gstreamer plugin gnonlin verzie minimálne 0.10.4.2.\n"
+
+#: ../../Jokosher/JokosherApp.py:1649
+msgid "Gstreamer plugin gnonlin is not installed."
+msgstr "Gstreamer plugin gnonlin nie je nainštalovaný."
+
+#: ../../Jokosher/JokosherApp.py:1650
+msgid ""
+"\n"
+"See http://doc.jokosher.org/Installation for more details.\n"
+msgstr ""
+"\n"
+"Pozri podrobnosti v http://doc.jokosher.org/Installation\n"
+
+#: ../../Jokosher/JokosherApp.py:1653
+msgid ""
+"You must have the Gstreamer plugin packs gst-plugins-base and gst-plugins-"
+"good installed.\n"
+msgstr ""
+"Musíte mať nainštalované balíčky gst-plugins-base a gst-plugins-good.\n"
+
+#: ../../Jokosher/JokosherApp.py:1659
+#, python-format
+msgid ""
+"<big>Some functionality will not work correctly or at all.</big>\n"
+"\n"
+"%s"
+msgstr ""
+"<big>Niektoré funkcie nebudú pracovať správne alebo vôbec.</big>\n"
+"\n"
+"%s"
+
+#: ../../Jokosher/JokosherApp.py:1702
+#, python-format
+msgid ""
+"<big>Couldn't launch the Jokosher documentation site.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1713
+#, python-format
+msgid ""
+"<big>Couldn't launch the forums website automatically.</big>\n"
+"\n"
+"Please visit %s to access them."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1741
+msgid "<b>To find out more, visit:</b>"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1764
+#, python-format
+msgid ""
+"<big>Couldn't launch the contributing website automatically.</big>\n"
+"\n"
+"Please visit %s to access it."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1819
+msgid "Gnonlin is missing!"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1826
+msgid "Unknown"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1842
+#, python-format
+msgid "The URI scheme '%s' is either invalid or not supported."
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:1844
+#, python-format
+msgid "Unable to unzip the project file %s"
+msgstr "Nemôžem rozpakovať projektový súbor %s"
+
+#: ../../Jokosher/JokosherApp.py:1846
+#, python-format
+msgid "The project file was created with version \"%s\" of Jokosher.\n"
+msgstr "Projektový súbor bol vytvorený Jokosher verziou \"%s\".\n"
+
+#: ../../Jokosher/JokosherApp.py:1847
+#, python-format
+msgid "Projects from version \"%s\" are incompatible with this release.\n"
+msgstr "Projekty z verzie \"%s\" sú nekompatibilné s týmto vydaním.\n"
+
+#: ../../Jokosher/JokosherApp.py:1849
+#, python-format
+msgid ""
+"The project:\n"
+"%s\n"
+"\n"
+"does not exist.\n"
+msgstr ""
+"Projekt:\n"
+"%s\n"
+"\n"
+"neexistuje.\n"
+
+#: ../../Jokosher/JokosherApp.py:1851 ../../Jokosher/JokosherApp.py:1855
+msgid "The project file could not be opened.\n"
+msgstr "Projektový súbor nemohol byť otvorený.\n"
+
+#: ../../Jokosher/JokosherApp.py:1852
+msgid ""
+"It is recommended that you report this to the Jokosher developers or get "
+"help at http://www.jokosher.org/forums/"
+msgstr ""
+"Odporúča sa, aby ste to ohlásili vývojárom aplikácie Jokosher alebo skúsili "
+"hľadať pomoc na fórach http://www.jokosher.org/forums/"
+
+#: ../../Jokosher/JokosherApp.py:1932
+msgid "Copy file to project"
+msgstr "Kopíruj súbor do projektu"
+
+#: ../../Jokosher/JokosherApp.py:1937
+msgid "Add Audio File..."
+msgstr "Pridať zvukový súbor..."
+
+#: ../../Jokosher/JokosherApp.py:2011 ../../Jokosher/JokosherApp.py:2016
+msgid "Mix_down As"
+msgstr ""
+
+#: ../../Jokosher/JokosherApp.py:2029
+msgid "_Mixdown Project..."
+msgstr ""
+
+#: ../../Jokosher/MasterMixerStrip.py:46
+msgid "Master Volume:"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:157
+msgid "Export File"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:158
+msgid "Export a file to the destination of your choosing."
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:226
+#, python-format
+msgid ""
+"An encoding plugin could not be found: %s.\n"
+"Please make sure all the plugins required for the specified format are "
+"installed."
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:228
+#, python-format
+msgid "The encoding bin description is invalid: %s"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:254
+msgid "Server type:"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:267
+msgid "Server location:"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:271
+msgid "Username:"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:275
+msgid "Password:"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:311
+msgid "Location:"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:379
+msgid "Select Export Location"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:490 ../../Jokosher/MixdownActions.py:500
+msgid "Run External Script"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:491
+msgid "Run an external script from the destination of your choosing."
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:532
+#, python-format
+msgid "An error occured with the script %s"
+msgstr ""
+
+#: ../../Jokosher/MixdownActions.py:534
+#, python-format
+msgid "Error in script %s"
+msgstr "Chyba v skripte %s"
+
+#: ../../Jokosher/MixdownActions.py:537
+#, python-format
+msgid "The script %s does not exist."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:186
+#, python-format
+msgid "<b>%s is configured</b>"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:188
+#, python-format
+msgid "<b>%s is not configured</b>"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:367
+msgid "Please enter the name of the mixdown profile you wish to create."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:377
+msgid "Profile name:"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:380
+msgid "Create Mixdown Profile"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:398
+#, python-format
+msgid "Successfully created mixdown profile <b>%s.profile</b>."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:402
+msgid ""
+"Cannot create mixdown profile. Please make sure you have specified a profile "
+"name."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:423
+#, python-format
+msgid "Please make sure the extension <b>%s</b> is enabled."
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:424
+#, python-format
+msgid ""
+"<big><b>Cannot load mixdown action %s.</b></big>\n"
+"\n"
+"%s"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:552
+#, python-format
+msgid "An error occured while running the mixdown action: %s"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:616
+msgid "Icon"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfileDialog.py:631
+#, python-format
+msgid ""
+"Please select the mixdown actions you would like to add to mixdown profile "
+"<b>%s.</b>"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfiles.py:94 ../../Jokosher/MixdownProfiles.py:151
+#, python-format
+msgid "The mixdown profile %s does not exist"
+msgstr ""
+
+#: ../../Jokosher/MixdownProfiles.py:115
+#, python-format
+msgid "Cannot remove mixdown profile %s"
+msgstr ""
+
+#: ../../Jokosher/MixerStrip.py:63
+msgid "Minimize instrument"
+msgstr "Zminimalizuj nástroj"
+
+#: ../../Jokosher/MixerStrip.py:73
+msgid "Balance:"
+msgstr "Vyváženie:"
+
+#: ../../Jokosher/MixerStrip.py:78
+msgid "L"
+msgstr "L"
+
+#: ../../Jokosher/MixerStrip.py:79
+msgid "R"
+msgstr "R"
+
+#: ../../Jokosher/MixerStrip.py:84
+msgid "Adjust instrument balance. Right-click to center"
+msgstr "Nastaviť vyváženie nástrojov. Centruje sa kliknutím pravého tlačidla."
+
+#: ../../Jokosher/MixerStrip.py:98
+msgid "Volume:"
+msgstr "Hlasitosť:"
+
+#: ../../Jokosher/MixerStrip.py:231
+#, python-format
+msgid "Current balance is <b>%d%%</b> left"
+msgstr "Momentálne vyváženie je <b>%d%%</b> vľavo"
+
+#: ../../Jokosher/MixerStrip.py:233
+msgid "Current balance is <b>centered</b>"
+msgstr "Momentálne vyváženie je <b>v strede</b>"
+
+#: ../../Jokosher/MixerStrip.py:235
+#, python-format
+msgid "Current balance is <b>%d%%</b> right"
+msgstr "Momentálne vyváženie je <b>%d%%</b> vpravo"
+
+#: ../../Jokosher/PreferencesDialog.py:75
+#: ../../Jokosher/PreferencesDialog.py:93
+msgid "Custom"
+msgstr ""
+
+#: ../../Jokosher/PreferencesDialog.py:346
+#, python-format
+msgid "Device %d"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:120
+msgid "Zoom the timeline - Right-Click to reset to the default level"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:129
+msgid "Zoom in timeline"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:136
+msgid "Zoom out timeline"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:180
+msgid "Would you like to restore the current project?"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:181
+msgid ""
+"A crash was detected and changes to your project were not saved.\n"
+"If you would like, you can attempt to recover these lost changes."
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:185
+msgid "_Restore Project"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:321
+msgid "A Gstreamer error has occurred"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:332
+msgid "A GStreamer error has occurred."
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:333
+msgid ""
+"If this problem persists consider reporting a bug using the link in the help "
+"menu."
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:596
+msgid "This project has no name. Would you like to give it one?"
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:597
+msgid ""
+"The Properties dialog in the File menu lets you change the name of author of "
+"the project."
+msgstr ""
+
+#: ../../Jokosher/RecordingView.py:601
+msgid "_Open Properties"
+msgstr ""
+
+#: ../../Jokosher/TimeLine.py:566
+#, python-format
+msgid "Timeline, %(bars)d bars, %(beats)d beats and %(ticks)d ticks in"
+msgstr ""
+
+#: ../../Jokosher/TimeLine.py:570
+#, python-format
+msgid ""
+"Timeline, %(hours)d hours, %(mins)d minutes, %(secs)d seconds and %(millis)d "
+"milliseconds in"
+msgstr ""
+
+#: ../../Jokosher/TimeLineBar.py:63
+msgid "Adjust volume of click track"
+msgstr ""
+
+#: ../../Jokosher/TimeLineBar.py:67
+msgid "Beats per minute"
+msgstr "Úderov za minútu"
+
+#: ../../Jokosher/TimeLineBar.py:86
+msgid "Time signature"
+msgstr "Časová známka"
+
+#: ../../Jokosher/TimeView.py:49
+msgid "Double click to change the time format"
+msgstr ""
+
+#: ../../Jokosher/VUWidget.py:146
+msgid ""
+"<b>Drag</b> the <b>slider</b> to alter volume levels - <b>Right-Click</b> to "
+"set the <b>slider</b> to 100%"
+msgstr ""
+
+#: i18n.instr.h:1
+msgid "Acoustic Guitar"
+msgstr "Akustická gitara"
+
+#: i18n.instr.h:2
+msgid "Audio File"
+msgstr "Zvukový súbor"
+
+#: i18n.instr.h:3
+msgid "Bass Drum"
+msgstr "Basový bubon"
+
+#: i18n.instr.h:4
+msgid "Bass Guitar"
+msgstr "Basová gitara"
+
+#: i18n.instr.h:5
+msgid "Cello"
+msgstr "Violončelo"
+
+#: i18n.instr.h:6
+msgid "Cymbal"
+msgstr "Činely"
+
+#: i18n.instr.h:7
+msgid "Drum Kit"
+msgstr "Perkusie"
+
+#: i18n.instr.h:8
+msgid "Effect"
+msgstr "Efekt"
+
+#: i18n.instr.h:9
+msgid "Electric Guitar"
+msgstr "Elektrická gitara"
+
+#: i18n.instr.h:10
+msgid "Harmonica"
+msgstr "Ústna harmonika"
+
+#: i18n.instr.h:11
+msgid "Keyboard"
+msgstr "Klávesy"
+
+#: i18n.instr.h:12
+msgid "Other"
+msgstr "Iné"
+
+#: i18n.instr.h:13
+msgid "Saxophone"
+msgstr "Saxofón"
+
+#: i18n.instr.h:14
+msgid "Snare"
+msgstr "Malý bubon"
+
+#: i18n.instr.h:15
+msgid "Tom Tom"
+msgstr "Tom Tom"
+
+#: i18n.instr.h:16
+msgid "Trumpet"
+msgstr "Trúbka"
+
+#: i18n.instr.h:17
+msgid "Violin"
+msgstr "Husle"
+
+#: i18n.instr.h:18
+msgid "Vocal"
+msgstr "Spev"
+
+#~ msgid "<b>Recent Projects</b>"
+#~ msgstr "<b>Nedávne projekty</b>"
+
+#~ msgid "Change Jokosher preferences"
+#~ msgstr "Zmeniť nastavenia"
+
+#~ msgid "Choose a chain effects preset."
+#~ msgstr "Zktoré reťazové efekty sú prítomné"
+
+#~ msgid "Choose an effect preset."
+#~ msgstr "Vybrať predvoľbu efektu."
+
+#~ msgid "Create the project"
+#~ msgstr "Vytvoriť projekt"
+
+#~ msgid "Don't create the project"
+#~ msgstr "Nevytvoriť nový projekt"
+
+#~ msgid ""
+#~ "Enter a name for your project and select a folder to store the project in:"
+#~ msgstr "Vlož názov pre tvoj projekt a vyber priečinok kam sa projekt uloží:"
+
+#~ msgid "Enter the author's name"
+#~ msgstr "Zadaj meno autora"
+
+#~ msgid "Enter the project's name"
+#~ msgstr "Zadaj názov projektu"
+
+#~ msgid "Open a recent project"
+#~ msgstr "Otvoriť posledný projekt"
+
+#~ msgid "Redo"
+#~ msgstr "Opakovať vrátené"
+
+#~ msgid "Save a copy of the current project"
+#~ msgstr "Uložiť kópiu projektu"
+
+#~ msgid "Undo"
+#~ msgstr "Vrátiť späť"
+
+#~ msgid "Welcome to Jokosher!"
+#~ msgstr "Vitaj v Jokosher!"
+
+#~ msgid "_Contributing to Jokosher"
+#~ msgstr "_Prispievanie do Jokosher"
+
+#~ msgid "_Online Forums"
+#~ msgstr "_Internetové fórum"
+
+#~ msgid "_Recent Projects"
+#~ msgstr "_Nedávne projekty"
+
+#~ msgid "Jokosher Project File (*.jokosher)"
+#~ msgstr "Súbor projektu Jokoser (*.jokosher)"
+
+#~ msgid "Choose a location to save the project"
+#~ msgstr "Vyberte lokáciu na uloženie projektu"
+
+#~ msgid ""
+#~ "<span size='large' weight='bold'>Save changes to project \"%s\" before "
+#~ "closing?</span>\n"
+#~ "\n"
+#~ "Your changes will be lost if you don't save them."
+#~ msgstr ""
+#~ "<span size='large' weight='bold'>Uložiť zmeny do projektu \"%s\" pred "
+#~ "zatvorením?</span>\n"
+#~ "\n"
+#~ "Vaše zmeny budú stratené ak ich neuložíte."
+
+#~ msgid "Close _Without Saving"
+#~ msgstr "Zatvoriť _bez uloženia"
+
+#~ msgid "Clear the list of recent projects"
+#~ msgstr "Vyčistiť zoznam nedávnych projektov"
+
+#~ msgid "Select A Folder"
+#~ msgstr "Vyber priečinok"
+
+#~ msgid "Don't load extensions or last project on startup (same as -ne)"
+#~ msgstr ""
+#~ "Nenačítavať pri štarte rozšírenia alebo posledný projekt (to isté ako -ne)"
+
+#~ msgid "Force the welcome dialog to show on startup"
+#~ msgstr "Vynútiť zobrazenie uvítacieho dialógu pri spustení"
+
+#~ msgid "Force Jokosher to load without a welcome dialog or project"
+#~ msgstr ""
+#~ "Vynútiť spustenie aplikácie Jokosher bez uvítacieho dialógu a projektu"
+
+#~ msgid "<big>Couldn't launch the Yelp help browser.</big>"
+#~ msgstr "<big>Nepodarilo sa spustiť prehliadač pomocníka Yelp.</big>"
+
+#~ msgid "<b>Audio Output Plugin</b>"
+#~ msgstr "<b>Rozšírenie pre zvukový výstup</b>"
+
+#~ msgid "<b>Recorded Audio Format</b>"
+#~ msgstr "<b>Záznamový audio formát</b>"
+
+#~ msgid "<b>Recording Sample Rate</b>"
+#~ msgstr "<b>Vzorkovacia frekvencia nahrávania</b>"
+
+#~ msgid ""
+#~ "Autodetect\n"
+#~ "ALSA\n"
+#~ "Custom"
+#~ msgstr ""
+#~ "Autodetekcia\n"
+#~ "ALSA\n"
+#~ "Vlastné"
+
+#~ msgid ""
+#~ "No channels capable of recording have been found, please attach a device "
+#~ "and try again."
+#~ msgstr ""
+#~ "Nenašiel sa žiaden zvukový kanál schopný nahrávania, prosím pripojte "
+#~ "zariadenie a skúste znova"
+
+#~ msgid ""
+#~ "Your sound card isn't capable of recording from multiple sources at the "
+#~ "same time. Please disarm all but one instrument."
+#~ msgstr ""
+#~ "Vaša zvuková karta nedokáže nahrávať z viacerých zdrojov v rovnakom čase. "
+#~ "Prosím odpojte všetky nástroje okrem jedného."
+
+#~ msgid ""
+#~ "You require the GStreamer channel splitting element to be able to record "
+#~ "from multiple input devices. This can be downloaded from http://www."
+#~ "jokosher.org/download."
+#~ msgstr ""
+#~ "Potrebujete Gstreamer rozdelujúci element aby ste mohli nahrávať z "
+#~ "viacerých vstupov. Tento sa dá stiahnuť z http://www.jokosher.org/"
+#~ "download."
+
+#~ msgid "Argh! Something went wrong and a serious error occurred:"
+#~ msgstr "Grr! Niečo sa pokazilo a vyskytla sa vážna chyba:"
+
+#, fuzzy
+#~ msgid "Files Saves As"
+#~ msgstr "Ukladať súbory ako"
+
+#, fuzzy
+#~ msgid ""
+#~ "Use the combo boxes below to select which input is used with which "
+#~ "instrument"
+#~ msgstr ""
+#~ "Použi combo box dole na výber ktorý vstup je použitý s ktorým nástrojom"
+
+#~ msgid "Beat value"
+#~ msgstr "Počet úderov"
+
+#~ msgid "Pipeline:"
+#~ msgstr "Pipeline:"
+
+#~ msgid "Export as"
+#~ msgstr "Exportovať ako"
+
+#~ msgid "Run external script"
+#~ msgstr "Spustiť externý skript"
+
+#~ msgid "Hz"
+#~ msgstr "Hz"
+
+#~ msgid "<b>Drag</b> the <b>slider</b> to alter volume levels"
+#~ msgstr "<b>Ťahním posuvníka</b> upravíte hlasitosť"
+
+#~ msgid ""
+#~ "16 bit\n"
+#~ "24 bit\n"
+#~ "32 bit"
+#~ msgstr ""
+#~ "16 bit\n"
+#~ "24 bit\n"
+#~ "32 bit"
+
+#~ msgid ""
+#~ "96000\n"
+#~ "48000\n"
+#~ "44100\n"
+#~ "32000\n"
+#~ "24000\n"
+#~ "22050\n"
+#~ "16000\n"
+#~ "11025\n"
+#~ "8000"
+#~ msgstr ""
+#~ "96000\n"
+#~ "48000\n"
+#~ "44100\n"
+#~ "32000\n"
+#~ "24000\n"
+#~ "22050\n"
+#~ "16000\n"
+#~ "11025\n"
+#~ "8000"
+
+#~ msgid ""
+#~ "<b>To find out more, visit:</b>\n"
+#~ "http://www.jokosher.org/contribute"
+#~ msgstr ""
+#~ "<b>Pre viac informácií naštív:</b>\n"
+#~ "http://www.jokosher.org/contribute"
+
+#~ msgid "Device"
+#~ msgstr "Zariadenie"
+
+#~ msgid "General"
+#~ msgstr "Všeobecné"
+
+#~ msgid "Output Format"
+#~ msgstr "Výstupný formát"
+
+#~ msgid "Pre-release Notes"
+#~ msgstr "Poznámky k vydaniu"
+
+#~ msgid "Presets"
+#~ msgstr "Predvoľby"
+
+#~ msgid "Preview"
+#~ msgstr "Náhľad"
+
+#~ msgid "Sample Rate (Hz)"
+#~ msgstr "Frekvencia vzorkovania"
+
+#~ msgid ""
+#~ "Wave\n"
+#~ "FLAC\n"
+#~ "Ogg Vorbis"
+#~ msgstr ""
+#~ "Wave\n"
+#~ "FLAC\n"
+#~ "Ogg Vorbis"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Slovenský prekladateľský tím Ubuntu\n"
+#~ "\n"
+#~ "Launchpad Contributions:\n"
+#~ "  Peter Baričič https://launchpad.net/~denton-sk\n"
+#~ "  helix84 https://launchpad.net/~helix84"
+
+#~ msgid ""
+#~ "The instruments '%s' and '%s' both have the same input selected (%s). "
+#~ "Please either disarm one, or connect it to a different input through "
+#~ "'Project -> Instrument Connections'"
+#~ msgstr ""
+#~ "Nástroje '%s' a '%s' majú zvolený rovnaký vstup (%s). Prosím buď odpojte "
+#~ "jeden, alebo ho pripojte na iný vstup cez 'Projekt -> Pripojenia "
+#~ "nástrojov'"
+
+#~ msgid ""
+#~ "No instruments are armed for recording. You need to arm an instrument "
+#~ "before you can begin recording."
+#~ msgstr ""
+#~ "Žiadne nástroje nie sú zapojené na nahrávanie. Je treba zapojiť nástroj "
+#~ "pred začiatkom nahrávania záznamu."
+
+#, fuzzy
+#~ msgid ""
+#~ "No channels capable of recording have found, please attach a device and "
+#~ "try again."
+#~ msgstr ""
+#~ "Nenašiel sa žiaden zvukový kanál schopný nahrávania, prosím pripojte "
+#~ "zariadenie a skúste znova"
+
+#~ msgid "%d of %d seconds completed"
+#~ msgstr "%d z %d sekúnd dokončených"
+
+#~ msgid ""
+#~ "<big>Notes about this release</big>\n"
+#~ "\n"
+#~ "This version of Jokosher (0.1) is a pre-release version, and is infact, "
+#~ "our very first release. As such, you may encounter some bugs and "
+#~ "functionality that is not present."
+#~ msgstr ""
+#~ "<big>Poznámky k tomuto vydaniu</big>\n"
+#~ "\n"
+#~ "Táto verzia Jokosher (0.1) je testovacie vydanie a v skutočnosti aj naše "
+#~ "prvé vydanie. Z tohoto dôvodu môžete naraziť na chyby alebo funkčnosť, "
+#~ "ktorá nie je prítomná."
+
+#~ msgid "Import file..."
+#~ msgstr "Importovať súbor..."
+
+#~ msgid ""
+#~ "<b>NOTE</b>: The volume sliders in this pre-release version of Jokosher "
+#~ "do not affect the audio."
+#~ msgstr ""
+#~ "<b>POZNÁMKA</b>: Posuvníky hlasitosti nemajú v tejto verzii Jokosher "
+#~ "vplyv na zvuk."
+
+#~ msgid "Save Files As"
+#~ msgstr "Uložiť súbory ako"
+
+#~ msgid "foo"
+#~ msgstr "foo"
+
+#~ msgid ""
+#~ "%s\n"
+#~ "\n"
+#~ "File is corrupt, not an audio file, or the associated plugin is not "
+#~ "installed"
+#~ msgstr ""
+#~ "%s\n"
+#~ "\n"
+#~ "Súbor je poškodený, alebo nie je zvukový súbor, alebo nie je "
+#~ "nainštalované požadované rozšírenie"
+
+#~ msgid "Muted"
+#~ msgstr "Bez zvuku"
+
+#~ msgid "Unmuted"
+#~ msgstr "So zvukom"
+
+#~ msgid "Add this step to the current mixdown"
+#~ msgstr "Pridať tento krok do súčasného mixdownu"
+
+#~ msgid "Audio production made simple."
+#~ msgstr "Tvorba hudby jednoducho."
+
+#~ msgid "Device:"
+#~ msgstr "Zariadenie:"
+
+#~ msgid "Don't open anything"
+#~ msgstr "Nič neotvoriť"
+
+#~ msgid "FastForward"
+#~ msgstr "RýchlePretáčanie"
+
+#~ msgid "Output:"
+#~ msgstr "Výstup:"
+
+#~ msgid "Preferences"
+#~ msgstr "Nastavenie"
+
+#~ msgid "Recording Workspace"
+#~ msgstr "Nahrávací priestor"
+
+#~ msgid "Search:"
+#~ msgstr "Nájsť:"
+
+#~ msgid "Show welcome dialog"
+#~ msgstr "Zobraziť uvítacú obrazovku"
+
+#~ msgid "Stop"
+#~ msgstr "Zastaviť"
+
+#~ msgid "Switch to the Mixing workspace"
+#~ msgstr "Prepnúť na mixážnu plochu"
+
+#~ msgid "Switch to the Recording workspace"
+#~ msgstr "Prepnúť na nahrávaciu plochu"
+
+#~ msgid "Workspaces"
+#~ msgstr "Pracovné plochy"
+
+#~ msgid "version 0.9"
+#~ msgstr "verzia 0.9"
+
+#, fuzzy
+#~ msgid "Currently working in the Recording workspace"
+#~ msgstr "Prepnúť na nahrávaciu plochu"
+
+#, fuzzy
+#~ msgid "Currently working in the Mixing workspace"
+#~ msgstr "Prepnúť na mixážnu plochu"
+
+#, fuzzy
+#~ msgid "Export file"
+#~ msgstr "Importovať súbor..."
+
+#, fuzzy
+#~ msgid "_Project"
+#~ msgstr "Nový projekt"
+
+#, fuzzy
+#~ msgid "Mixdown as"
+#~ msgstr "Zmixuj projekt"
+
+#, fuzzy
+#~ msgid "<b>Audio Mixdown</b>"
+#~ msgstr "<b>Kódovanie</b>"
+
+#, fuzzy
+#~ msgid "<b>Audio Quality</b>"
+#~ msgstr "<b>Umenie</b>"
+
+#, fuzzy
+#~ msgid "<b>Quality</b>"
+#~ msgstr "<b>Umenie</b>"
+
+#, fuzzy
+#~ msgid "Contributing to Jokosher"
+#~ msgstr "_Prispievanie do Jokosher"
+
+#, fuzzy
+#~ msgid "Instrument Connections"
+#~ msgstr "Efekty nástrojov"
+
+#, fuzzy
+#~ msgid "Playback"
+#~ msgstr "Zastaviť prehrávanie"
+
+#, fuzzy
+#~ msgid "Recent Projects"
+#~ msgstr "_Nedávne projekty"
+
+#, fuzzy
+#~ msgid "Sample Format"
+#~ msgstr "_Časový formát"
+
+#, fuzzy
+#~ msgid "Select an effect"
+#~ msgstr "_Aktivovať efekt"
+
+#, fuzzy
+#~ msgid "Select an effect to add to the instrument"
+#~ msgstr "Vyberte projekt k otvoreniu zo zoznamu"
+
+#, fuzzy
+#~ msgid "Select an instrument, then click here to begin recording"
+#~ msgstr "Pripoj nástroj, potom klikni na spustenie nahrávania"
+
+#, fuzzy
+#~ msgid "Show as Hours, Minutes, Seconds"
+#~ msgstr "Zobraziť ako _Hodiny, Minúty, Sekundy"
+
+#, fuzzy
+#~ msgid "Time Format"
+#~ msgstr "_Časový formát"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "See http://jokosher.org/trac/wiki/GettingJokosher for more details.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Pozri podrobnosti v http://doc.jokosher.org/Installation\n"
+
+#, fuzzy
+#~ msgid "Import Audio File..."
+#~ msgstr "Pridať zvukový súbor..."
+
+#, fuzzy
+#~ msgid "Paste"
+#~ msgstr "Fázovače"
+
+#, fuzzy
+#~ msgid "Delete"
+#~ msgstr "_Odstrániť"
+
+#, fuzzy
+#~ msgid "Split"
+#~ msgstr "_Rozdeliť"
+
+#, fuzzy
+#~ msgid "Cut"
+#~ msgstr "Vy_strihnúť"
+
+#, fuzzy
+#~ msgid "Copy"
+#~ msgstr "_Kopírovať"
+
+#, fuzzy
+#~ msgid "Instrument Effects..."
+#~ msgstr "Efekty nástrojov"
+
+#, fuzzy
+#~ msgid "Master Volume"
+#~ msgstr "Hlasitosť:"
+
+#, fuzzy
+#~ msgid "Volume: %.2f"
+#~ msgstr "Hlasitosť:"
+
+#, fuzzy
+#~ msgid "_Extensions"
+#~ msgstr "Ro_zšírenia"
+
+#, fuzzy
+#~ msgid "Solo - silence all other instruments"
+#~ msgstr "Aktivovať sólo - umlčať ostatné nástroje"
+
+#, fuzzy
+#~ msgid "Remove curently selected extension"
+#~ msgstr "Odstrániť zvolené rozšírenie"
+
+#, fuzzy
+#~ msgid "<b>Presets for:</b>"
+#~ msgstr "<b>Aktívne efekty pre: </b>"
+
+#, fuzzy
+#~ msgid "Add a new instrument"
+#~ msgstr "Pridať nástroj"
+
+#, fuzzy
+#~ msgid "Add a new step:"
+#~ msgstr "Pridať nástroj"
+
+#, fuzzy
+#~ msgid "Author"
+#~ msgstr "Neznámy autor"
+
+#, fuzzy
+#~ msgid "Beats per measure"
+#~ msgstr "Úderov za minútu"
+
+#, fuzzy
+#~ msgid "Browse for an Existing Project"
+#~ msgstr "Otvoriť existujúci projekt"
+
+#, fuzzy
+#~ msgid "Create a New Project"
+#~ msgstr "Vytvoriť nový projekt"
+
+#, fuzzy
+#~ msgid "Don't show this on start-up"
+#~ msgstr "Nenahrávať rozšírenia pri štarte"
+
+#, fuzzy
+#~ msgid "Folder"
+#~ msgstr "Filtre"
+
+#, fuzzy
+#~ msgid "Mixing"
+#~ msgstr "Mixovanie projektu"
+
+#, fuzzy
+#~ msgid "Mixing Workspace"
+#~ msgstr "Mixovanie projektu"
+
+#, fuzzy
+#~ msgid "Open Selected Project"
+#~ msgstr "Otvoriť posledný projekt"
+
+#, fuzzy
+#~ msgid "Open most recent project"
+#~ msgstr "Otvoriť posledný projekt"
+
+#, fuzzy
+#~ msgid "Project Name"
+#~ msgstr "Nový projekt"
+
+#, fuzzy
+#~ msgid "Record"
+#~ msgstr "Nahrávam..."
+
+#, fuzzy
+#~ msgid "Recording"
+#~ msgstr "Nahrávam..."
+
+#, fuzzy
+#~ msgid "Remove Selected Instrument"
+#~ msgstr "Odstrániť zvolený nástroj"
+
+#, fuzzy
+#~ msgid "Rewind"
+#~ msgstr "Opakovať vrátené"
+
+#, fuzzy
+#~ msgid "Save these mixdown settings"
+#~ msgstr "Použiť tieto nastavenia"
+
+#, fuzzy
+#~ msgid "_Add Instrument"
+#~ msgstr "Pridať nástroj"
+
+#, fuzzy
+#~ msgid "_Manage Extensions"
+#~ msgstr "Ro_zšírenia"
+
+#, fuzzy
+#~ msgid "_Mixdown Project"
+#~ msgstr "Zmixuj projekt"
+
+#, fuzzy
+#~ msgid "_Mixdown the project"
+#~ msgstr "Zmixuj projekt"
+
+#, fuzzy
+#~ msgid "_Recording Inputs"
+#~ msgstr "Nahrávam..."
+
+#, fuzzy
+#~ msgid "_Save these settings"
+#~ msgstr "Použiť tieto nastavenia"
+
+#, fuzzy
+#~ msgid "_Paste"
+#~ msgstr "Fázovače"
+
+#, fuzzy
+#~ msgid "_Mixdown as"
+#~ msgstr "Zmixuj projekt"
+
+#, fuzzy
+#~ msgid "Choose a name for this profile"
+#~ msgstr "Vyberte súbor projektu Jokosher"
+
+#, fuzzy
+#~ msgid "Run script %s"
+#~ msgstr "Chyba v skripte %s"
+
+#, fuzzy
+#~ msgid "No such script %s"
+#~ msgstr "Chyba v skripte %s"
+
+#, fuzzy
+#~ msgid "Zoom the timeline"
+#~ msgstr "Zmeniť časovú os"
